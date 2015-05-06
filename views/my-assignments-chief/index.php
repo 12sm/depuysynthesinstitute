@@ -8,7 +8,7 @@
       DePuy Synthes Institute
     </title>
     <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
-    <meta charset="UTF-8"/>
+    <meta charset="UTF-8" />
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <meta name="siteName" content="home" />
@@ -16,9 +16,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
 
-    <link href="../../css/vendor/bootstrap-custom.css" rel="stylesheet">
+    <link href="../../css/vendor/bootstrap-custom.css" rel="stylesheet" />
     <link href="../../css/vendor/modules.css" type="text/css" rel="stylesheet" />
-    <link href="../../css/source/app.css" type="text/css" rel="stylesheet" title="main"/>
+    <link href="../../css/source/app.css" type="text/css" rel="stylesheet" title="main" />
 
 
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
@@ -124,7 +124,7 @@
                 <li class=""><a href="/graduation-resources" class="">Graduation Resources<span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
                 <li class=""><a href="/external-resources" class="">External Resources<span class="pull-right glyphicon icon-external-resources"></span></a></li>
                 <li class=""><a href="/calendar" class="">Course Calendar<span class="pull-right glyphicon icon-calendar"></span></a></li>
-                <li class=""><a href="/calendar" class="">FAQs<span class="pull-right glyphicon icon-faq"></span></a></li>
+                <li class=""><a href="/faq" class="">FAQs<span class="pull-right glyphicon icon-faq"></span></a></li>
                 <li class=""><a href="/contact" class="">Contact Us<span class="pull-right glyphicon icon-contact"></span></a></li>
 
                 <li class="mobile-nav-break"></li>
@@ -149,9 +149,39 @@
             </div>
           </form>
         </header>
+
+
+
+        <div id="smt_col1Wrapper">
+          <div id="smt_col1">
+            <div class="modSpacer">
+              <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2">
+                  Resident View
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2">
+                  Admin View
+                </div>
+              </div>
+            </div>
+            <div class="modSpacer">
+              <div class="row">
+                <div class="col-xs-12">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2">
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-2 col-lg-2">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+
+
       </div>
-
-
     </div>
 
 
