@@ -11,7 +11,7 @@ body {
 }
 
 .main_wrapper {
-    background:url(../images/nav-tile.jpg) repeat left top
+    background:url(../../img/nav-tile.jpg) repeat left top
 }
 
 .left_column {
@@ -657,7 +657,7 @@ nav.main_nav li.active .glyphicon {
 
 .mobile_header {
     padding:10px 15px;
-    background:url(../images/logo-mobile.png) no-repeat -15px 0 #FFF
+    background:url(../../img/logo-mobile.png) no-repeat -15px 0 #FFF
 }
 
 .mobile_header .login.pull-right {
@@ -876,7 +876,7 @@ body ul.list-unstyled.nav_list li:nth-last-child(2) {
 	padding:10px!important;
 }
 
-.sub-nav a span {
+.sub-nav a span.second {
 	color: #003c60!important;
 	font-size: 14px!important;
 	position: absolute;
@@ -924,7 +924,7 @@ ul.nursing-menu.list-unstyled.nav_list li:nth-last-child(4):hover  {
 .mobile-nav {
     width:100%;
     border-radius:0;
-    background:url(../images/nav-tile.jpg) repeat left top;
+    background:url(../../img/nav-tile.jpg) repeat left top;
     padding:0
 }
 
@@ -1022,7 +1022,7 @@ a.nav_home .glyphicon.icon-home {
 a.nav_calendar .glyphicon.icon-cal {
 }
 
-.dropdown-menu > .active > a {
+.dropdown-menu > li > a.current {
     color:#fff;
     text-decoration:none;
     outline:0;
@@ -2525,7 +2525,7 @@ li.nav-home,li.nav-calendar {
 .right_column {
     background:#E4E4E2;
     background-size:contain;
-    background:url(../images/nav-tile.jpg) repeat left top
+    background:url(../../img/nav-tile.jpg) repeat left top
 }
 
 .mobile_header {
