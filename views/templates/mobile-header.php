@@ -1,35 +1,35 @@
 <header class="mobile_header visible-xs-block clearfix">
   <div class="white-bg">
-    <a href="/" class="logoLink">
+    <a href="http://localhost/~Prometheus_Boombox/depuy-institute/" class="logoLink">
     </a>
     <h1 class="logo">
       Depuy Synthes Institute - advancing education and research
     </h1>
     <div id="mobileDropdown" class="dropdown mobile_nav_button pull-left">
       <button class="btn btn-info btn-block dropdown-toggle" type="button" data-toggle="dropdown">
-        <span id="thatOne"></span>
+        My Assignments
         <span id="mobileNavIcon" class="glyphicon icon-caret-down">
         </span>
       </button>
       <ul class="dropdown-menu mobile-nav">
 
-        <li class=""><a href="/profile" class=""><span>My Profile</span><span class="pull-right glyphicon icon-profile"></span></a></li>
-        <li class=""><a href="/favorites" class=""><span>My Favorites</span><span class="pull-right glyphicon icon-favorites"></span></a></li>
-        <li class=""><a href="views/my-assignments-resident/index.php" class=""><span>My Assignments</span><span class="pull-right glyphicon icon-assignments"></span></a></li>
+        <li class=""><a href="/profile" class="">My Profile<span class="pull-right glyphicon icon-profile"></span></a></li>
+        <li class=""><a href="/favorites" class="">My Favorites<span class="pull-right glyphicon icon-favorites"></span></a></li>
+        <li class="active"><a href="/my-assignments" class="">My Assignments<span class="pull-right glyphicon icon-assignments"></span></a></li>
 
-        <li class=""><a href="/"><span>Home</span><span class="pull-right glyphicon icon-home"></span></a></li>
-        <li class=""><a href="/knowledge-center" class=""><span>Knowledge Center</span><span class="pull-right glyphicon icon-knowledge-center"></span></a></li>
-        <li class=""><a href="/redemption-center" class=""><span>Redemption Center</span><span class="pull-right glyphicon icon-redemption-center"></span></a></li>
-        <li class=""><a href="/graduation-resources" class=""><span>Graduation Resources</span><span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
-        <li class=""><a href="/external-resources" class=""><span>External Resources</span><span class="pull-right glyphicon icon-external-resources"></span></a></li>
-        <li class=""><a href="/calendar" class=""><span>Course Calendar</span><span class="pull-right glyphicon icon-calendar"></span></a></li>
-        <li class=""><a href="/faq" class=""><span>FAQs</span><span class="pull-right glyphicon icon-faq"></span></a></li>
-        <li class=""><a href="/contact" class=""><span>Contact Us</span><span class="pull-right glyphicon icon-contact"></span></a></li>
+        <li class=""><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
+        <li class=""><a href="/knowledge-center" class="">Knowledge Center<span class="pull-right glyphicon icon-knowledge-center"></span></a></li>
+        <li class=""><a href="/redemption-center" class="">Redemption Center<span class="pull-right glyphicon icon-redemption-center"></span></a></li>
+        <li class=""><a href="/graduation-resources" class="">Graduation Resources<span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
+        <li class=""><a href="/external-resources" class="">External Resources<span class="pull-right glyphicon icon-external-resources"></span></a></li>
+        <li class=""><a href="/calendar" class="">Course Calendar<span class="pull-right glyphicon icon-calendar"></span></a></li>
+        <li class=""><a href="/faq" class="">FAQs<span class="pull-right glyphicon icon-faq"></span></a></li>
+        <li class=""><a href="/contact" class="">Contact Us<span class="pull-right glyphicon icon-contact"></span></a></li>
 
         <li class="mobile-nav-break"></li>
-        <li class="sub-nav"><a href="/surgeon-education"><span>Surgeon Education</span><span class="second glyphicon icon-caret-right"></span></a></li>
-        <li class="sub-nav"><a href="/nurse-education"><span>Nurse Education<span><span class="second glyphicon icon-caret-right"></span></a></li>
-        <li class="sub-nav"><a href="/veterinary"><span>Veterinary Education<span><span class="second glyphicon icon-caret-right"></span></a></li>
+        <li class="sub-nav"><a href="/surgeon-education">Surgeon Education<span class="glyphicon icon-caret-right"></span></a></li>
+        <li class="sub-nav"><a href="/nurse-education">Nurse Education<span class="glyphicon icon-caret-right"></span></a></li>
+        <li class="sub-nav"><a href="/veterinary">Veterinary Education<span class="glyphicon icon-caret-right"></span></a></li>
 
       </ul>
     </div>

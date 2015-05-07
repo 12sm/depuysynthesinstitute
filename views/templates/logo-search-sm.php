@@ -1,5 +1,5 @@
 <div class="column_header">
-  <a href="/">
+  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/">
     <img alt="Depuy Synthes Institute - advancing education and research" border="0" class="hidden-xs" src="../../img/depuy-logo.png" />
   </a>
   <div class="search">
