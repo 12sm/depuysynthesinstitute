@@ -40,8 +40,15 @@
   </head>
 
   <body>
-    <a href='views/my-assignments/resident.php'><h1></h1>Resident</a>
-    <a href='views/my-assignments/director.php'><h1></h1>Director</a>
-    <a href='views/my-assignments/chief.php'><h1></h1>Chief</a>
+    <h2>Resident Views</h2>
+    <a href='views/my-assignments/resident.php'><h2></h2>Resident</a>
+    <a href='views/my-assignments/show-random.php'><h2></h2>Show Non-Ordered Assignment</a>
+    <a href='views/my-assignments/show-ordered.php'><h2></h2>Show Ordered Assignment</a>
+    <h2>Director Views</h2>
+    <a href='views/my-assignments/director.php'><h2></h2>Director</a>
+    <h2>Chief Views</h2>
+    <a href='views/my-assignments/chief.php'><h2></h2>Chief</a>
+    <h2>Miscellaneous Views</h2>
+    <a href='views/partner-site-button/partner.php'><h2></h2>Partner</a>
   </body>
 </html>

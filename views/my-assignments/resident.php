@@ -8,8 +8,6 @@
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
       </div>
-
-
       <div class="right_column col-xs-12 col-sm-8 col-md-9">
         <?php include '../templates/mobile-header.php';?>
 
@@ -51,7 +49,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-ordered.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -81,7 +79,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-ordered.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -111,7 +109,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-ordered.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -141,7 +139,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-ordered.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -192,7 +190,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-random.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -222,7 +220,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-random.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -252,7 +250,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-random.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -282,7 +280,7 @@
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      Name Of Resident Assignment
+                      <a href="show-random.php">Name Of Resident Assignment</a>
                     </div>
                   </div>
                   <div class="row">
@@ -302,7 +300,6 @@
 
 
         <?php include '../templates/footer.php';?>
-
       </div>
     </div>
     <?php include '../templates/scripts.php';?>
