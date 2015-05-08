@@ -1,3 +1,6 @@
+<a href="/" class="btn btn-warning">
+  <h1>Sarah's Home Button</h1>
+</a>
 <div class="column_header">
   <a href="http://localhost/~Prometheus_Boombox/depuy-institute/">
     <img alt="Depuy Synthes Institute - advancing education and research" border="0" class="hidden-xs" src="../../img/depuy-logo.png" />

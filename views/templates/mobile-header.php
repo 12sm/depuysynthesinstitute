@@ -1,4 +1,7 @@
 <header class="mobile_header visible-xs-block clearfix">
+  <a href="/" class="btn btn-warning">
+    <h1>Sarah's Home Button</h1>
+  </a>
   <div class="white-bg">
     <a href="http://localhost/~Prometheus_Boombox/depuy-institute/" class="logoLink">
     </a>
