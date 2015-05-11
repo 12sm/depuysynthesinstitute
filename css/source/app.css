@@ -1,1 +1,11 @@
-New Styles
+.checkBiz {
+  padding-right: 35px !important;
+}
+
+.checkComplete {
+  width: 50px;
+}
+
+.showInline {
+  display: inline-block;
+}
