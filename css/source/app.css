@@ -1,17 +1,42 @@
-<<<<<<< Updated upstream
+/* ===========================
+   12SM Helper Classes
+   =========================== */
+
+.left {
+  text-align:left!important;
+}
+
+.right {
+  text-align:right!important;
+}
+
+.center {
+  text-align:center!important;
+}
+
+
+
 /* ===========================
    MY ASSIGNMENTS
    =========================== */
 
 /* ------ RESIDENT ------- */
 
-div#smt_col1Wrapper {
+.padding-wrap {
   padding: 0px 15px;
+}
+
+.current-assignments h2, .past-assignments h2 {
+  text-shadow:none;
+}
+
+.current-assignments {
+  margin-top:10px;
 }
 
 span.assignment-heading {
   color: #000!important;
-  font-size: 12px;
+  font-size: 12px!important;
   font-weight: 200;
   letter-spacing: -0.2px;
   font-size: 10px;
@@ -35,4 +60,69 @@ span.assignment-heading {
   font-weight: 200;
   letter-spacing: -0.2px;
   font-size: 10px;
+}
+
+.current-assignments h3.course_description {
+  text-shadow: 0 1px 0 rgba(255,255,255,.6)!important;
+}
+
+hr {
+  box-shadow: 0 -1px 0 0px rgba(21,21,21,.05);
+}
+
+.cal-completed p.calendar_date {
+  color: #A7A8AA;
+}
+
+.cal-completed .calendar_month {
+  font-weight: 100;
+  background:#A7A8AA;
+  text-shadow: 0 -1px 0 #A7A8AA;
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#D2D3CF),to(#A7A8AA));
+  background-image: -webkit-linear-gradient(#D2D3CF,#A7A8AA);
+  background-image: -moz-linear-gradient(#D2D3CF,#A7A8AA),-moz-linear-gradient(#D2D3CF,#A7A8AA);
+  background-image: -o-linear-gradient(#D2D3CF,#A7A8AA),-o-linear-gradient(#D2D3CF,#A7A8AA);
+  background-image: linear-gradient(#D2D3CF,#A7A8AA),linear-gradient(#D2D3CF,#A7A8AA);
+}
+
+.past-assignments {
+  margin-top: 24px;
+}
+
+
+
+
+
+/* ===========================
+   MEDIA QUERIES
+   =========================== */
+
+
+@media only screen and (max-width: 320px) {
+
+
+}
+
+@media only screen and (min-width: 768px) {
+
+  .padding-wrap {
+    padding: 0px 20px;
+  }
+
+}
+
+@media only screen and (min-width: 1024px) {
+
+  .padding-wrap {
+    padding: 0px 25px;
+  }
+
+}
+
+@media only screen and (min-width: 1280px) {
+
+  .padding-wrap {
+    padding: 0px 30px;
+  }
+
 }

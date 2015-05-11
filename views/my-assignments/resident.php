@@ -14,29 +14,29 @@
 
 
         <div id="smt_col1Wrapper">
-          <div id="smt_col1">
+          <div id="smt_col1" class="padding-wrap">
             <div class="modSpacer current-assignments">
               <div class="row">
                 <div class="col-xs-12">
-                  <h1>My Current Assignments</h1>
+                  <h2>My Current Assignments</h2>
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
                   <h5>
                     <span class="assignment-heading">
                       Due Date
                     </span>
                   </h5>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                   <h5>
                     <span class="assignment-heading">
                       Assignment
                     </span>
                   </h5>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <h5>
                     <span class="assignment-heading">
                       Completed
@@ -168,46 +168,58 @@
 
 
 
-            <div class="modSpacer">
+            <div class="modSpacer past-assignments">
               <div class="row">
                 <div class="col-xs-12">
-                  <h1>My Past Assignments</h1>
+                  <h2>My Past Assignments</h2>
                 </div>
               </div>
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <h5>Expired</h5>
+                  <h5>
+                    <span class="assignment-heading">
+                      Expired
+                    </span>
+                  </h5>
                 </div>
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                  <h5>Assignment</h5>
+                  <h5>
+                    <span class="assignment-heading">
+                      Assignment
+                    </span>
+                  </h5>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <h5>Completed</h5>
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
+                  <h5>
+                    <span class="assignment-heading">
+                      Completed
+                    </span>
+                  </h5>
                 </div>
               </div>
               <hr>
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      MAR
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-12">
-                      20
+                  <div class="pull-left">
+                    <div class="calendar cal-completed">
+                      <p class="calendar_month">MAR</p>
+                      <p class="calendar_date">20</p>
                     </div>
                   </div>
                 </div>
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      <a href="show-random.php">Name Of Resident Assignment</a>
+                      <h3 class="course_description">
+                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                      </h3>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      2 PDFs, 3 Videos, 2 Journal Articles, 1 Podcast, 1 Course, 1 Event
+                      <p class="course_contents course_location">
+                        2 PDFs, 3 Videos, 2 Journal Articles, 1 Podcast, 1 Course, 1 Event
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -218,26 +230,26 @@
               <hr>
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      JAN
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-12">
-                      5
+                  <div class="pull-left">
+                    <div class="calendar cal-completed">
+                      <p class="calendar_month">JAN</p>
+                      <p class="calendar_date">5</p>
                     </div>
                   </div>
                 </div>
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      <a href="show-random.php">Name Of Resident Assignment</a>
+                      <h3 class="course_description">
+                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                      </h3>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      2 PDFs, 3 Videos
+                      <p class="course_contents course_location">
+                        2 PDFs, 3 Videos
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -248,26 +260,26 @@
               <hr>
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      DEC
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-12">
-                      18
+                  <div class="pull-left">
+                    <div class="calendar cal-completed">
+                      <p class="calendar_month">DEC</p>
+                      <p class="calendar_date">18</p>
                     </div>
                   </div>
                 </div>
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      <a href="show-random.php">Name Of Resident Assignment</a>
+                      <h3 class="course_description">
+                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                      </h3>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      7 Events
+                      <p class="course_contents course_location">
+                        7 Events
+                      </p>
                     </div>
                   </div>
                 </div>
@@ -278,26 +290,26 @@
               <hr>
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      OCT
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-12">
-                      11
+                  <div class="pull-left">
+                    <div class="calendar cal-completed">
+                      <p class="calendar_month">OCT</p>
+                      <p class="calendar_date">11</p>
                     </div>
                   </div>
                 </div>
                 <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                   <div class="row">
                     <div class="col-xs-12">
-                      <a href="show-random.php">Name Of Resident Assignment</a>
+                      <h3 class="course_description">
+                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                      </h3>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      3 Courses, 1 Event
+                      <p class="course_contents course_location">
+                        3 Courses, 1 Event
+                      </p>
                     </div>
                   </div>
                 </div>
