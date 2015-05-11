@@ -1,11 +1,37 @@
-.checkBiz {
-  padding-right: 35px !important;
+/* ===========================
+   MY ASSIGNMENTS
+   =========================== */
+
+/* ------ RESIDENT ------- */
+
+div#smt_col1Wrapper {
+  padding: 0px 15px;
 }
 
-.checkComplete {
-  width: 50px;
+span.assignment-heading {
+  color: #000!important;
+  font-size: 12px;
+  font-weight: 200;
+  letter-spacing: -0.2px;
+  font-size: 10px;
 }
 
-.showInline {
-  display: inline-block;
+.percentage-complete {
+  font-size: 12px;
+  font-weight: bold;
+  text-align: center;
+  color: #1e1e1e;
+}
+
+p.course_contents {
+  margin-top: 5px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
+}
+
+span.assignment-heading {
+  color: #000!important;
+  font-size: 12px;
+  font-weight: 200;
+  letter-spacing: -0.2px;
+  font-size: 10px;
 }
