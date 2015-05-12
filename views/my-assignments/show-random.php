@@ -163,7 +163,7 @@
                               <div class="row">
                                 <div class="col-xs-12">
                                   <p>
-                                    Video, 2:24
+                                    <span>Video, 2:24</span>
                                   </p>
                                 </div>
                               </div>
@@ -236,7 +236,7 @@
                               <div class="row">
                                 <div class="col-xs-12">
                                   <p>
-                                    Video, 5:08
+                                    <span>Video, 5:08</span>
                                   </p>
                                 </div>
                               </div>
@@ -378,7 +378,7 @@
                               <div class="row">
                                 <div class="col-xs-12">
                                   <p>
-                                    PDF, 1.1 MB
+                                    <span>PDF, 1.1 MB</span>
                                   </p>
                                 </div>
                               </div>

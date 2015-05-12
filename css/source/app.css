@@ -21,6 +21,39 @@
 
 
 /* ===========================
+   Nav / Knowledge Center
+   =========================== */
+
+/* Mobile nav */
+
+ul#acc-menu5 {
+  background-color: #D5D6D2;
+  padding: 0;
+}
+
+ul#acc-menu5 li {
+  line-height: 1;
+  width: 100%;
+}
+
+ul#acc-menu5 li a {
+  padding: 15px 20px!important;
+  width: 100%;
+  font-size: 12px;
+  display: inline-block;
+}
+
+ul#acc-menu5 li a:hover {
+  background: #a79867;
+  color: #FFF;
+  text-shadow: none;
+  text-decoration: none;
+}
+
+/* Other Nav */
+
+
+/* ===========================
    MY ASSIGNMENTS
    =========================== */
 
@@ -195,6 +228,20 @@ img.placeholder-image {
   padding-left:15px;
 }
 
+
+/* ================================
+   MY ASSIGNMENTS > SHOW ORDERED
+   ================================ */
+
+/* ------ RESIDENT ------- */
+
+.single-class h1 {
+  color: #4D4F53;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 4px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.8);
+}
 
 
 

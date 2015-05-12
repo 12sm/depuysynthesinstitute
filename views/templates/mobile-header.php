@@ -21,7 +21,7 @@
 
 
 
-        <li class="panel">
+        <li class="">
           <a href="#acc-menu5" class="coll-butt nav_knowledge-center" data-parent="#accordion5" data-toggle="collapse">
             Knowledge Center
             <span class="pull-right glyphicon icon-caret-right"></span>

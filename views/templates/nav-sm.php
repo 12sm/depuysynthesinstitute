@@ -10,7 +10,7 @@
 
 
 
-      <li class="nav-knowledge-center panel">
+      <li class="nav-knowledge-center">
         <a href="#acc-menu6" class="coll-butt nav_knowledge-center" data-parent="#accordion6" data-toggle="collapse">
           Knowledge Center
           <span class="pull-right glyphicon icon-caret-right"></span>
