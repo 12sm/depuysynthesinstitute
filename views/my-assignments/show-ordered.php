@@ -17,13 +17,13 @@
           </div>
           <div class="modal-footer">
             <div class="row">
-              <div class="col-xs-4">
+              <div class="col-xs-6 col-sm-4">
               </div>
-              <div class="col-xs-4">
-                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+              <div class="col-xs-3 col-sm-4">
+                <button type="button" class="btn btn-black" data-dismiss="modal">Cancel</button>
               </div>
-              <div class="col-xs-4">
-                <button type="button" class="btn btn-primary">OK</button>
+              <div class="col-xs-3 col-sm-4">
+                <button type="button" class="btn btn-info">OK</button>
               </div>
             </div>
           </div>

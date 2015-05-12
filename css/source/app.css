@@ -140,6 +140,45 @@ p.calendar_date {
    MY ASSIGNMENTS > SHOW RANDOM
    ================================ */
 
+/* Modals */
+
+.modal .btn.btn-info,
+.modal .btn-black {
+  padding: 10px;
+  height: auto;
+  width: 80px;
+  float:right;
+}
+
+.btn-black {
+  color: #fff;
+  border-color: #4C4C4C;
+  border-top: 2px solid #353535;
+  border-bottom: 2px solid #4C4C4C;
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#4C4C4C),to(#353535));
+  background-image: -webkit-linear-gradient(#4C4C4C,#9c8d5a);
+  background-image: -moz-linear-gradient(#4C4C4C,#353535),-moz-linear-gradient(#353535,#353535);
+  background-image: -o-linear-gradient(#4C4C4C,#353535),-o-linear-gradient(#353535,#353535);
+  background-image: linear-gradient(#4C4C4C,#353535),linear-gradient(#353535,#353535);
+  background-position: 0 0,100% 0;
+  background-repeat: no-repeat;
+}
+
+.btn-black:hover {
+  color: #fff;
+  border-color: #4C4C4C;
+  border-top: 2px solid #353535;
+  border-bottom: 2px solid #4C4C4C;
+  background-image: -webkit-gradient(linear,0 0,0 100%,from(#353535),to(#4C4C4C));
+  background-image: -webkit-linear-gradient(#353535,#4C4C4C);
+  background-image: -moz-linear-gradient(#353535,#4C4C4C),-moz-linear-gradient(#4C4C4C,#4C4C4C);
+  background-image: -o-linear-gradient(#353535,#4C4C4C),-o-linear-gradient(#4C4C4C,#4C4C4C);
+  background-image: linear-gradient(#353535,#4C4C4C),linear-gradient(#4C4C4C,#4C4C4C);
+  background-position: 0 0,100% 0;
+  background-repeat: no-repeat;
+}
+
+
 /* ------ RESIDENT ------- */
 
 .name-assignment h3 {
