@@ -56,16 +56,24 @@
               </div>
 
 
-
               <div class="row">
                 <div class="col-xs-12">
                   <hr>
                   <div class="row">
-                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-11">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
-                          <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>1</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -114,7 +122,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-1">
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                       Star Banner Icon
                     </div>
                   </div>
@@ -126,11 +134,20 @@
                 <div class="col-xs-12">
                   <hr>
                   <div class="row">
-                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-11">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
-                          <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>2</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -179,7 +196,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-1">
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                       Star Banner Icon
                     </div>
                   </div>
@@ -191,11 +208,20 @@
                 <div class="col-xs-12">
                   <hr>
                   <div class="row">
-                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-11">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
-                          <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>3</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -244,7 +270,7 @@
                         </div>
                       </div>
                     </div>
-                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-1">
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                       Star Banner Icon
                     </div>
                   </div>
@@ -252,12 +278,375 @@
               </div>
 
 
+              <div class="row">
+                <div class="col-xs-12">
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="row">
+                        <div class="checkBiz col-xs-1 ">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>4</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-11">
+                          <div class="row">
+                            <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  JUN
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  19
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  2 Days
+                                </div>
+                              </div>
+                            </div>
+                            <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Codman Neuro MedStreamTM Therapy Maintenance Course
+                                  </h4>
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Dallas, TX
+                                  </h4>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              Share Button | 26 Views
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                      Star Banner Icon
+                    </div>
+                  </div>
+                </div>
+              </div>
 
+
+              <div class="row">
+                <div class="col-xs-12">
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="row">
+                        <div class="checkBiz col-xs-1 ">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>5</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-11">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h5>
+                                ORTHOPAEDICS
+                              </h5>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h4>
+                                A.L.P.S. Elbow Plating System Surgical Technique
+                              </h4>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                              <h4>
+                                Thumbnail Photo / Video
+                              </h4>
+                            </div>
+                            <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    PDF, 1.1 MB
+                                  </h4>
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
+                                  </h4>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              Share Button | 1526 Views
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                      Star Banner Icon
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="row">
+                <div class="col-xs-12">
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="row">
+                        <div class="checkBiz col-xs-1 ">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>6</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-11">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h5>
+                                ORTHOPAEDICS
+                              </h5>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h4>
+                                Dr. Malcom Smith - Reduction of Femoral Neck Fractures
+                              </h4>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                              <h4>
+                                Thumbnail Photo / Video
+                              </h4>
+                            </div>
+                            <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Podcast, 3:43
+                                  </h4>
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
+                                  </h4>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              Share Button | 879 Views
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                      Star Banner Icon
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="row">
+                <div class="col-xs-12">
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="row">
+                        <div class="checkBiz col-xs-1 ">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>7</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-11">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h5>
+                                ORTHOPAEDICS
+                              </h5>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h4>
+                                Sinflate® System
+                              </h4>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                              <h4>
+                                Thumbnail Photo / Video
+                              </h4>
+                            </div>
+                            <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    PDF, 1.1 MB
+                                  </h4>
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Vertebral augmentation system for the reduction of fractures and/or creation of a void in cancellous bone in the spine.
+                                  </h4>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              Share Button | 879 Views
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                      Star Banner Icon
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="row">
+                <div class="col-xs-12">
+                  <hr>
+                  <div class="row">
+                    <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="row">
+                        <div class="checkBiz col-xs-1 ">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h1>8</h1>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <div class="checkComplete">
+                                <input type="checkbox" value="complete"/>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="col-xs-11">
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h5>
+                                ORTHOPAEDICS
+                              </h5>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <h4>
+                                Case Insights: Proximal Ulna Monteggia Fracture
+                              </h4>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                              <h4>
+                                Thumbnail Photo / Video
+                              </h4>
+                            </div>
+                            <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    Video, 2:18
+                                  </h4>
+                                </div>
+                              </div>
+                              <div class="row">
+                                <div class="col-xs-12">
+                                  <h4>
+                                    With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
+                                  </h4>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              Share Button | 879 Views
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                      Star Banner Icon
+                    </div>
+                  </div>
+                </div>
+              </div>
 
 
             </div>
-
-
           </div>
         </div>
 
