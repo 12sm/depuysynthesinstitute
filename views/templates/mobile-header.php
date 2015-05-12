@@ -11,14 +11,35 @@
         <span id="mobileNavIcon" class="glyphicon icon-caret-down">
         </span>
       </button>
-      <ul class="dropdown-menu mobile-nav">
+      <ul class="dropdown-menu mobile-nav" id="accordion5">
 
         <li class=""><a href="/profile" class="">My Profile<span class="pull-right glyphicon icon-profile"></span></a></li>
         <li class=""><a href="/favorites" class="">My Favorites<span class="pull-right glyphicon icon-favorites"></span></a></li>
         <li class="active"><a href="/my-assignments" class="">My Assignments<span class="pull-right glyphicon icon-assignments"></span></a></li>
 
         <li class=""><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
-        <li class=""><a href="/knowledge-center" class="">Knowledge Center<span class="pull-right glyphicon icon-knowledge-center"></span></a></li>
+
+
+
+        <li class="panel">
+          <a href="#acc-menu5" class="coll-butt nav_knowledge-center" data-parent="#accordion5" data-toggle="collapse">
+            Knowledge Center
+            <span class="pull-right glyphicon icon-caret-right"></span>
+          </a>
+          <ul id="acc-menu5">
+            <li><a href="#">General Principles And Fundamentals</a></li>
+            <li><a href="#">Orthopaedics</a></li>
+            <li><a href="#">Neurological Surgery</a></li>
+            <li><a href="#">Otolaryngology</a></li>
+            <li><a href="#">Oral Maxillofacial Surgery</a></li>
+            <li><a href="#">Plastic And Reconstructive Surgery</a></li>
+            <li><a href="#">Podiatric Medicine</a></li>
+            <li><a href="#">Veterinary Medicine</a></li>
+          </ul>
+        </li>
+
+
+
         <li class=""><a href="/redemption-center" class="">Redemption Center<span class="pull-right glyphicon icon-redemption-center"></span></a></li>
         <li class=""><a href="/graduation-resources" class="">Graduation Resources<span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
         <li class=""><a href="/external-resources" class="">External Resources<span class="pull-right glyphicon icon-external-resources"></span></a></li>

@@ -204,6 +204,17 @@ img.placeholder-image {
 
 
 
+
+
+
+
+
+
+
+#accordion5 li.panel, #accordion6 li.panel{
+  margin-bottom: 0px;
+}
+
 /* ===========================
    MEDIA QUERIES
    =========================== */

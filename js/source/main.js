@@ -1,14 +1,14 @@
 $('#mblSrchBtn').click(function(){
-	if($('#mblNavSrch').hasClass('hide')) {
-		$('#mblNavSrch').fadeTo(100, 1, function() {
-		 $('#mblNavSrch input').focus();
-		});
+  if($('#mblNavSrch').hasClass('hide')) {
+    $('#mblNavSrch').fadeTo(100, 1, function() {
+     $('#mblNavSrch input').focus();
+    });
   } else if ($("#search1").val().length > 0 && $("#search1").val() != getURLParam("searchData")) { //submit the search if it has data.
-  	$("#mblSearchForm").submit();
+    $("#mblSearchForm").submit();
   } else { //hide the input field
-  	$('#mblNavSrch').fadeTo(100, 0);
+    $('#mblNavSrch').fadeTo(100, 0);
   }
-	$('#mblNavSrch').toggleClass('hide');
+  $('#mblNavSrch').toggleClass('hide');
 });
 
 $('#mobileDropdown').on('show.bs.dropdown', function() {
@@ -355,4 +355,8 @@ function initDSI(role) {
   loadDSIFavorites(role);
   setupVideoPlayers();
   initSearchAutoSuggest();
+
+  $('#acc-menu5').collapse("hide");
+  $('#acc-menu6').collapse("hide");
+
 }
