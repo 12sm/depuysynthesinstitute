@@ -44,10 +44,16 @@
     <a href='views/my-assignments/resident.php'><h2></h2>Resident</a>
     <a href='views/my-assignments/show-random.php'><h2></h2>Show Non-Ordered Assignment</a>
     <a href='views/my-assignments/show-ordered.php'><h2></h2>Show Ordered Assignment</a>
+    <a href='views/my-assignments/single.php'><h2></h2>Single Materials</a>
     <h2>Director Views</h2>
     <a href='views/my-assignments/director.php'><h2></h2>Director</a>
     <h2>Chief Views</h2>
     <a href='views/my-assignments/chief.php'><h2></h2>Chief</a>
+    <h2>Menus</h2>
+    <a href='views/menus/surgeon-menu.php'><h2></h2>Surgeon Education Logged Out</a>
+    <a href='views/menus/nurse-menu.php'><h2></h2>Nurse Education Logged Out</a>
+    <a href='views/menus/vet-menu.php'><h2></h2>Veterinary Education Logged Out</a>
+    <a href='views/menus/resident-menu.php'><h2></h2>Resident Education Logged Out</a>
     <h2>Miscellaneous Views</h2>
     <a href='views/partner-site-button/partner.php'><h2></h2>Partner</a>
   </body>
