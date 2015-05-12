@@ -92,9 +92,9 @@ li.nav-knowledge-center, li.nav-calendar {
 
 li.nav-knowledge-center {
   list-style: none;
-  -webkit-box-shadow: -2px 0 2px 3px rgba(000,000,000,.1)!important;
-  -moz-box-shadow: -2px 0 2px 3px rgba(000,000,000,.1)!important;
-  box-shadow: -2px 0 2px 3px rgba(000,000,000,.1)!important;
+  -webkit-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
   margin-bottom: 10px;
 }
 
@@ -104,6 +104,12 @@ li.nav-home {
   -moz-box-shadow: none;
   box-shadow:none!important;
   margin-bottom:0px
+}
+
+ul.nav_list li:nth-child(2) {
+  -webkit-box-shadow: none!important;
+  -moz-box-shadow: none!important;
+  box-shadow: none!important;
 }
 
 
@@ -395,6 +401,10 @@ img.placeholder-image {
 
   .single-class .flag {
    right: 20px;
+  }
+
+  ul#acc-menu6 li a {
+   padding: 15px 30px!important;
   }
 
 }
