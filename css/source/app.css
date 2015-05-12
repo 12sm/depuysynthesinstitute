@@ -112,6 +112,18 @@ ul.nav_list li:nth-child(2) {
   box-shadow: none!important;
 }
 
+/* Surgeon Ed Logged Out */
+
+.surgeon-out li.nav-home a {
+  -webkit-box-shadow: -2px 2px 3px 0 rgba(000,000,000,.2)!important;
+  -moz-box-shadow: -2px 2px 3px 0 rgba(000,000,000,.2)!important;
+  box-shadow: -2px 2px 3px 0 rgba(000,000,000,.2)!important;
+  margin-bottom: 10px;
+}
+
+ul.dropdown-menu.mobile-nav li.sub-nav a {
+  white-space: pre-wrap;
+}
 
 
 

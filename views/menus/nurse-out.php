@@ -6,7 +6,7 @@
 
 
 
-    <ul class="-menu list-unstyled nav_list">
+    <ul class="-menu list-unstyled nav_list nurse-out">
       <li class="nav-home active"><a href="/" class="nav_home">Home<span class="pull-right glyphicon icon-home"></span></a></li>
 
       <li class="nav-resource"><a class="nav_resource" href="/resource">Resource Library<span class="pull-right"></span></a></li>

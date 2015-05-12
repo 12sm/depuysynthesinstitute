@@ -15,7 +15,7 @@
 
 
 
-      <ul class="dropdown-menu mobile-nav">
+      <ul class="dropdown-menu mobile-nav surgeon-out">
         <li class="active"><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
         <li class=""><a href="/craniomax">Craniomaxillofacial<span class="pull-right"></span></a></li>
         <li class=""><a href="/chest_wall">Chest Wall<span class="pull-right"></span></a></li>

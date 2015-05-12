@@ -3,7 +3,7 @@
 
 
 
-    <ul class="-menu list-unstyled nav_list">
+    <ul class="-menu list-unstyled nav_list surgeon-out">
       <li class="active nav-home"><a href="/" class="nav_home">Home<span class="pull-right glyphicon icon-home"></span></a></li>
 
       <li class="nav-craniomax"><a class="nav_craniomax" href="/craniomax">Craniomaxillofacial<span class="pull-right"></span></a></li>
