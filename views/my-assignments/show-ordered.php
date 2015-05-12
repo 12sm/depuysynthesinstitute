@@ -2,6 +2,35 @@
 <html lang="en">
   <?php include '../templates/head.php';?>
   <body>
+    <!-- Small modal -->
+    <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Skip Ahead?</h4>
+          </div>
+          <div class="modal-body">
+            <p>
+              Your director has recommended that you complete this assignment in the sequence specified. Are you sure that you want to skip the next step in this assignment.
+            </p>
+          </div>
+          <div class="modal-footer">
+            <div class="row">
+              <div class="col-xs-4">
+              </div>
+              <div class="col-xs-4">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+              </div>
+              <div class="col-xs-4">
+                <button type="button" class="btn btn-primary">OK</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <?php include '../templates/sign-in-out.php';?>
     <div class="row main_wrapper container-fluid">
       <div class="left_column hidden-xs col-sm-4 col-md-3">
@@ -20,6 +49,7 @@
             <div class="modSpacer">
               <div class="row">
                 <div class="col-xs-12">
+                  <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button>
                   <h1>
                     Name Of Resident Assignment
                   </h1>
