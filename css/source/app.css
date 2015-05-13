@@ -18,6 +18,10 @@
   padding:0px!important;
 }
 
+.container-fluid {
+  padding: 0;
+}
+
 
 
 /* ===========================
@@ -240,6 +244,38 @@ p.calendar_date {
 }
 
 
+/* --- Chief Resident --- */
+
+.tabs-section {
+  background: #FFF;
+  margin-top: 15px;
+  text-align: center;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+  letter-spacing: .1px;
+  margin-left: 0;
+  margin-right: 0;
+
+}
+.resident-tab, .admin-tab {
+  padding: 15px 0px;
+
+}
+
+.tabs-section .active {
+  border-bottom:2px solid gold;
+}
+
+.tabs-section .active {
+  border-bottom: 4px solid #A89968;
+}
+
+.tabs-section .active a {
+  color: #A89968;
+}
+
+
 
 /* ================================
    MY ASSIGNMENTS > SHOW RANDOM
@@ -411,7 +447,23 @@ img.placeholder-image {
    =========================== */
 
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width:767px) {
+
+  .container-fluid {
+    padding: 0px;
+  }
+
+  .right_column {
+   background: #E4E4E2!important;
+  }
+
+}
+
+@media only screen and (min-width:600px) {
+
+  .tabs-section {
+    margin-top:0px;
+  }
 
 }
 
@@ -427,6 +479,10 @@ img.placeholder-image {
 
   .single-class .flag {
     right: 15px;
+  }
+
+  .container-fluid {
+    padding: 0 0 0 5px;
   }
 
 }
