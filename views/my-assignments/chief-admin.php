@@ -13,19 +13,21 @@
 
 
 
+        <div class="row tabs-section">
+          <div class="col-xs-6 col-sm-6 col-md-2 resident-tab">
+            <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-resident.php">Resident View</a>
+          </div>
+          <div class="col-xs-6 col-sm-6 col-md-2 admin-tab active">
+            <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-admin.php">Admin View
+          </div>
+          <div class="col-md-8 hidden-xs hidden-sm">
+          </div>
+        </div>
+
+
         <div id="smt_col1Wrapper">
           <div id="smt_col1" class="padding-wrap">
             <div class="modSpacer current-assignments">
-              <div class="row">
-                <div class="col-xs-6 col-sm-6 col-md-2">
-                  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-resident.php">Resident View</a>
-                </div>
-                <div class="col-xs-6 col-sm-6 col-md-2">
-                  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-admin.php">Admin View
-                </div>
-                <div class="col-md-8 hidden-xs hidden-sm">
-                </div>
-              </div>
               <div class="row">
                 <div class="col-xs-12">
                   <h2>My Current Assignments</h2>
