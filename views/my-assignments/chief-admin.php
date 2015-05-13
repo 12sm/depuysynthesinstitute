@@ -29,8 +29,65 @@
           <div id="smt_col1" class="padding-wrap">
             <div class="modSpacer current-assignments">
               <div class="row">
+<<<<<<< Updated upstream
+=======
+                <div class="col-xs-6 col-sm-6 col-md-2">
+                  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-resident.php">Resident View</a>
+                </div>
+                <div class="col-xs-6 col-sm-6 col-md-2">
+                  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-admin.php">Admin View
+                </div>
+                <div class="col-md-8 hidden-xs hidden-sm">
+                </div>
+              </div>
+              <div class="row">
+                <div class="col-xs-8">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h1>
+                        New Assignment
+                      </h1>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <p>
+                        You can create a collection of resources, courses and events to assign to your residents.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-8">
+                      <input type="text" placeholder="Assignment Name">
+                    </div>
+                    <div class="col-xs-4">
+                      <button class="btn">
+                        Next
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-4">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h1>
+                        You Have 20 Residents
+                      </h1>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <button class="btn">
+                        Manage Residents
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row">
+>>>>>>> Stashed changes
                 <div class="col-xs-12">
-                  <h2>My Current Assignments</h2>
+                  <h2>Currently Assigned</h2>
                 </div>
               </div>
               <div class="row">
@@ -41,17 +98,10 @@
                     </span>
                   </h5>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-10 col-lg-11">
                   <h5>
                     <span class="assignment-heading">
                       Assignment
-                    </span>
-                  </h5>
-                </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
-                  <h5>
-                    <span class="assignment-heading">
-                      Completed
                     </span>
                   </h5>
                 </div>
@@ -66,7 +116,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -82,9 +132,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 percentage-complete">
-                  38%
-                </div>
               </div>
               <hr>
               <div class="row">
@@ -96,7 +143,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -112,9 +159,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 percentage-complete">
-                  20%
-                </div>
               </div>
               <hr>
               <div class="row">
@@ -126,7 +170,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -142,9 +186,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 percentage-complete">
-                  0%
-                </div>
               </div>
               <hr>
               <div class="row">
@@ -156,7 +197,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -172,9 +213,6 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 percentage-complete">
-                  0%
-                </div>
               </div>
             </div>
 
@@ -183,7 +221,7 @@
             <div class="modSpacer past-assignments">
               <div class="row">
                 <div class="col-xs-12">
-                  <h2>My Past Assignments</h2>
+                  <h2>Saved Assignments</h2>
                 </div>
               </div>
               <div class="row">
@@ -194,17 +232,10 @@
                     </span>
                   </h5>
                 </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <h5>
                     <span class="assignment-heading">
                       Assignment
-                    </span>
-                  </h5>
-                </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
-                  <h5>
-                    <span class="assignment-heading">
-                      Completed
                     </span>
                   </h5>
                 </div>
@@ -236,7 +267,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  Trash Can Icon
                 </div>
               </div>
               <hr>
@@ -266,7 +297,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  Trash Can Icon
                 </div>
               </div>
               <hr>
@@ -296,7 +327,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  Trash Can Icon
                 </div>
               </div>
               <hr>
@@ -326,7 +357,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  Trash Can Icon
                 </div>
               </div>
             </div>
