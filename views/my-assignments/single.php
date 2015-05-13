@@ -20,7 +20,7 @@
             <div class="modSpacer">
               <div class="row">
                 <div class="col-xs-12">
-                  <img src="#">
+                  <img src="">
                 </div>
               </div>
             </div>
