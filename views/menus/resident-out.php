@@ -3,7 +3,7 @@
     <ul class="-menu list-unstyled nav_list" id="accordion6">
       <li class="active nav-home"><a href="/" class="nav_home">Home<span class="pull-right glyphicon icon-home"></span></a></li>
 
-      <li class="nav-knowledge-center panel">
+      <li class="nav-knowledge-center">
         <a href="#acc-menu6" class="coll-butt nav_knowledge-center" data-parent="#accordion6" data-toggle="collapse">
           Knowledge Center
           <span class="pull-right glyphicon icon-caret-right"></span>

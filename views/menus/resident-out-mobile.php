@@ -14,7 +14,7 @@
       <ul class="dropdown-menu mobile-nav" id="accordion5">
         <li class="active"><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
 
-        <li class="panel">
+        <li>
           <a href="#acc-menu5" class="coll-butt nav_knowledge-center" data-parent="#accordion5" data-toggle="collapse">
             Knowledge Center
             <span class="pull-right glyphicon icon-caret-right"></span>
