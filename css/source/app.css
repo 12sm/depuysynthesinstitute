@@ -50,6 +50,23 @@ ul#acc-menu5 li a:hover {
   text-decoration: none;
 }
 
+.mobile-nav-break {
+  height: 10px;
+  box-shadow: inset -2px 0 2px 3px rgba(000,000,000,.1)!important;
+  -webkit-box-shadow: inset -2px 0 2px 3px rgba(000,000,000,.1)!important;
+  -moz-box-shadow: inset -2px 0 2px 3px rgba(000,000,000,.1)!important;
+  width: 110%;
+}
+
+.mobile-nav {
+  overflow:hidden;
+}
+
+ul.surgeon-out li.nav-about {
+  -webkit-box-shadow: 0 .5px 0 0px #D4D5D1;
+  box-shadow: 0 .5px 0 0px #D4D5D1;
+}
+
 /* Other Nav */
 
 ul#acc-menu6 {
@@ -111,6 +128,20 @@ ul.nav_list li:nth-child(2) {
   -moz-box-shadow: none!important;
   box-shadow: none!important;
 }
+
+ul.nav_list.vet-out li:nth-child(2),
+ul.nav_list.surgeon-out li:nth-child(2),
+ul.nav_list.nurse-out li:nth-child(2) {
+  display:none;
+}
+
+ul.list-unstyled.nav_list li.nav-foot-ankle {
+  -webkit-box-shadow: none!important;
+  -moz-box-shadow: none!important;
+  box-shadow: none!important;
+}
+
+
 
 /* Surgeon Ed Logged Out */
 
@@ -381,6 +412,7 @@ img.placeholder-image {
 
 
 @media only screen and (max-width: 320px) {
+
 
 
 }

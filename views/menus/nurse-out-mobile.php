@@ -16,12 +16,10 @@
 
       <ul class="dropdown-menu mobile-nav">
         <li class="active"><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
-
-        <li class=""><a href="/resources">Resource Library<span class="pull-right"></span></a></li>
-
-        <li class=""><a href="/calendar" class="">Course Calendar<span class="pull-right glyphicon icon-cal"></span></a></li>
-
         <li class="mobile-nav-break"></li>
+        <li class=""><a href="/resources">Resource Library<span class="pull-right"></span></a></li>
+        <li class="mobile-nav-break"></li>
+        <li class=""><a href="/calendar" class="">Course Calendar<span class="pull-right glyphicon icon-cal"></span></a></li>
         <li class="sub-nav"><a href="/surgeon-education">Surgeon Education<span class="glyphicon icon-caret-right"></span></a></li>
         <li class="sub-nav"><a href="/veterinary-education">Veterinary Education<span class="glyphicon icon-caret-right"></span></a></li>
         <li class="sub-nav"><a href="/resident-education">Resident & Fellow Education<span class="glyphicon icon-caret-right"></span></a></li>
