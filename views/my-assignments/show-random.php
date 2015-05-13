@@ -84,7 +84,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
@@ -157,7 +157,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
@@ -230,7 +230,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
@@ -372,7 +372,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
@@ -445,7 +445,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
@@ -518,7 +518,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
@@ -591,7 +591,7 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                              <img src="http://placehold.it/250x150" class="placeholder-image" />
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                             </div>
                             <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                               <div class="row">
