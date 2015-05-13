@@ -32,7 +32,7 @@
     </div>
 
     <?php include '../templates/sign-in-out.php';?>
-    <div class="row main_wrapper container-fluid">
+    <div class="main_wrapper container-fluid">
       <div class="left_column hidden-xs col-sm-4 col-md-3">
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
