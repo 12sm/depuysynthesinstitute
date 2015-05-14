@@ -13,16 +13,17 @@
 
 
 
+        <div class="row tabs-section">
+          <div class="pho-show col-xs-12">
+            <img src="/img/eLearning-eModule.png" height="auto" width="100%">
+          </div>
+        </div>
+
         <div id="smt_col1Wrapper">
-          <div id="smt_col1">
+          <div id="smt_col1" class="padding-wrap">
 
 
             <div class="modSpacer">
-              <div class="row">
-                <div class="pho-show col-xs-12">
-                  <img src="/img/eLearning-eModule.png" height="auto" width="100%">
-                </div>
-              </div>
               <div class="row">
                 <div class="pho-show col-xs-10">
                   <h2>
