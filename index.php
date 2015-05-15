@@ -51,6 +51,8 @@
           <h2>Director Views</h2>
           <a href='views/my-assignments/director.php'><h2></h2>Director</a>
           <a href='views/my-assignments/new-assignment.php'><h2></h2>New Assignment</a>
+          <a href='views/my-assignments/resident-manage.php'><h2></h2>Manage Residents</a>
+          <a href='views/my-assignments/invitation-sent.php'><h2></h2>Invitation Sent</a>
           <h2>Chief Views</h2>
           <a href='views/my-assignments/chief-resident.php'><h2></h2>Chief Resident</a>
           <a href='views/my-assignments/chief-admin.php'><h2></h2>Chief Admin</a>
