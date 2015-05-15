@@ -29,18 +29,6 @@
           <div id="smt_col1" class="padding-wrap">
             <div class="modSpacer current-assignments">
               <div class="row">
-<<<<<<< Updated upstream
-=======
-                <div class="col-xs-6 col-sm-6 col-md-2">
-                  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-resident.php">Resident View</a>
-                </div>
-                <div class="col-xs-6 col-sm-6 col-md-2">
-                  <a href="http://localhost/~Prometheus_Boombox/depuy-institute/views/my-assignments/chief-admin.php">Admin View
-                </div>
-                <div class="col-md-8 hidden-xs hidden-sm">
-                </div>
-              </div>
-              <div class="row">
                 <div class="col-xs-8">
                   <div class="row">
                     <div class="col-xs-12">
@@ -85,7 +73,6 @@
                 </div>
               </div>
               <div class="row">
->>>>>>> Stashed changes
                 <div class="col-xs-12">
                   <h2>Currently Assigned</h2>
                 </div>
@@ -225,14 +212,7 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <h5>
-                    <span class="assignment-heading">
-                      Expired
-                    </span>
-                  </h5>
-                </div>
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="col-xs-12">
                   <h5>
                     <span class="assignment-heading">
                       Assignment
@@ -242,15 +222,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="pull-left">
-                    <div class="calendar cal-completed">
-                      <p class="calendar_month">MAR</p>
-                      <p class="calendar_date">20</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -272,15 +244,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="pull-left">
-                    <div class="calendar cal-completed">
-                      <p class="calendar_month">JAN</p>
-                      <p class="calendar_date">5</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -302,15 +266,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="pull-left">
-                    <div class="calendar cal-completed">
-                      <p class="calendar_month">DEC</p>
-                      <p class="calendar_date">18</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -332,15 +288,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <div class="pull-left">
-                    <div class="calendar cal-completed">
-                      <p class="calendar_month">OCT</p>
-                      <p class="calendar_date">11</p>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
