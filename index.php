@@ -50,12 +50,14 @@
           <a href='views/my-assignments/single.php'><h2></h2>Single Materials</a>
           <h2>Director Views</h2>
           <a href='views/my-assignments/director.php'><h2></h2>Director</a>
-          <a href='views/my-assignments/new-assignment.php'><h2></h2>New Assignment</a>
-          <a href='views/my-assignments/resident-manage.php'><h2></h2>Manage Residents</a>
-          <a href='views/my-assignments/invitation-sent.php'><h2></h2>Invitation Sent</a>
+          <a href='views/my-assignments/new-sequential-assignment.php'><h2></h2>New Sequenced Assignment</a>
+          <a href='views/my-assignments/new-unordered-assignment.php'><h2></h2>New Unordered Assignment</a>
           <h2>Chief Views</h2>
           <a href='views/my-assignments/chief-resident.php'><h2></h2>Chief Resident</a>
           <a href='views/my-assignments/chief-admin.php'><h2></h2>Chief Admin</a>
+          <h2>Manage Residents</h2>
+          <a href='views/my-assignments/resident-manage.php'><h2></h2>Manage Residents</a>
+          <a href='views/my-assignments/invitation-sent.php'><h2></h2>Invitation Sent</a>
           <h2>Menus</h2>
           <a href='views/menus/surgeon-menu.php'><h2></h2>Surgeon Education Logged Out</a>
           <a href='views/menus/nurse-menu.php'><h2></h2>Nurse Education Logged Out</a>

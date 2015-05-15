@@ -358,5 +358,16 @@ function initDSI(role) {
 
   $('#acc-menu5').collapse("hide");
   $('#acc-menu6').collapse("hide");
+  $('#acc-menuPgy1').collapse("hide");
+  $('#acc-menuPgy2').collapse("hide");
+  $('#acc-menuPgy11').collapse("hide");
+  $('#acc-menuPgy12').collapse("hide");
+  $('#mat1').collapse("hide");
+  $('#mat2').collapse("hide");
+  $('#mat3').collapse("hide");
+  $('#mat4').collapse("hide");
+  $('#mat5').collapse("hide");
+  $('#mat6').collapse("hide");
+  $('#mat7').collapse("hide");
 
 }
