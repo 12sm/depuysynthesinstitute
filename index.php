@@ -47,6 +47,7 @@
     <a href='views/my-assignments/single.php'><h2></h2>Single Materials</a>
     <h2>Director Views</h2>
     <a href='views/my-assignments/director.php'><h2></h2>Director</a>
+    <a href='views/my-assignments/resident-management.php'><h2></h2>Manage Residents</a>
     <h2>Chief Views</h2>
     <a href='views/my-assignments/chief-resident.php'><h2></h2>Chief Resident</a>
     <a href='views/my-assignments/chief-admin.php'><h2></h2>Chief Admin</a>

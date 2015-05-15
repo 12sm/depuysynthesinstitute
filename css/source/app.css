@@ -22,6 +22,10 @@
   padding: 0;
 }
 
+.btn-info {
+  padding: 5px 10px;
+}
+
 
 
 /* ===========================
@@ -447,8 +451,81 @@ img.placeholder-image {
 }
 
 
+/* ================================
+   Manage Residents
+   ================================ */
 
+.add-a-resident button {
+  height: 30px;
+  padding: 4px 10px 10px 10px;
+  font-weight: bold;
+}
 
+.add-a-resident input {
+  height: 31px;
+  width:100%;
+  padding:0px 10px;
+  border-radius:5px;
+  border:1px solid #D4D5D1;
+}
+
+.add-a-resident input,
+.add-a-resident button {
+  margin:5px 0px;
+}
+
+.current-residents {
+  margin-top:20px
+}
+
+.panel-default > .panel-heading,
+.panel-default:nth-child(even) .panel-heading {
+  background: #DCDDDA
+}
+
+.resident-panel-group span.glyphicon.icon-caret-down {
+  font-size: 12px;
+  color: #949696;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.resident-panel-group h4.panel-title p {
+  display: table;
+  width: 100%;
+  margin-bottom: 0;
+}
+
+.resident-panel-group span.glyphicon.icon-caret-down {
+  font-size: 12px;
+  color: #949696;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.panel.panel-default {
+  border-bottom: 2px solid #E7E7E7;
+}
+
+.resident-panel-group .panel-title span.tiny-grey {
+  font-size: 14px;
+}
+.resident-panel-group .panel-body {
+  padding: 10px 0px;
+}
+
+.resident-panel-group p {
+  margin-bottom:0;
+}
+
+.resident-panel-group p.tiny-grey {
+  margin: 0;
+}
+
+.invited-resident p {
+  color: #B8B9BA;
+  font-style: italic;
+}
 
 
 
