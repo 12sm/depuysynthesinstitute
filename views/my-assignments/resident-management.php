@@ -11,12 +11,8 @@
       <div class="right_column col-xs-12 col-sm-8 col-md-9">
         <?php include '../templates/mobile-header.php';?>
 
-
-
         <div id="smt_col1Wrapper">
           <div id="smt_col1" class="padding-wrap">
-
-
             <div class="modSpacer add-a-resident">
               <div class="row">
                 <div class="col-xs-12">
@@ -231,21 +227,11 @@
                       </div>
                     </div>
                   </div>
-
                 </div>
               </div>
-
             </div>
-
-            <div class="modSpacer">
-            </div>
-
-
           </div>
         </div>
-
-
-
 
         <?php include '../templates/footer.php';?>
       </div>
