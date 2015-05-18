@@ -537,6 +537,8 @@ img.placeholder-image {
   font-size: 14px;
   color: #A7A8AA;
   text-transform: uppercase;
+  margin-top: 20px;
+  text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
 
 .new-assignment-form input[type="text"] {
@@ -591,16 +593,16 @@ img.placeholder-image {
   margin-right: 8px;
 }
 
-.resources-row {
-  margin-top: 16px;
-}
-
 .suggested-sequence h5 {
   color: #000!important;
   font-size: 12px;
   font-weight: 200;
   letter-spacing: -0.2px;
   font-size: 10px;
+}
+
+.director-new-assignment .panel-body.not-checked p {
+  color: #4D4F53;
 }
 
 

@@ -527,9 +527,9 @@
             <div class="modSpacer">
               <div class="row">
                 <div class="col-xs-12">
-                  <h1>
+                  <h2>
                     New Assignment
-                  </h1>
+                  </h2>
                 </div>
               </div>
               <div class="row">
@@ -689,7 +689,7 @@
                                     <h4>Jacob Bowman</h4>
                                   </div>
                                   <div class="col-xs-3 col-sm-2 col-md-3 col-lg-3">
-                                    <h4>pending</h4>
+                                    <h4 class="right">pending</h4>
                                   </div>
                                 </div>
                               </li>
@@ -789,25 +789,25 @@
                           </div>
                           <div class="row">
                             <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
+                              <p><input type="checkbox" checked value="complete"/> Lauren Jackson</p>
                             </div>
                             <div class="col-xs-3"></div>
                           </div>
                           <div class="row">
                             <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
+                              <p><input type="checkbox" checked value="complete"/> Maria Tucker</p>
                             </div>
                             <div class="col-xs-3"></div>
                           </div>
                           <div class="row">
                             <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
+                              <p><input type="checkbox" checked value="complete"/> Samuel marshall</p>
                             </div>
                             <div class="col-xs-3"></div>
                           </div>
                           <div class="row invited-resident">
                             <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
+                              <p><input type="checkbox" checked value="complete"/> Patricia Butler</p>
                             </div>
                             <div class="col-xs-3"><p>pending</p></div>
                           </div>
@@ -819,6 +819,7 @@
                         <h4 class="panel-title">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                             <p>
+                              <input type="checkbox" value="complete"/>
                               PGY 2 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
@@ -826,8 +827,37 @@
                         </h4>
                       </div>
                       <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
+                        <div class="panel-body not-checked">
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -836,6 +866,7 @@
                         <h4 class="panel-title">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             <p>
+                              <input type="checkbox" value="complete"/>
                               PGY 3 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
@@ -853,6 +884,7 @@
                         <h4 class="panel-title">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                             <p>
+                              <input type="checkbox" value="complete"/>
                               PGY 4 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
@@ -870,6 +902,7 @@
                         <h4 class="panel-title">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                             <p>
+                              <input type="checkbox" value="complete"/>
                               PGY 5 <span class="tiny-grey">(0)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
@@ -887,6 +920,7 @@
                         <h4 class="panel-title">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                             <p>
+                              <input type="checkbox" value="complete"/>
                               Unknown <span class="tiny-grey">(6)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
