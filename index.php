@@ -45,13 +45,18 @@
         <div class="modSpacer">
           <h2>Resident Views</h2>
           <a href='views/my-assignments/resident.php'><h2></h2>Resident</a>
-          <a href='views/my-assignments/show-random.php'><h2></h2>Show Non-Ordered Assignment</a>
-          <a href='views/my-assignments/show-ordered.php'><h2></h2>Show Ordered Assignment</a>
+          <a href='views/my-assignments/show-unordered.php'><h2></h2>Show Unordered Assignment</a>
+          <a href='views/my-assignments/show-ordered.php'><h2></h2>Show Sequential Assignment</a>
           <a href='views/my-assignments/single.php'><h2></h2>Single Materials</a>
           <h2>Director Views</h2>
           <a href='views/my-assignments/director.php'><h2></h2>Director</a>
-          <a href='views/my-assignments/new-sequential-assignment.php'><h2></h2>New Sequenced Assignment</a>
+          <a href='views/my-assignments/new-sequential-assignment.php'><h2></h2>New Sequential Assignment</a>
           <a href='views/my-assignments/new-unordered-assignment.php'><h2></h2>New Unordered Assignment</a>
+          <a href='views/my-assignments/edit-unordered-assignment.php'><h2></h2>Edit Unordered Assignment</a>
+          <a href='views/my-assignments/edit-sequential-assignment.php'><h2></h2>Edit Sequential Assignment</a>
+          <a href='views/my-assignments/current-unordered-assignment.php'><h2></h2>Current Unordered Assignment</a>
+          <a href='views/my-assignments/current-sequential-assignment.php'><h2></h2>Current Sequential Assignment</a>
+          <a href='views/my-assignments/maria-tucker.php'><h2></h2>Maria Tucker</a>
           <h2>Chief Views</h2>
           <a href='views/my-assignments/chief-resident.php'><h2></h2>Chief Resident</a>
           <a href='views/my-assignments/chief-admin.php'><h2></h2>Chief Admin</a>
