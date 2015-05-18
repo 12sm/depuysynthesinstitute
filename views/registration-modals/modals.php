@@ -597,6 +597,7 @@
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-two">Registration Required 2</button>
             </p>
             <p>
+              If Resident:
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three">Registration Required 3</button>
             </p>
           </div>
