@@ -599,12 +599,30 @@ img.placeholder-image {
   font-weight: 200;
   letter-spacing: -0.2px;
   font-size: 10px;
+  margin-bottom: 0;
+  margin-top: 20px;
 }
 
 .director-new-assignment .panel-body.not-checked p {
   color: #4D4F53;
 }
 
+
+
+/* ===========================
+   MODALS
+   =========================== */
+
+h4.modal-title {
+  font-size: 14px;
+}
+
+.modal-body .single-class span.pull-right.glyphicon.icon-caret-down {
+  font-size: 12px;
+  color: #949696;
+  display: table-cell;
+  vertical-align: middle;
+}
 
 
 
@@ -644,6 +662,10 @@ img.placeholder-image {
     font-size:14px!important;
   }
 
+  h4.modal-title {
+    font-size: 16px;
+  }
+
 }
 
 @media only screen and (min-width: 768px) {
@@ -668,6 +690,10 @@ img.placeholder-image {
     font-size:14px;
   }
 
+  h4.modal-title {
+    font-size: 16px;
+  }
+
 }
 
 @media only screen and (min-width: 1024px) {
@@ -690,6 +716,10 @@ img.placeholder-image {
 
   .new-assignment-form h2 {
     font-size:14px;
+  }
+
+  h4.modal-title {
+    font-size: 24px;
   }
 
 }

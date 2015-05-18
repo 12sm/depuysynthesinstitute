@@ -50,7 +50,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat1" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -112,7 +112,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat2" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -174,7 +174,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat3" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -286,7 +286,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat4" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -347,7 +347,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat5" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -409,7 +409,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat6" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -471,7 +471,7 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <a href="#mat7" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -768,7 +768,7 @@
 
 
 
-                  <div class="hidden-md hidden-lg col-xs-12 col-sm-12">
+                  <div class="visible-xs hidden-md hidden-lg col-xs-12 col-sm-12">
                     <div class="row">
                       <div class="col-xs-12">
                         <h2>
