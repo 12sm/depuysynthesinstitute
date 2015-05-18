@@ -624,6 +624,104 @@ h4.modal-title {
   vertical-align: middle;
 }
 
+.sign-in-modal .modal-footer {
+  padding: 20px;
+  text-align: left;
+  border-top: 2px solid #a89968;
+}
+
+.modal label {
+  margin-top: 0px;
+  margin-bottom: 7px;
+}
+
+.modal input[type="text"] {
+  margin-bottom: 20px;
+}
+
+.sign-in-modal input[type="checkbox"] {
+  margin-right: 10px;
+  margin-top:10px;
+}
+
+.sign-in-modal .forgot-pass-row {
+  margin-top: 20px;
+}
+
+.sign-in-modal .forgot-pass-row a p {
+  padding-top:12px;
+}
+
+.sign-in-modal .modal-footer p {
+  margin-bottom:0;
+}
+
+.sign-in-modal .modal-dialog {
+  max-width: 370px;
+}
+
+.reg-req-two .styled_radio {
+  position: absolute;
+  left: 0;
+  width: 15px;
+  height: 15px;
+  border-radius: 0%;
+  background: #fff;
+}
+
+.reg-req-three .dropdown {
+  margin-bottom: 10px;
+}
+
+.reg-req-three .dropdown-toggle {
+  height: 33px;
+}
+
+.modal input[type="email"],
+.modal input[type="url"],
+.modal input[type="password"],
+.modal input[type="text"],
+.modal textarea {
+  height: 32px;
+  padding: 5px;
+  border: 1px solid #D8D8D8;
+  border-radius: 5px;
+  width: 100%;
+}
+
+.reg-req-three textarea {
+  width: 100%;
+  height: 70px;
+}
+
+.modal label {
+  color: #A7A8AA;
+  margin-top: 10px;
+  margin-bottom: 5px;
+}
+
+label.dark {
+  color: rgb(63, 63, 63);
+}
+
+.graduation-date input[type="text"] {
+  width: 30%;
+  display: inline;
+}
+
+.year-residency .dropdown {
+  width: 50%;
+}
+
+span.warning p {
+  color: rgb(136, 39, 46);
+  font-weight: bold;
+}
+
+.radio-yes-no input[type="radio"] {
+  margin-right: 10px;
+}
+
 
 
 

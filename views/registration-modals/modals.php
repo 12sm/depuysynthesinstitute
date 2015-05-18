@@ -3,505 +3,57 @@
   <?php include '../templates/head.php';?>
   <body>
 
-    <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <!-- sign in modal -->
+    <div class="modal fade sign-in-modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <div class="modal-header">
             <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title">Select Resources To Add</h4>
-          </div>
-          <div id="materials" class="modal-body">
-            <p>
-              Showing results for "orthopaedics"
-            </p>
-            <div class="row single-class">
-              <div class="col-xs-12">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>eLearning, 50 credits</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat1" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat1" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+            <div class="row">
+              <div class="col-xs-6">
+                <h4 class="modal-title">Sign in</h4>
               </div>
-            </div>
-
-
-            <div class="row single-class">
-              <div class="col-xs-12">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Case Insights: Distal Humerus Extra Articular
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Video, 2:24</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat2" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat2" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class">
-              <div class="col-xs-12">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Clavicle: Segmental Pediatric
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Video, 5:08</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat3" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat3" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class single-date">
-              <div class="col-xs-12">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
-                            <div class="pull-left">
-                              <div class="calendar">
-                                <p class="calendar_month">JUN</p>
-                                <p class="calendar_date">19</p>
-                              </div>
-                            </div>
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p class="tiny-grey"><strong>2 Days</strong></p>
-                              </div>
-                            </div>
-                          </div>
-                          <div class="col-xs-8 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <h4>
-                                  Codman Neuro MedStreamTM Therapy Maintenance Course
-                                </h4>
-                              </div>
-                            </div>
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p class="tiny-grey">
-                                  Dallas, TX
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="row single-class">
-              <div class="col-xs-12">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              A.L.P.S. Elbow Plating System Surgical Technique
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>PDF, 1.1 MB</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat4" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat4" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="row single-class grey-bg grey-bg-top">
-              <div class="col-xs-12 no-padding">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete" checked />
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Dr. Malcom Smith - Reduction of Femoral Neck Fractures
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Podcast, 3:43</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat5" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat5" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class grey-bg">
-              <div class="col-xs-12 no-padding">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete" checked />
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Sinflate® System
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>PDF, 1.1 MB</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat6" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat6" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  Vertebral augmentation system for the reduction of fractures and/or creation of a void in cancellous bone in the spine.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class grey-bg">
-              <div class="col-xs-12 no-padding">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete" checked />
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Case Insights: Proximal Ulna Monteggia Fracture
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Video, 2:18</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat7" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat7" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
+              <div class="col-xs-6">
+                <a href="#" class="pull-right">Register</a>
               </div>
             </div>
           </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <label>EMAIL ADDRESS</label>
+                <input type="text" placeholder="email@address.org">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>PASSWORD</label>
+                <input type="text" placeholder="password">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <input type="checkbox"><label>Remember me on this computer</label>
+              </div>
+            </div>
+            <div class="row forgot-pass-row">
+              <div class="col-xs-7">
+                <a href="#"><p>Forgot password?</p></a>
+              </div>
+              <div class="col-xs-5">
+                <button class="btn btn-info">Sign In</button>
+              </div>
+            </div>
+          </div><!-- end modal body -->
           <div class="modal-footer">
             <div class="row">
-              <div class="col-xs-6 col-sm-6">
-              </div>
-              <div class="col-xs-6 col-sm-6">
-                <button type="button" class="btn btn-info">Add Checked Resources</button>
+              <div class="col-xs-12 col-sm-12">
+                <p>
+                  <strong>Are you a Johnson & Johnson Employee?</strong>
+                </p>
+                <p>
+                  <a href="#">Click here to sign in using your WWID.</a>
+                </p>
               </div>
             </div>
           </div>
@@ -509,635 +61,548 @@
       </div>
     </div>
 
-    <?php include '../templates/sign-in-out.php';?>
-    <div class="main_wrapper container-fluid">
-      <div class="left_column hidden-xs col-sm-4 col-md-3">
-        <?php include '../templates/logo-search-sm.php';?>
-        <?php include '../templates/nav-sm.php';?>
-      </div>
-      <div class="right_column col-xs-12 col-sm-8 col-md-9">
-        <?php include '../templates/mobile-header.php';?>
 
+    <!-- Registration Required One -->
+    <div class="modal fade reg-req-one" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+  	  <div class="modal-dialog">
+			  <div class="modal-content"><form action="?" method="post" onsubmit="return checkRegister1(this);">
+				  <input type="hidden" name="amid" value="registration">
+				  <input type="hidden" name="requestType" value="reqBuild">
+				  <input type="hidden" name="actionName" value="Register">
+				  <input type="hidden" name="sbActionId" value="c0a80241b7139e30186fd3b0749eb907">
+				  <input type="hidden" name="registerSubmittalId" value="">
+				  <input type="hidden" name="postProcess" value="">
+				  <input type="hidden" name="page" value="2">
+				  <input type="hidden" name="notifyAdminFlg" value="0">
+				  <input type="hidden" name="finalPage" value="">
+				  <input type="hidden" name="apprReg" value="0">
+			  	<input type="hidden" name="dealerLocationId" value="">
+			  	<input type="hidden" name="redirectURL" value="">
+		  		<input type="hidden" name="printerFriendlyTheme" value="">
+		  		<input type="hidden" name="hidePf" value="">
+			  	<input type="hidden" name="formFields" value="7f000001427b18842a834a598cdeafa">
+				  <input type="hidden" name="formFields" value="7f000001447b18842a834a598cdeafa">
+  				<input type="hidden" name="formFields" value="7f000001397b18842a834a598cdeafa">
+	  			<input type="hidden" name="formFields" value="7f000001407b18842a834a598cdeafa">
+		  		<input type="hidden" name="formFields" value="7f000001537b18842a834a598cdeafa">
 
+          <div class="modal-header">
+		       <button type="button" class="close" data-dismiss="modal">
+			       <span aria-hidden="true">×</span><span class="sr-only">Close</span>
+		       </button>
+		       <div class="row">
+			       <div class="col-xs-6 col-sm-6 modal-header-left">
+				       <h2 class="modal-title">Registration (Required)</h2>
+			       </div>
+             <div class="col-xs-6 col-sm-6">
+               <a href="#" class="pull-right">Sign In</a>
+             </div>
+			     </div>
+	        </div>
+        	<div class="modal-body">
+        		<div class="row">
+        			<div class="col-sm-12">
+        				<p>
+        					We will use this information to update you on DePuy Synthes Institute
+        					offerings.
 
-        <div id="smt_col1Wrapper">
-          <div id="smt_col1" class="padding-wrap">
-
-
-            <div class="modSpacer">
-              <div class="row">
-                <div class="col-xs-12">
-                  <h2>
-                    New Assignment
-                  </h2>
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-xs-12">
-                  <p>
-                    Optional privacy statement can go up here or other required legal text. Instructions might also be included here about what assignments are and how they can be used.
-                  </p>
-                </div>
-              </div>
+        					To unsubscribe from email communications, visit your profile
+        					page to update preferences. By registering, you acknowledge that you have
+        					reviewed and agree to our <a href="/privacy">Privacy Policy</a>.
+        				</p>
+        				<p class="hide" id="errMsg"></p>
+        			</div>
+        		</div>
+        		<div class="row">
+        			<div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="First_Name">LEGAL FIRST NAME</label> <input type="text" class="form-control" id="First_Name" name="reg_enc|FIRST_NM|7f000001427b18842a834a598cdeafa" placeholder="legal first name" value="">
+        				</div>
+        			</div>
+        			<div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="Last_Name">MIDDLE NAME</label> <input type="text" class="form-control" id="Middle_Name" name="reg_enc|LAST_NM|7f000001447b18842a834a598cdeafa" placeholder="middle name" value="">
+        				</div>
+        			</div>
             </div>
-
-            <form class="form-inline" action="" method="" onsubmit="">
-
-              <div class="modSpacer new-assignment-form">
-                <div class="row">
-                  <div class="col-xs-12 col-sm-12 col-md-6 col-lg-6">
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h2>
-                          NAME OF ASSIGNMENT
-                        </h2>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <input type="text" placeholder="Name Of Resident Assignment">
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h2>
-                          DUE DATE (OPTIONAL)
-                        </h2>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-4 col-sm-3 col-md-2">
-                        <input type="date" id="myDate" placeholder="06/19/2015">
-                      </div>
-                      <div class="col-xs-1 col-sm-1 col-md-1">
-                        <span class="pull-right glyphicon icon-cal"></span>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h2>
-                          Message (OPTIONAL)
-                        </h2>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <textarea rows="4" cols="50" placeholder="I’ve put together this assignment to prepare you for your practum on June 19. Please take some time to look at the resources attached. Please attend Dr. Marshall’s event on Cold and Flu Season. Let me know if you have any questions.">
-                        </textarea>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="hidden-xs hidden-sm col-md-6 col-lg-6">
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h2>
-                          Assign To:
-                        </h2>
-                      </div>
-                    </div>
-                    <div class="panel-group resident-panel-group director-new-assignment" id="accordion" role="tablist" aria-multiselectable="true">
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingOne">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <p>
-                              <input type="checkbox" checked value="complete"/>
-                              PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                        <div class="panel-body">
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Lauren Jackson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Maria Tucker</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Samuel marshall</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row invited-resident">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Patricia Butler</p>
-                            </div>
-                            <div class="col-xs-3"><p>pending</p></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingTwo">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                        <div class="panel-body not-checked">
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingThree">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingFour">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingFive">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingSix">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              Unknown <span class="tiny-grey">(6)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-
-
-
-
-                  <div class="visible-xs hidden-md hidden-lg col-xs-12 col-sm-12">
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h2>
-                          Assign To:
-                        </h2>
-                      </div>
-                    </div>
-                    <div class="panel-group resident-panel-group director-new-assignment" id="accordion" role="tablist" aria-multiselectable="true">
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingOne">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <p>
-                              <input type="checkbox" checked value="complete"/>
-                              PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                        <div class="panel-body">
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Lauren Jackson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Maria Tucker</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Samuel marshall</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row invited-resident">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Patricia Butler</p>
-                            </div>
-                            <div class="col-xs-3"><p>pending</p></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingTwo">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
-                        <div class="panel-body not-checked">
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingThree">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingFour">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingFive">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingSix">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              Unknown <span class="tiny-grey">(6)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  </div>
-                </div>
+            <div class="row">
+              <div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="Last_Name">LEGAL LAST NAME</label> <input type="text" class="form-control" id="Last_Name" name="reg_enc|LAST_NM|7f000001447b18842a834a598cdeafa" placeholder="legal last name" value="">
+        				</div>
               </div>
-
-
-
-
-
-              <div class="modSpacer new-assignment-form">
-                <div class="row">
-                  <div class="col-xs-12">
-                    <h2>
-                      Sequential Assignment?
-                    </h2>
+              <div class="col-sm-6">
+        				<div class="form-group">
+                  <div class="dropdown">
+                    <label for="Last_Name">DEGREE</label>
+                    <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                      Select Degree
+                      <span class="caret pull-right"></span>
+                    </button>
+                    <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">MD</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DO</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DPM</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DVM</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DMD</a></li>
+                      <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Other</a></li>
+                    </ul>
                   </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <p>
-                      Would you like residents to complete this assignment in a specific order?
-                    </p>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-5 col-sm-3 col-lg-2">
-                    <input type="radio" name="sequenced" checked value="yes">Yes
-                  </div>
-                  <div class="col-xs-5 col-sm-3 col-lg-2">
-                    <input type="radio" name="sequenced" value="no">No
-                  </div>
-                </div>
-
-                <div class="row resources-row">
-                  <div class="col-xs-12">
-                    <h2>
-                      Resources
-                    </h2>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <p>
-                      Search for and add the resource, eLearning or event that you would like to include in this assignment.
-                    </p>
-                  </div>
-                </div>
-
-                <div class="row suggested-sequence">
-                  <div class="col-xs-12">
-                    <h5>Suggested Sequence</h5>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <hr>
-                  </div>
-                </div>
-
-                <div class="row single-class">
-                  <div class="col-xs-2 col-md-1">
-                    <input type="number" min="1" max="99" value="1">
-                  </div>
-                  <div class="col-xs-8 col-md-10">
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h5>
-                          ORTHOPAEDICS
-                        </h5>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h4>
-                          ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A
-                        </h4>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                        <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                      </div>
-                      <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>eLearning, 50 credits</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-xs-2 col-md-1">
-                    Trash Can Icon
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <hr>
-                  </div>
-                </div>
-                <div class="row single-class">
-                  <div class="col-xs-2 col-md-1">
-                    <input type="number" min="1" max="99" value="2">
-                  </div>
-                  <div class="col-xs-8 col-md-10">
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h5>
-                          ORTHOPAEDICS
-                        </h5>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h4>
-                          Dr. Malcom Smith - Reduction of Femoral Neck Fractures
-                        </h4>
-                      </div>
-                    </div>
-                    <div class="row">
-                      <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                        <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                      </div>
-                      <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Podcast, 3:43</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="col-xs-2 col-md-1">
-                    Trash Can Icon
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <hr>
-                  </div>
-                </div>
-
-
-
-
-                <div class="row">
-                  <div class="col-xs-9 col-sm-10 col-lg-11">
-                    <input type="text" placeholder="Search Resources">
-                  </div>
-                  <div class="col-xs-3 col-sm-2 col-lg-1">
-                    <button type="button" class="btn btn-info" data-toggle="modal" data-target=".bs-example-modal-lg">Search</button>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-12">
-                    <hr>
-                  </div>
-                </div>
-                <div class="row">
-                  <div class="col-xs-5 col-sm-3 col-md-3 col-lg-2">
-                    <button class="btn btn-black">Save For Later</button>
-                  </div>
-                  <div class="col-xs-1 col-sm-5 col-md-5 col-lg-8">
-                  </div>
-                  <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                    <a href="#">Cancel</a>
-                  </div>
-                  <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                    <button class="btn btn-info">Create</button>
-                  </div>
-                </div>
+        				</div>
               </div>
-            </form>
+        		</div>
+        		<div class="row">
+              <div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="Email_Address">EMAIL ADDRESS</label> <input type="email" class="form-control" id="Email_Address" name="reg_enc|EMAIL_ADDRESS_TXT|7f000001397b18842a834a598cdeafa" placeholder="email@address.org" value="">
+        				</div>
+        			</div>
+              <div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="Email_Address">CONFIRM EMAIL ADDRESS</label> <input type="email" class="form-control" id="Email_Address" name="reg_enc|EMAIL_ADDRESS_TXT|7f000001397b18842a834a598cdeafa" placeholder="email@address.org" value="">
+        				</div>
+        			</div>
+        		</div>
+        		<div class="row">
+        			<div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="password">CHOOSE A PASSWORD</label> <input type="password" class="form-control" id="password" name="reg_|PASSWORD_TXT|7f000001407b18842a834a598cdeafa" placeholder="at least 8 characters" value="">
+        					<div class="help-block password">(minimum 8 characters, containing a number)</div>
+        				</div>
+        			</div>
+        			<div class="col-sm-6">
+        				<div class="form-group">
+        					<label for="~passwordConfirm">CONFIRM PASSWORD</label> <input type="password" class="form-control" id="~passwordConfirm" name="passwordConfirm" placeholder="confirm password" value="">
+        				</div>
+        			</div>
+        		</div>
+        		<div class="row">
+        			<div class="col-xs-12">
+                <div class="checkbox">
+        					<input type="hidden" name="allowCommFlgSet" value="1">
+        					<label>
+        					<input class="sr-only" type="checkbox" value="1" name="orgConsentStatement">
+        						<span class="styled_checkbox"></span>
+        						I agree to the <a href="#">terms and conditions</a>.
+        					</label>
+        				</div>
+
+                <div class="checkbox">
+        					<input type="hidden" name="allowCommFlgSet" value="1">
+        					<label>
+        					<input class="sr-only" type="checkbox" value="1" name="orgConsentStatement">
+        						<span class="styled_checkbox"></span>
+        						If you check this box we may send you information through email
+        						communication about our products and services. You agree that the
+        						information you provide will be governed by our <a href="/privacy">Privacy
+        						Policy</a>.
+        					</label>
+        				</div>
+        			</div>
+        		</div>
+        	</div>
+        	<div class="modal-footer">
+        		<button type="submit" class="pull-right btn button-lg button-modal">
+        			Next <span class="glyphicon icon-caret-right"></span></button>
+        	</div>
+        </form>
+      </div>
+		</div>
+	</div>
+
+
+
+
+  <!-- Registration Required 2 -->
+  <div class="modal fade reg-req-two" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+			<div class="modal-content"><form action="?" method="post" onsubmit="return checkRegister2(this);">
+        <input type="hidden" name="amid" value="registration">
+        <input type="hidden" name="requestType" value="reqBuild">
+        <input type="hidden" name="actionName" value="Register">
+        <input type="hidden" name="sbActionId" value="c0a80241b7139e30186fd3b0749eb907">
+        <input type="hidden" name="registerSubmittalId" value="c0a8023768eed761a7dd558cc07f6753">
+        <input type="hidden" name="postProcess" value="">
+        <input type="hidden" name="page" value="3">
+        <input type="hidden" name="notifyAdminFlg" value="0">
+        <input type="hidden" name="finalPage" value="1">
+        <input type="hidden" name="apprReg" value="0">
+        <input type="hidden" name="dealerLocationId" value="">
+        <input type="hidden" name="redirectURL" value="">
+        <input type="hidden" name="printerFriendlyTheme" value="">
+        <input type="hidden" name="hidePf" value="">
+        <input type="hidden" name="formFields" value="c0a80241b71c9d40a59dbd6f4b621260">
+        <input type="hidden" name="formFields" value="c0a80241b71d27b038342fcb3ab567a0">
+        <input type="hidden" name="formFields" value="c0a80241fe190db1672ee7fc804922b1">
+        <input type="hidden" name="formFields" value="c0a802378dc21c56c15b1c38f9c3831d">
+        	<div class="modal-header">
+        		<button type="button" class="close" data-dismiss="modal">
+        			<span aria-hidden="true">×</span><span class="sr-only">Close</span>
+        		</button>
+        		<div class="row">
+        			<div class="col-sm-6 modal-header-left">
+        				<h2 class="modal-title">Registration Required</h2>
+        			</div>
+        		</div>
+        	</div>
+        	<div class="modal-body">
+        		<div class="row">
+        			<div class="col-sm-12">
+        				<p class="hide" id="errMsg"></p>
+        				<div class="form-group">
+        					<label>PROFESSION</label><br>
+        					<select name="reg_||c0a80241b71c9d40a59dbd6f4b621260" class="form-control">
+        						<option value=""></option>
+        						<option value="Resident">Resident</option>
+        						<option value="Fellow">Fellow</option>
+        						<option value="Chief Resident">Chief Resident</option>
+        						<option value="Residency Director">Residency Director</option>
+        						</select>
+        				</div>
+        			</div>
+        		</div>
+        		<div class="row">
+        			<div class="col-xs-12">
+        				<div class="radio-group">
+        					<label>SPECIALTY</label>
+        				</div>
+        			</div>
+        		</div>
+        		<div class="row">
+        			<div class="col-sm-6">
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Acute Care Surgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Acute Care Surgery</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Anesthesiology" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Anesthesiology</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Diagnostic Radiology" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Diagnostic Radiology</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="General Surgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> General Surgery</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Interventional Radiology" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Interventional Radiology</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurosurgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Neurosurgery</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurology" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Neurology</label>
+        						</div>
+                <div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Oral and Maxillofacial Surgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Oral and Maxillofacial Surgery</label>
+        						</div>
+        				</div>
+        			<div class="col-sm-6">
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Orthopaedic Surgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Orthopaedic Surgery</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Otolaryngology" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Otolaryngology</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Pain Management" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Pain Management</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Physiatry" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Physiatry</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Plastic Surgery</label>
+        						</div>
+                <div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Podiatric Medicine</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Veterinary Medicine" onclick="dsiRegShowSpecialties(this);">
+        								<span class="styled_radio"></span> Veterinary Medicine</label>
+        						</div>
+        				</div>
+        		</div>
+
+        		<div class="row subspecialty heading">
+        			<div class="col-xs-12">
+        				<div class="radio-group">
+        					<label>SUB-SPECIALTY</label>
+        				</div>
+        			</div>
+        		</div>
+        		<div class="row subspecialty ortho">
+        			<div class="col-sm-6">
+        				<div class="radio">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Joint Reconstruction">
+        								<span class="styled_radio"></span> Joint Reconstruction</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Sports Medicine">
+        								<span class="styled_radio"></span> Sports Medicine</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Trauma">
+        								<span class="styled_radio"></span> Trauma</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Spine">
+        								<span class="styled_radio"></span> Spine</label>
+        						</div>
+        				<div class="radio">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Hip and Pelvis">
+        								<span class="styled_radio"></span> Hip and Pelvis</label>
+        						</div>
+        				</div>
+        			<div class="col-sm-6">
+        			<div class="radio Pedia">
+        						<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Pediatric">
+        							<span class="styled_radio"></span> Pediatric</label>
+        					</div>
+        			<div class="radio Foot ">
+        						<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Foot and Ankle">
+        							<span class="styled_radio"></span> Foot and Ankle</label>
+        					</div>
+        			<div class="radio Hand ">
+        						<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Hand and Wrist">
+        							<span class="styled_radio"></span> Hand and Wrist</label>
+        					</div>
+        			<div class="radio Gener">
+        						<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="General">
+        							<span class="styled_radio"></span> General</label>
+        					</div>
+        			<div class="radio Shoul">
+        						<label> <input class="sr-only" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Shoulder and Elbow">
+        							<span class="styled_radio"></span> Shoulder and Elbow</label>
+        					</div>
+        			</div>
+        		</div>
+        		<div class="row subspecialty hide neuro">
+        			<div class="col-sm-6">
+        				<div class="radio Crani">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a802378dc21c56c15b1c38f9c3831d" value="Cranial">
+        								<span class="styled_radio"></span> Cranial</label>
+        						</div>
+        				<div class="radio Spine">
+        							<label> <input class="sr-only" type="checkbox" name="reg_||c0a802378dc21c56c15b1c38f9c3831d" value="Spine">
+        								<span class="styled_radio"></span> Spine</label>
+        						</div>
+        				</div>
+        			<div class="col-sm-6">
+        			</div>
+        		</div>
+        		</div>
+        	<div class="modal-footer">
+        		<button type="submit" class="pull-right btn button-lg button-modal">
+        			Next <span class="glyphicon icon-caret-right"></span></button>
+        	</div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+
+
+
+  <!-- Registration Required 3 -->
+  <div class="modal fade reg-req-three" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+          <div class="row">
+            <div class="col-xs-8">
+              <h4 class="modal-title">Registration Required</h4>
+            </div>
+            <div class="col-xs-4">
+              <a href="#" class="pull-right">Sign In</a>
+            </div>
           </div>
         </div>
+        <div class="modal-body">
+          <div class="row">
+            <div class="col-xs-12">
+              <p>Optional text area. Might say something like this about why DePuy Synthes needs this information.</p>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12 col-sm-6">
+              <label>IDENTIFICATION NUMBER</label>
+              <div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                  NPI Number
+                  <span class="caret pull-right"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">NPI Number</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">State License Number</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">I don't have either</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="row npi-number-options">
+            <div class="col-xs-10 col-sm-5">
+              <input type="text" placeholder="10-digit NPI Number">
+            </div>
+            <div class="col-xs-2 col-sm-2">
+              icon
+            </div>
+          </div>
+          <div class="row state-license-number-options">
+            <div class="col-xs-3">
+              <div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                  State
+                  <span class="caret pull-right"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">AL</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-5">
+              <input type="text" placeholder="License Number">
+            </div>
+            <div class="col-xs-2">
+              icon
+            </div>
+          </div>
+          <div class="row identification-number-options">
+            <div class="col-xs-12">
+              <textarea placeholder="Why don't you have an NPI Number or State License?"></textarea>
+            </div>
+          </div>
 
-        <?php include '../templates/footer.php';?>
+          <div class="row">
+            <div class="col-xs-12">
+              <label class="dark">ACADEMIC MEDICAL CENTER</label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <label>NAME</label>
+              <input type="text" placeholder="Medical Center Name">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <label>STREET ADDRESS</label>
+              <input type="text" placeholder="Medical Center Address">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-4 col-sm-8">
+              <label>CITY</label>
+              <input type="text" placeholder="City">
+            </div>
+            <div class="col-xs-4 col-sm-2">
+              <label>STATE</label>
+              <div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                  State
+                  <span class="caret pull-right"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">AL</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-4 col-sm-2">
+              <label>ZIP CODE</label>
+              <input type="text" placeholder="Zip Code">
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p>Are you working in a Military Hospital?</p>
+            </div>
+          </div>
+          <div class="row radio-yes-no">
+            <div class="col-xs-5 col-sm-3 col-lg-2">
+              <input type="radio" name="sequenced" checked value="yes">Yes
+            </div>
+            <div class="col-xs-5 col-sm-3 col-lg-2">
+              <input type="radio" name="sequenced" value="no">No
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <span class="warning"><p>In order to participate in the redemption program your ethics officer must sign a Proffer Letter. A DS Program Manager will contact you with further details.</p></span>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-6 year-residency">
+              <label>YEAR IN RESIDENCY</label>
+              <div class="dropdown">
+                <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
+                  PGY
+                  <span class="caret pull-right"></span>
+                </button>
+                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">1</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">2</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">3</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">4</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">5</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">6</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">7</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">8</a></li>
+                  <li role="presentation"><a role="menuitem" tabindex="-1" href="#">9</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="col-xs-6 graduation-date">
+              <label>GRADUATION DATE</label><br />
+              <input type="text" placeholder="MM"> <input type="text" placeholder="YYYY">
+            </div>
+          </div>
+
+
+        </div><!-- end modal body -->
+        <div class="modal-footer">
+          <button type="submit" class="pull-right btn button-lg button-modal">
+            Next <span class="glyphicon icon-caret-right"></span></button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+    <div class="main_wrapper container-fluid">
+           <div id="smt_col1Wrapper">
+        <div id="smt_col1" class="padding-wrap">
+
+
+          <div class="modSpacer">
+            <p>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".sign-in-modal">Sign In Modal</button>
+            </p>
+            <p>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-one">Registration Required 1</button>
+            </p>
+            <p>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-two">Registration Required 2</button>
+            </p>
+            <p>
+              <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three">Registration Required 3</button>
+            </p>
+          </div>
+
+
+        </div>
       </div>
     </div>
     <?php include '../templates/scripts.php';?>
