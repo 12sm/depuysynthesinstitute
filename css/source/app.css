@@ -628,12 +628,20 @@ img.placeholder-image {
    background: #E4E4E2!important;
   }
 
+  .new-assignment-form h2 {
+    font-size:14px;
+  }
+
 }
 
 @media only screen and (min-width:600px) {
 
   .tabs-section {
     margin-top:0px;
+  }
+
+  .new-assignment-form h2 {
+    font-size:14px!important;
   }
 
 }
@@ -656,6 +664,10 @@ img.placeholder-image {
     padding: 0 0 0 5px;
   }
 
+  .new-assignment-form h2 {
+    font-size:14px;
+  }
+
 }
 
 @media only screen and (min-width: 1024px) {
@@ -676,12 +688,20 @@ img.placeholder-image {
    padding: 15px 30px!important;
   }
 
+  .new-assignment-form h2 {
+    font-size:14px;
+  }
+
 }
 
 @media only screen and (min-width: 1280px) {
 
   .padding-wrap {
     padding: 0px 30px;
+  }
+
+  .new-assignment-form h2 {
+    font-size:14px;
   }
 
 }
