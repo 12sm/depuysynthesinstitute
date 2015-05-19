@@ -46,7 +46,7 @@
           <h2>Resident Views</h2>
           <a href='views/my-assignments/resident.php'><h2></h2>Resident</a>
           <a href='views/my-assignments/show-unordered.php'><h2></h2>Show Unordered Assignment</a>
-          <a href='views/my-assignments/show-ordered.php'><h2></h2>Show Sequential Assignment</a>
+          <a href='views/my-assignments/show-sequential.php'><h2></h2>Show Sequential Assignment</a>
           <a href='views/my-assignments/single.php'><h2></h2>Single Materials</a>
           <h2>Director Views</h2>
           <a href='views/my-assignments/director.php'><h2></h2>Director</a>
@@ -60,6 +60,8 @@
           <h2>Chief Views</h2>
           <a href='views/my-assignments/chief-resident.php'><h2></h2>Chief Resident</a>
           <a href='views/my-assignments/chief-admin.php'><h2></h2>Chief Admin</a>
+          <h2>Knowledge Center</h2>
+          <a href='views/my-assignments/knowledge-center.php'><h2></h2>Knowledge Center</a>
           <h2>Manage Residents</h2>
           <a href='views/my-assignments/resident-management.php'><h2></h2>Manage Residents</a>
           <a href='views/my-assignments/invitation-sent.php'><h2></h2>Invitation Sent</a>

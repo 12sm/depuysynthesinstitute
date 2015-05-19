@@ -11,11 +11,8 @@
       <div class="right_column col-xs-12 col-sm-8 col-md-9">
         <?php include '../templates/mobile-header.php';?>
 
-
-
         <div id="smt_col1Wrapper">
           <div id="smt_col1" class="padding-wrap">
-
 
             <div class="modSpacer name-assignment">
               <div class="row">
@@ -57,12 +54,12 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
-                        <div class="checkBiz col-xs-1 ">
+                        <div class="checkBiz col-xs-1">
                           <div class="checkComplete">
                             <input type="checkbox" value="complete"/>
                           </div>
@@ -130,7 +127,7 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -203,7 +200,7 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -276,7 +273,7 @@
 
 
               <div class="row single-class single-date">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -345,7 +342,7 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -634,8 +631,6 @@
                   </div>
                 </div>
               </div>
-
-
             </div>
           </div>
         </div>
