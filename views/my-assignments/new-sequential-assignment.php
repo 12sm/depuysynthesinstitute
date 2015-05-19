@@ -566,8 +566,8 @@
                       </div>
                     </div>
                     <div class="row">
-                      <div class="col-xs-4 col-sm-3 col-md-2">
-                        <input type="date" id="myDate" placeholder="06/19/2015">
+                      <div class="col-xs-4 col-sm-3 col-md-4">
+                        <input type="text" id="myDate" placeholder="06/19/2015">
                       </div>
                       <div class="col-xs-1 col-sm-1 col-md-1">
                         <span class="pull-right glyphicon icon-cal"></span>

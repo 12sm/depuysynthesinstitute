@@ -31,7 +31,7 @@
 }
 
 .btn-info {
-  padding: 5px 10px;
+  padding: 0px 10px;
 }
 
 .btn-info a {
@@ -653,6 +653,14 @@ img.placeholder-image {
   height: auto;
 }
 
+.cancel-save {
+  margin-top: 20px;
+}
+
+.cancel-save a {
+  margin-top: 5px;
+}
+
 
 
 
@@ -860,7 +868,7 @@ span.warning p {
   }
 
   .how-many-residents {
-    margin-top: 20px;  
+    margin-top: 20px;
   }
 
   ul#acc-menu6 li a {
