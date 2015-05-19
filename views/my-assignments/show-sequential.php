@@ -40,11 +40,8 @@
       <div class="right_column col-xs-12 col-sm-8 col-md-9">
         <?php include '../templates/mobile-header.php';?>
 
-
-
         <div id="smt_col1Wrapper">
           <div id="smt_col1" class="padding-wrap">
-
 
             <div class="modSpacer name-assignment">
               <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button>
@@ -84,8 +81,6 @@
                   </h6>
                 </div>
               </div>
-
-
 
               <div class="row single-class">
                 <div class="col-xs-12 no-padding">
@@ -167,8 +162,6 @@
                   </div>
                 </div>
               </div>
-
-
 
               <div class="row single-class">
                 <div class="col-xs-12 no-padding">
