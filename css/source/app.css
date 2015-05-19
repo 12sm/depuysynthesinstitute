@@ -18,12 +18,43 @@
   padding:0px!important;
 }
 
+.no-margin {
+  margin:0!important;
+}
+
+.no-margin-top {
+  margin-top:0!important;
+}
+
 .container-fluid {
   padding: 0;
 }
 
 .btn-info {
   padding: 5px 10px;
+}
+
+.btn-info a {
+  color:#FFF;
+  font-weight:bold;
+  font-size:14px;
+  text-decoration:none;
+}
+
+.btn-info a:hover {
+  text-decoration:none;
+}
+
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="text"],
+textarea {
+  height: 32px;
+  padding: 5px;
+  border: 1px solid #D8D8D8;
+  border-radius: 5px;
+  width: 100%;
 }
 
 
@@ -529,7 +560,7 @@ img.placeholder-image {
 
 
 /* ===========================
-   Director New Assignment
+   My Assignments Director
    =========================== */
 
 .new-assignment-form h2 {
@@ -606,6 +637,26 @@ img.placeholder-image {
 .director-new-assignment .panel-body.not-checked p {
   color: #4D4F53;
 }
+
+.how-many-residents {
+  border: 1px solid #D5D6D2;
+  padding: 20px;
+  text-align: left;
+}
+
+.how-many-residents h2 {
+  margin-top:0;
+}
+
+.how-many-residents button.btn.btn-info {
+  white-space: normal;
+  height: auto;
+}
+
+
+
+
+
 
 
 
@@ -806,6 +857,10 @@ span.warning p {
 
   .single-class .flag {
    right: 20px;
+  }
+
+  .how-many-residents {
+    margin-top: 20px;  
   }
 
   ul#acc-menu6 li a {

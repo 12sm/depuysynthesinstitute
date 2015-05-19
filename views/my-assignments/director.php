@@ -17,13 +17,29 @@
           <div id="smt_col1" class="padding-wrap">
             <div class="modSpacer current-assignments">
               <div class="row">
-                <div class="col-xs-8">
+                <div class="col-xs-12 col-sm-4 pull-right how-many-residents">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h2>
+                        You Have 20 Residents
+                      </h2>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <button class="btn btn-info">
+                        Manage Residents
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xs-12 col-sm-8">
                   <form class="form-inline" action="" method="" onsubmit="">
                     <div class="row">
                       <div class="col-xs-12">
-                        <h1>
+                        <h2>
                           New Assignment
-                        </h1>
+                        </h2>
                       </div>
                     </div>
                     <div class="row">
@@ -38,28 +54,12 @@
                         <input type="text" placeholder="Assignment Name">
                       </div>
                       <div class="col-xs-4">
-                        <button class="btn">
+                        <button class="btn btn-info">
                           <a href="new-assignment.php">Next</a>
                         </button>
                       </div>
                     </div>
                   </form>
-                </div>
-                <div class="col-xs-4">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <h1>
-                        You Have 20 Residents
-                      </h1>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <button class="btn">
-                        Manage Residents
-                      </button>
-                    </div>
-                  </div>
                 </div>
               </div>
               <div class="row">
@@ -83,7 +83,7 @@
                   </h5>
                 </div>
               </div>
-              <hr>
+              <hr class="no-margin-top">
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
@@ -210,9 +210,9 @@
                   </h5>
                 </div>
               </div>
-              <hr>
+              <hr class="no-margin-top">
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -234,7 +234,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -256,7 +256,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -278,7 +278,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
