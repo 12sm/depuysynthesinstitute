@@ -14,6 +14,10 @@
   text-align:center!important;
 }
 
+.blue {
+  color:#003C60!important;
+}
+
 .no-padding {
   padding:0px!important;
 }
@@ -45,6 +49,16 @@
   text-decoration:none;
 }
 
+.table-class {
+  display:table;
+  height:100%;
+}
+
+.table-cell {
+  display:inline;
+  vertical-align:middle;
+}
+
 input[type="email"],
 input[type="url"],
 input[type="password"],
@@ -55,6 +69,28 @@ textarea {
   border: 1px solid #D8D8D8;
   border-radius: 5px;
   width: 100%;
+}
+
+/* Icons */
+
+.icon-trash:before {
+    content: "\e619";
+}
+
+.icon-checkmark:before {
+    content: "\e617";
+}
+
+.icon-arrow-down:before {
+    content: "\e61a";
+}
+
+.icon-phone:before {
+    content: "\e616";
+}
+
+.icon-question:before {
+    content: "\e618";
 }
 
 
@@ -180,6 +216,9 @@ ul.list-unstyled.nav_list li.nav-foot-ankle {
   box-shadow: none!important;
 }
 
+span.twitter-typeahead {
+  width: 100%;
+}
 
 
 /* Surgeon Ed Logged Out */
@@ -194,6 +233,28 @@ ul.list-unstyled.nav_list li.nav-foot-ankle {
 ul.dropdown-menu.mobile-nav li.sub-nav a {
   white-space: pre-wrap;
 }
+
+/* Residents Manu */
+
+.residents-menu li.nav-knowledge-center,
+.residents-menu li.nav-knowledge-center,
+.residents-menu li.nav-calendar {
+  list-style: none;
+  -webkit-box-shadow: none!important;
+  -moz-box-shadow: none!important;
+  box-shadow: none!important;
+  margin-bottom: 0;
+  margin-top:0;
+}
+
+.residents-menu li.nav-home {
+  list-style: none;
+  -webkit-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  margin-bottom: 10px;
+}
+
 
 
 
@@ -661,6 +722,38 @@ img.placeholder-image {
   margin-top: 5px;
 }
 
+a.delete-link {
+  padding-top: 9px;
+  display: block;
+}
+
+.asignee-list h6.completed {
+  margin-top: 20px;
+  margin-bottom: 7px;
+}
+
+.list-items .row:nth-child(odd) {
+  background-color: #D5D6D2;
+}
+
+.list-items > div > div > h6 a {
+  font-weight: normal;
+}
+
+.list-items .row {
+  margin-left: -1px;
+}
+
+.assigned-by p {
+  margin: 20px 0px 10px 0px;
+}
+
+.list-items .glyphicon {
+  font-size: 15px;
+  top: 8px;
+  float:right;
+}
+
 
 
 
@@ -840,7 +933,7 @@ span.warning p {
   }
 
   .container-fluid {
-    padding: 0 0 0 5px;
+    padding: 0px;
   }
 
   .new-assignment-form h2 {

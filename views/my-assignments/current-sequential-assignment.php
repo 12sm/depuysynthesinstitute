@@ -39,14 +39,14 @@
                   <button type="button" class="btn btn-primary">Edit Assignment</button>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                  <a href="#">
+                  <a href="#" class="delete-link">
                     Delete
                   </a>
                 </div>
               </div>
             </div>
 
-            <div class="modSpacer">
+            <div class="modSpacer asignee-list">
               <div class="row">
                 <div class="col-xs-6">
                   <h6 class="completed">

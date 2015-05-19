@@ -36,17 +36,17 @@
             <div class="modSpacer assigned-by">
               <div class="row">
                 <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
-                  <button type="button" class="btn btn-primary">Edit Assignment</button>
+                  <button type="button" class="btn btn-info">Edit Assignment</button>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                  <a href="#">
+                  <a href="#" class="delete-link">
                     Delete
                   </a>
                 </div>
               </div>
             </div>
 
-            <div class="modSpacer">
+            <div class="modSpacer asignee-list">
               <div class="row">
                 <div class="col-xs-6">
                   <h6 class="completed">
@@ -60,11 +60,11 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-12 list-items">
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Michelle Nguyen
+                        <a href="#">Michelle Nguyen</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -76,31 +76,17 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Lauren Jackson
+                        <a href="#">Lauren Jackson</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
-                      <span>
-                        Check Mark Icon
-                      </span>
+                      <span class="glyphicon icon-checkmark table-cell"></span>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Maria Tucker
-                      </h6>
-                    </div>
-                    <div class="col-xs-6">
-                      <span>
-
-                      </span>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-6">
-                      <h6>
-                        Samuel Marshall
+                        <a href="#">Maria Tucker</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -112,7 +98,7 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Patricia Butler
+                        <a href="#">Samuel Marshall</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -124,19 +110,7 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Joyce Peterson
-                      </h6>
-                    </div>
-                    <div class="col-xs-6">
-                      <span>
-                        Check Mark Icon
-                      </span>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-6">
-                      <h6>
-                        Bryan Freeman
+                        <a href="#">Patricia Butler</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -148,19 +122,39 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Carl Carlson
+                        <a href="#">Joyce Peterson</a>
+                      </h6>
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="glyphicon icon-checkmark table-cell"></span>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-6">
+                      <h6>
+                        <a href="#">Bryan Freeman</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
                       <span>
-                        Check Mark Icon
+
                       </span>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Benjamin Reyes
+                        <a href="#">Carl Carlson</a>
+                      </h6>
+                    </div>
+                    <div class="col-xs-6">
+                      <span class="glyphicon icon-checkmark table-cell"></span>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-6">
+                      <h6>
+                        <a href="#">Benjamin Reyes</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
