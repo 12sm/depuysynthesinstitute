@@ -24,7 +24,7 @@
         <li class="">
           <a href="#acc-menu5" class="coll-butt nav_knowledge-center" data-parent="#accordion5" data-toggle="collapse">
             Knowledge Center
-            <span class="pull-right glyphicon icon-caret-right"></span>
+            <span class="glyphicon icon-arrow-down pull-right blue"></span>
           </a>
           <ul id="acc-menu5">
             <li><a href="#">General Principles And Fundamentals</a></li>
@@ -44,8 +44,8 @@
         <li class=""><a href="/graduation-resources" class="">Graduation Resources<span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
         <li class=""><a href="/external-resources" class="">External Resources<span class="pull-right glyphicon icon-external-resources"></span></a></li>
         <li class=""><a href="/calendar" class="">Course Calendar<span class="pull-right glyphicon icon-cal"></span></a></li>
-        <li class=""><a href="/faq" class="">FAQs<span class="pull-right glyphicon icon-faq"></span></a></li>
-        <li class=""><a href="/contact" class="">Contact Us<span class="pull-right glyphicon icon-earphone"></span></a></li>
+        <li class=""><a href="/faq" class="">FAQs<span class="glyphicon icon-question pull-right"></span></a></li>
+        <li class=""><a href="/contact" class="">Contact Us<span class="glyphicon icon-phone pull-right"></span></a></li>
 
         <li class="mobile-nav-break"></li>
         <li class="sub-nav"><a href="/surgeon-education">Surgeon Education<span class="glyphicon icon-caret-right"></span></a></li>

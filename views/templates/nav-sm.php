@@ -13,7 +13,7 @@
       <li class="nav-knowledge-center">
         <a href="#acc-menu6" class="coll-butt nav_knowledge-center" data-parent="#accordion6" data-toggle="collapse">
           Knowledge Center
-          <span class="glyphicon icon-arrow-down pull-right blue"></span
+          <span class="glyphicon icon-arrow-down pull-right blue"></span>
         </a>
         <ul id="acc-menu6">
           <li><a href="#">General Principles And Fundamentals</a></li>
