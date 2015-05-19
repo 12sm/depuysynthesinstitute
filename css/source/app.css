@@ -234,11 +234,14 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
   white-space: pre-wrap;
 }
 
-/* Residents Manu */
+/* Residents Menu */
 
 .residents-menu li.nav-knowledge-center,
 .residents-menu li.nav-knowledge-center,
-.residents-menu li.nav-calendar {
+.residents-menu li.nav-calendar,
+.director-menu li.nav-knowledge-center,
+.director-menu li.nav-knowledge-center,
+.director-menu li.nav-calendar {
   list-style: none;
   -webkit-box-shadow: none!important;
   -moz-box-shadow: none!important;
@@ -247,7 +250,8 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
   margin-top:0;
 }
 
-.residents-menu li.nav-home {
+.residents-menu li.nav-home,
+.director-menu li.nav-home {
   list-style: none;
   -webkit-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
   -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
@@ -712,6 +716,7 @@ img.placeholder-image {
 .how-many-residents button.btn.btn-info {
   white-space: normal;
   height: auto;
+  padding: 10px;
 }
 
 .cancel-save {
@@ -986,6 +991,10 @@ span.warning p {
 
   .new-assignment-form h2 {
     font-size:14px;
+  }
+
+  .how-many-residents button.btn.btn-info {
+    padding: 3px 10px;
   }
 
 }

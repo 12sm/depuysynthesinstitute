@@ -4,7 +4,7 @@
   <body>
     <?php include '../templates/sign-in-out.php';?>
     <div class="main_wrapper container-fluid">
-      <div class="left_column hidden-xs col-sm-4 col-md-3">
+      <div class="left_column hidden-xs col-sm-4 col-md-3 director-menu">
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
       </div>
@@ -229,7 +229,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
@@ -251,7 +251,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
@@ -273,7 +273,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
@@ -295,7 +295,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
             </div>
