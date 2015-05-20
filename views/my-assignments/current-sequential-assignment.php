@@ -36,7 +36,7 @@
             <div class="modSpacer assigned-by">
               <div class="row">
                 <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2">
-                  <button type="button" class="btn btn-primary">Edit Assignment</button>
+                  <button type="button" class="btn btn-info">Edit Assignment</button>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
                   <a href="#" class="delete-link">
@@ -60,11 +60,11 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-12 list-items">
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Michelle Nguyen
+                        <a href="#">Michelle Nguyen</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -76,31 +76,17 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Lauren Jackson
+                        <a href="#">Lauren Jackson</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
-                      <span>
-                        Check Mark Icon
-                      </span>
+                      <span class="glyphicon icon-checkmark table-cell"></span>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Maria Tucker
-                      </h6>
-                    </div>
-                    <div class="col-xs-6">
-                      <span>
-
-                      </span>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-6">
-                      <h6>
-                        Samuel Marshall
+                        <a href="#">Maria Tucker</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -112,7 +98,7 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Patricia Butler
+                        <a href="#">Samuel Marshall</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -124,19 +110,7 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Joyce Peterson
-                      </h6>
-                    </div>
-                    <div class="col-xs-6">
-                      <span>
-                        Check Mark Icon
-                      </span>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-6">
-                      <h6>
-                        Bryan Freeman
+                        <a href="#">Patricia Butler</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -148,19 +122,39 @@
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Carl Carlson
+                        <a href="#">Joyce Peterson</a>
+                      </h6>
+                    </div>
+                    <div class="col-xs-6">
+                        <span class="glyphicon icon-checkmark table-cell"></span>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-6">
+                      <h6>
+                        <a href="#">Bryan Freeman</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
                       <span>
-                        Check Mark Icon
+
                       </span>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-6">
                       <h6>
-                        Benjamin Reyes
+                        <a href="#">Carl Carlson</a>
+                      </h6>
+                    </div>
+                    <div class="col-xs-6">
+                      <span class="glyphicon icon-checkmark table-cell"></span>
+                    </div>
+                  </div>
+                  <div class="row">
+                    <div class="col-xs-6">
+                      <h6>
+                        <a href="#">Benjamin Reyes</a>
                       </h6>
                     </div>
                     <div class="col-xs-6">
@@ -191,7 +185,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          1
+                          <input type="text" placeholder="1">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -263,7 +257,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          2
+                          <input type="text" placeholder="2">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -334,7 +328,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          3
+                          <input type="text" placeholder="3">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -405,7 +399,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          4
+                          <input type="text" placeholder="4">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -476,7 +470,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          5
+                          <input type="text" placeholder="5">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -543,7 +537,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          6
+                          <input type="text" placeholder="6">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -614,7 +608,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          7
+                          <input type="text" placeholder="7">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">
@@ -685,7 +679,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                       <div class="row">
                         <div class="col-xs-2 col-md-1">
-                          8
+                          <input type="text" placeholder="8">
                         </div>
                         <div class="col-xs-10 col-md-11">
                           <div class="row">

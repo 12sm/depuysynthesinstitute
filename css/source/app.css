@@ -742,7 +742,7 @@ img.placeholder-image {
 }
 
 a.delete-link {
-  padding-top: 9px;
+  padding-top: 6px;
   display: block;
 }
 
@@ -760,6 +760,12 @@ a.delete-link {
   font-size: 14px;
 }
 
+.list-items h6 {
+  margin-top: 7px;
+  margin-bottom: 7px;
+  margin-left: -4px;
+}
+
 .list-items .row {
   margin-left: -1px;
 }
@@ -772,6 +778,7 @@ a.delete-link {
   font-size: 15px;
   top: 8px;
   float:right;
+  margin-right: 3px;
 }
 
 
@@ -980,6 +987,14 @@ span.warning p {
    right: 20px;
   }
 
+  .grey-bg .flag {
+   right: 20px;
+  }
+
+  .grey-bg {
+    margin-right: 0px;
+  }
+
   .how-many-residents {
     margin-top: 20px;
   }
@@ -994,6 +1009,22 @@ span.warning p {
 
   h4.modal-title {
     font-size: 24px;
+  }
+
+  h6.completed {
+    font-size:13px;
+  }
+
+  h6.completed.pull-right {
+    margin-right: -15px;
+  }
+
+  .single-class p {
+    font-size: 14px;
+  }
+
+  .single-class p span {
+   font-size: 14px;
   }
 
 }

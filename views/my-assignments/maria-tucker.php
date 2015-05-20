@@ -4,7 +4,7 @@
   <body>
     <?php include '../templates/sign-in-out.php';?>
     <div class="main_wrapper container-fluid">
-      <div class="left_column hidden-xs col-sm-4 col-md-3">
+      <div class="left_column hidden-xs col-sm-4 col-md-3 director-menu">
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
       </div>
@@ -395,7 +395,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
-                          Check Mark Icon
+                          <span class="glyphicon icon-checkmark table-cell"></span>
                         </div>
                         <div class="col-xs-11">
                           <div class="row">
@@ -466,7 +466,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
-                          Check Mark Icon
+                          <span class="glyphicon icon-checkmark table-cell"></span>
                         </div>
                         <div class="col-xs-11">
                           <div class="row">
@@ -537,7 +537,7 @@
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
-                          Check Mark Icon
+                          <span class="glyphicon icon-checkmark table-cell"></span>
                         </div>
                         <div class="col-xs-11">
                           <div class="row">
