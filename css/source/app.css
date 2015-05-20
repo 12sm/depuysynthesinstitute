@@ -513,12 +513,10 @@ p.calendar_date {
 
 /* Modals */
 
-.modal .btn.btn-info,
-.modal .btn-black {
-  padding: 10px;
-  height: auto;
-  width: 80px;
-  float:right;
+.modal .btn.btn-info, .modal .btn-black {
+  height: 35px;
+  width: auto;
+  float: right;
 }
 
 .btn-black {
