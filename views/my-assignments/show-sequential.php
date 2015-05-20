@@ -44,7 +44,7 @@
           <div id="smt_col1" class="padding-wrap">
 
             <div class="modSpacer name-assignment">
-              <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button>
+              <!-- <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".bs-example-modal-sm">Small modal</button> -->
               <div class="row">
                 <div class="col-xs-12">
                   <h2>
