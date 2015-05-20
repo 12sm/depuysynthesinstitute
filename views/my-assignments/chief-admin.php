@@ -4,7 +4,7 @@
   <body>
     <?php include '../templates/sign-in-out.php';?>
     <div class="main_wrapper container-fluid">
-      <div class="left_column hidden-xs col-sm-4 col-md-3">
+      <div class="left_column hidden-xs col-sm-4 col-md-3 chief-resident-menu">
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
       </div>
@@ -18,7 +18,7 @@
             <a href="/views/my-assignments/chief-resident.php">Resident View</a>
           </div>
           <div class="col-xs-6 col-sm-6 col-md-2 admin-tab active">
-            <a href="/views/my-assignments/chief-admin.php">Admin View
+            <a href="/views/my-assignments/chief-admin.php">Admin View</a>
           </div>
           <div class="col-md-8 hidden-xs hidden-sm">
           </div>
@@ -29,47 +29,49 @@
           <div id="smt_col1" class="padding-wrap">
             <div class="modSpacer current-assignments">
               <div class="row">
-                <div class="col-xs-8">
+                <div class="col-xs-12 col-sm-4 pull-right how-many-residents">
                   <div class="row">
                     <div class="col-xs-12">
-                      <h1>
-                        New Assignment
-                      </h1>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <p>
-                        You can create a collection of resources, courses and events to assign to your residents.
-                      </p>
-                    </div>
-                  </div>
-                  <div class="row">
-                    <div class="col-xs-8">
-                      <input type="text" placeholder="Assignment Name">
-                    </div>
-                    <div class="col-xs-4">
-                      <button class="btn">
-                        Next
-                      </button>
-                    </div>
-                  </div>
-                </div>
-                <div class="col-xs-4">
-                  <div class="row">
-                    <div class="col-xs-12">
-                      <h1>
+                      <h2>
                         You Have 20 Residents
-                      </h1>
+                      </h2>
                     </div>
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      <button class="btn">
+                      <button class="btn btn-info">
                         Manage Residents
                       </button>
                     </div>
                   </div>
+                </div>
+                <div class="col-xs-12 col-sm-8">
+                  <form class="form-inline" action="" method="" onsubmit="">
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <h2>
+                          New Assignment
+                        </h2>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-12">
+                        <p>
+                          You can create a collection of resources, courses and events to assign to your residents.
+                        </p>
+                      </div>
+                    </div>
+                    <div class="row">
+                      <div class="col-xs-8">
+                        <input type="text" placeholder="Assignment Name">
+                      </div>
+                      <div class="col-xs-4">
+                        <button class="btn btn-info">
+                          <a href="new-assignment.php">Next</a>
+                        </button>
+                      </div>
+                    </div>
+                  </form>
                 </div>
               </div>
               <div class="row">

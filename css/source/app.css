@@ -258,7 +258,10 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
 .residents-menu li.nav-calendar,
 .director-menu li.nav-knowledge-center,
 .director-menu li.nav-knowledge-center,
-.director-menu li.nav-calendar {
+.director-menu li.nav-calendar,
+.chief-resident-menu li.nav-knowledge-center,
+.chief-resident-menu li.nav-knowledge-center,
+.chief-resident-menu li.nav-calendar {
   list-style: none;
   -webkit-box-shadow: none!important;
   -moz-box-shadow: none!important;
@@ -268,7 +271,8 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
 }
 
 .residents-menu li.nav-home,
-.director-menu li.nav-home {
+.director-menu li.nav-home,
+.chief-resident-menu li.nav-home {
   list-style: none;
   -webkit-box-shadow: 2px -3px 2px 0 rgba(000,000,000,.1)!important;
   -moz-box-shadow: 2px -3px 2px 0 rgba(000,000,000,.1)!important;
@@ -277,7 +281,8 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
 }
 
 .residents-menu li.active.nav-assignments,
-.director-menu li.active.nav-assignments {
+.director-menu li.active.nav-assignments,
+.chief-resident-menu li.active.nav-assignments {
   box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1);
   -webkit-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1);
   -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1);
