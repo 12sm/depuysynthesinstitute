@@ -224,7 +224,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
               <hr>
@@ -254,7 +254,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
               <hr>
@@ -284,7 +284,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
               <hr>
@@ -314,7 +314,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Checkmark
+                  <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
             </div>
