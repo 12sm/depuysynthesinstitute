@@ -763,12 +763,13 @@
                       </div>
                     </div>
                   </div>
+                </div>
 
 
 
 
 
-                  <div class="hidden-md hidden-lg col-xs-12 col-sm-12">
+                  <div class="visible-xs visible-sm hidden-md col-xs-12 col-sm-12">
                     <div class="row">
                       <div class="col-xs-12">
                         <h2>
@@ -1105,7 +1106,7 @@
                     <input type="text" placeholder="Search Resources">
                   </div>
                   <div class="col-xs-3 col-sm-2 col-lg-1">
-                    <button type="button" class="btn btn-info" data-toggle="modal" data-target=".bs-example-modal-lg">Search</button>
+                    <button type="button" class="btn btn-info pull-right" data-toggle="modal" data-target=".bs-example-modal-lg">Search</button>
                   </div>
                 </div>
                 <div class="row">
@@ -1123,7 +1124,7 @@
                     <a href="#">Cancel</a>
                   </div>
                   <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                    <button class="btn btn-info">Create</button>
+                    <button class="btn btn-info pull-right">Create</button>
                   </div>
                 </div>
               </div>
