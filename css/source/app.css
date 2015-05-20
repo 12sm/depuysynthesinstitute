@@ -71,6 +71,8 @@ textarea {
   width: 100%;
 }
 
+a {color:#003b5f;}
+
 /* Icons */
 
 .icon-trash:before {
@@ -173,6 +175,7 @@ ul#acc-menu6 li a {
   padding: 15px 20px!important;
   width: 100%;
   font-size: 12px;
+  line-height: 1.3;
   display: inline-block;
 }
 
