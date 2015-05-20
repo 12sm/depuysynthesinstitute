@@ -280,6 +280,19 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
   -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1);
 }
 
+.singles-menu li.nav-profile,
+.singles-menu li.nav-favorites,
+.singles-menu li.nav-assignments {
+  display: none;
+}
+
+.singles-menu li.nav-home {
+  list-style: none;
+  -webkit-box-shadow: none!important;
+  -moz-box-shadow: none!important;
+  box-shadow: none!important;
+  margin-top: 0;
+}
 
 
 
@@ -362,6 +375,10 @@ p.calendar_date {
 
 .past-assignments {
   margin-top: 24px;
+}
+
+.checkBiz {
+  max-width:25px;
 }
 
 
