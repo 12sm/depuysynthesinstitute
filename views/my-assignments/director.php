@@ -28,7 +28,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <button class="btn btn-info">
-                        Manage Residents
+                        <a href="/views/my-assignments/resident-management.php">Manage Residents</a>
                       </button>
                     </div>
                   </div>
@@ -55,7 +55,7 @@
                       </div>
                       <div class="col-xs-4">
                         <button class="btn btn-info">
-                          <a href="new-assignment.php">Next</a>
+                          <a href="new-unordered-assignment.php">Next</a>
                         </button>
                       </div>
                     </div>
@@ -104,7 +104,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <p class="course_contents course_location">
-                        2 PDFs, 3 Videos, 1 Podcast, 1 Event, 1 eLearning
+                        3/10 Residents have completed
                       </p>
                     </div>
                   </div>
@@ -131,7 +131,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                     <p class="course_contents course_location">
-                      2 PDFs, 3 Videos
+                      0/5 Residents have completed
                     </p>
                     </div>
                   </div>
@@ -158,7 +158,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <p class="course_contents course_location">
-                        7 Events
+                        1/8 Residents ahve completed
                       </p>
                     </div>
                   </div>
@@ -185,7 +185,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <p class="course_contents course_location">
-                        3 Courses, 1 Event
+                        0/10 Residents have completed
                       </p>
                     </div>
                   </div>

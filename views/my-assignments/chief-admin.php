@@ -40,7 +40,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <button class="btn btn-info">
-                        Manage Residents
+                        <a href="/views/my-assignments/resident-management.php">Manage Residents</a>
                       </button>
                     </div>
                   </div>
@@ -116,7 +116,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <p class="course_contents course_location">
-                        2 PDFs, 3 Videos, 1 Podcast, 1 Event, 1 eLearning
+                        3/10 Residents have completed
                       </p>
                     </div>
                   </div>
@@ -143,7 +143,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                     <p class="course_contents course_location">
-                      2 PDFs, 3 Videos
+                      0/5 Residents have completed
                     </p>
                     </div>
                   </div>
@@ -170,7 +170,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <p class="course_contents course_location">
-                        7 Events
+                        1/8 Residents have completed
                       </p>
                     </div>
                   </div>
@@ -197,7 +197,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <p class="course_contents course_location">
-                        3 Courses, 1 Event
+                        0/10 Residents have completed
                       </p>
                     </div>
                   </div>
@@ -214,7 +214,14 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-12">
+                <div class="col-xs-1">
+                  <h5>
+                    <span class="assignment-heading">
+                      Expired
+                    </span>
+                  </h5>
+                </div>
+                <div class="col-xs-11">
                   <h5>
                     <span class="assignment-heading">
                       Assignment
@@ -224,7 +231,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -241,12 +248,12 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -263,12 +270,12 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -285,12 +292,12 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-1">
+                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -307,7 +314,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  Trash Can Icon
+                  <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
             </div>

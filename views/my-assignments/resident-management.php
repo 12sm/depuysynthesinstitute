@@ -64,7 +64,7 @@
                       <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <input type="checkbox" checked value="complete"/><p>
+                            <p>
                               PGY 1 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
