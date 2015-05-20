@@ -61,7 +61,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour" name="check" />
+                            	<label for="squaredFour"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -134,7 +137,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour2" name="check" />
+                            	<label for="squaredFour2"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -207,7 +213,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour3" name="check" />
+                            	<label for="squaredFour3"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -280,7 +289,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour4" name="check" />
+                            	<label for="squaredFour4"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -349,7 +361,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete"/>
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour5" name="check" />
+                            	<label for="squaredFour5"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -422,7 +437,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete" checked />
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour6" name="check" />
+                            	<label for="squaredFour6"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -495,7 +513,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete" checked />
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour7" name="check" />
+                            	<label for="squaredFour7"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">
@@ -568,7 +589,10 @@
                       <div class="row">
                         <div class="checkBiz col-xs-1 ">
                           <div class="checkComplete">
-                            <input type="checkbox" value="complete" checked />
+                            <div class="squaredFour">
+                            	<input type="checkbox" value="None" id="squaredFour8" name="check" />
+                            	<label for="squaredFour8"></label>
+                            </div>
                           </div>
                         </div>
                         <div class="col-xs-11">

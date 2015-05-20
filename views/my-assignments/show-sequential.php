@@ -37,7 +37,7 @@
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
       </div>
-      <div class="right_column col-xs-12 col-sm-8 col-md-9">
+      <div class="right_column col-xs-12 col-sm-8 col-md-9 show-sequential">
         <?php include '../templates/mobile-header.php';?>
 
         <div id="smt_col1Wrapper">
@@ -97,7 +97,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete"/>
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour" name="check" />
+                                	<label for="squaredFour3"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -178,7 +181,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete"/>
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour2" name="check" />
+                                	<label for="squaredFour2"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -260,7 +266,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete"/>
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour3" name="check" />
+                                	<label for="squaredFour3"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -342,7 +351,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete"/>
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour4" name="check" />
+                                	<label for="squaredFour4"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -424,7 +436,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete"/>
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour5" name="check" />
+                                	<label for="squaredFour5"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -502,7 +517,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete"/>
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour6" name="check" />
+                                	<label for="squaredFour6"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -584,7 +602,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete" checked />
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour7" name="check" />
+                                	<label for="squaredFour7"></label>
+                                </div>
                               </div>
                             </div>
                           </div>
@@ -666,7 +687,10 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <div class="checkComplete">
-                                <input type="checkbox" value="complete" checked />
+                                <div class="squaredFour">
+                                	<input type="checkbox" value="None" id="squaredFour8" name="check" />
+                                	<label for="squaredFour8"></label>
+                                </div>
                               </div>
                             </div>
                           </div>

@@ -13,6 +13,7 @@
 
         <div class="row tabs-section">
           <div class="pho-show col-xs-12">
+            <button type="button" class="btn btn-sm resource-btn resource-btn-pdf">Launch eLearning</button>
             <img src="/img/eLearning-eModule.png" height="auto" width="100%">
           </div>
         </div>
