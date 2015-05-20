@@ -906,8 +906,15 @@ a.delete-link {
    MODALS
    =========================== */
 
+
+
 h4.modal-title {
   font-size: 14px;
+}
+
+.bs-example-modal-sm button.btn.btn-black,
+.bs-example-modal-sm button.btn.btn-info {
+  padding: 0px 20px;
 }
 
 .modal-body .single-class span.pull-right.glyphicon.icon-caret-down {
@@ -1139,6 +1146,10 @@ span.warning p {
 
   .single-class p span {
    font-size: 14px;
+  }
+
+  .modal-lg {
+    width:500px;
   }
 
 }

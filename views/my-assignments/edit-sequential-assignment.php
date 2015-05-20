@@ -3,6 +3,39 @@
   <?php include '../templates/head.php';?>
   <body>
 
+    <!-- Save Changes / Send Update Modal -->
+    <div class="modal fade bs-example-modal-sm" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-sm">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title">Send Update?</h4>
+          </div>
+          <div class="modal-body">
+            <p>
+              Would you like to notify the asignees of the update to this assignment?
+            </p>
+          </div>
+          <div class="modal-footer">
+            <div class="row">
+              <div class="col-xs-6 col-sm-4">
+              </div>
+              <div class="col-xs-3 col-sm-4">
+                <button type="button" class="btn btn-black" data-dismiss="modal">No</button>
+              </div>
+              <div class="col-xs-3 col-sm-4">
+                <button type="button" class="btn btn-info">Yes</button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
     <div class="modal fade bs-example-modal-lg" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -1126,7 +1159,7 @@
                     <a href="#" class="pull-right">Cancel</a>
                   </div>
                   <div class="col-xs-3 col-sm-2 col-md-2 col-lg-2">
-                    <button class="btn btn-info pull-right">Save Changes</button>
+                    <button type="button" class="btn btn-info pull-right" data-toggle="modal" data-target=".bs-example-modal-sm">Save Changes</button>
                   </div>
                 </div>
               </div>

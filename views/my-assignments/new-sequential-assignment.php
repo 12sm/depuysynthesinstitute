@@ -56,10 +56,10 @@
                           </div>
                         </div>
                         <div id="mat1" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-3">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -119,10 +119,10 @@
                           </div>
                         </div>
                         <div id="mat2" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-3">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -156,7 +156,7 @@
                       </div>
                       <div class="col-xs-11">
                         <div class="row">
-                          <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-4 col-sm-4 col-md-2 col-lg-3">
                             <div class="pull-left">
                               <div class="calendar">
                                 <p class="calendar_month">JUN</p>
@@ -169,7 +169,7 @@
                               </div>
                             </div>
                           </div>
-                          <div class="col-xs-8 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-8 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <h4>
@@ -236,10 +236,10 @@
                           </div>
                         </div>
                         <div id="mat4" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-3">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -298,10 +298,10 @@
                           </div>
                         </div>
                         <div id="mat5" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-3">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -361,10 +361,10 @@
                           </div>
                         </div>
                         <div id="mat6" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-3">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
