@@ -43,9 +43,9 @@
                     <div class="share-like-list dropdown btn-group">
                       <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a></span>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter</a></li>
+                        <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email</a></li>
                       </ul>
                       <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
                     </div>
@@ -134,9 +134,9 @@
                         <div class="share-like-list dropdown btn-group">
                           <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a></span>
                           <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/craniomaxillofacial/qs/150J5594');"> <img src="/img/fb.jpg"> Facebook</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/craniomaxillofacial/qs/150J5594');"> <img src="/img/tw.jpg"> Twitter</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/craniomaxillofacial/qs/150J5594');"> <img src="/img/mail.jpg"> Email</a></li>
                           </ul>
                           <span class="divider">&nbsp;</span> <span class="video_likes smtPageView">879 views</span> <span class="divider divider2">&nbsp;</span>
                         </div>
@@ -163,9 +163,9 @@
                         <div class="share-like-list dropdown btn-group">
                           <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a></span>
                           <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/craniomaxillofacial/qs/150J5594');"> <img src="/img/fb.jpg"> Facebook</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/craniomaxillofacial/qs/150J5594');"> <img src="/img/tw.jpg"> Twitter</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/craniomaxillofacial/qs/150J5594');"> <img src="/img/mail.jpg"> Email</a></li>
                           </ul>
                           <span class="divider">&nbsp;</span> <span class="video_likes smtPageView">879 views</span> <span class="divider divider2">&nbsp;</span>
                         </div>
@@ -192,9 +192,9 @@
                         <div class="share-like-list dropdown btn-group">
                           <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a></span>
                           <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter</a></li>
-                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/craniomaxillofacial/qs/150J5594');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/craniomaxillofacial/qs/150J5594');"> <img src="/img/fb.jpg"> Facebook</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/craniomaxillofacial/qs/150J5594');"> <img src="/img/tw.jpg"> Twitter</a></li>
+                            <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/craniomaxillofacial/qs/150J5594');"> <img src="/img/mail.jpg"> Email</a></li>
                           </ul>
                           <span class="divider">&nbsp;</span> <span class="video_likes smtPageView">879 views</span> <span class="divider divider2">&nbsp;</span>
                         </div>

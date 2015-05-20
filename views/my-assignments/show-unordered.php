@@ -105,11 +105,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
@@ -178,11 +178,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
@@ -251,11 +251,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">19 views</span>
@@ -320,11 +320,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">26 views</span>
@@ -393,11 +393,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">1,526 views</span>
@@ -466,11 +466,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">52 views</span>
@@ -539,11 +539,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
@@ -612,11 +612,11 @@
                               <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
                               </span>
                               <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/fb.jpg"> Facebook
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/tw.jpg"> Twitter
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
                               </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/binary/themes/CUSTOM/DEPUY/DPY_SYN_INST/images/mail.jpg"> Email
+                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
                               </a></li>
                             </ul>
                             <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
