@@ -99,7 +99,7 @@
                               <div class="checkComplete">
                                 <div class="squaredFour">
                                 	<input type="checkbox" value="None" id="squaredFour" name="check" />
-                                	<label for="squaredFour3"></label>
+                                	<label for="squaredFour"></label>
                                 </div>
                               </div>
                             </div>
