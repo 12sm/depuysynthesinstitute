@@ -69,7 +69,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-unordered.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -99,7 +99,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-unordered.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -129,7 +129,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-unordered.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -159,7 +159,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-unordered.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -222,7 +222,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-sequential.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -252,7 +252,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-sequential.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -282,7 +282,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-sequential.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
@@ -312,7 +312,7 @@
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
-                        <a href="show-ordered.php">Name Of Resident Assignment</a>
+                        <a href="show-sequential.php">Name Of Resident Assignment</a>
                       </h3>
                     </div>
                   </div>
