@@ -497,8 +497,7 @@ p.calendar_date {
 
 }
 .resident-tab, .admin-tab {
-  padding: 15px 0px;
-
+  padding: 12px 0px;
 }
 
 .tabs-section .active {
@@ -509,8 +508,18 @@ p.calendar_date {
   border-bottom: 4px solid #A89968;
 }
 
-.tabs-section .active a {
+.tabs-section .inactive {
+  border-bottom: 4px solid #003b5f;
+}
+
+.tabs-section .active p {
   color: #A89968;
+  font-size:12px;
+  margin:0px;
+}
+
+.row.tabs-section {
+  height: 44px;
 }
 
 

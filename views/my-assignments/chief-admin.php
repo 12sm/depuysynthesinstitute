@@ -14,11 +14,11 @@
 
 
         <div class="row tabs-section">
-          <div class="col-xs-6 col-sm-6 col-md-2 resident-tab">
+          <div class="col-xs-6 col-sm-6 col-md-2 resident-tab inactive">
             <a href="/views/my-assignments/chief-resident.php">Resident View</a>
           </div>
           <div class="col-xs-6 col-sm-6 col-md-2 admin-tab active">
-            <a href="/views/my-assignments/chief-admin.php">Admin View</a>
+            <p>Admin View</p>
           </div>
           <div class="col-md-8 hidden-xs hidden-sm">
           </div>
