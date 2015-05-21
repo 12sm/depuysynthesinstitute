@@ -463,7 +463,7 @@
                                     <p class="calendar_date">19</p>
                                   </div>
                                 </div>
-                                <div class="row content">
+                                <div class="row">
                                   <div class="col-xs-12">
                                     <p class="tiny-grey"><strong>2 Days</strong></p>
                                   </div>
