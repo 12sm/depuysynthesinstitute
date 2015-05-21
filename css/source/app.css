@@ -444,6 +444,12 @@ span.assignment-heading {
   font-weight: 200;
   letter-spacing: -0.2px;
   font-size: 10px;
+  white-space: nowrap;
+}
+
+.current-assignments h5,
+.past-assignments h5 {
+  margin-bottom: 0;
 }
 
 .current-assignments h3.course_description {
@@ -667,6 +673,20 @@ img.placeholder-image {
   font-weight: bold;
   margin-top: 4px;
   text-shadow: 0 1px 0 rgba(255,255,255,.8);
+}
+
+img.play-button-image {
+  position: absolute;
+  padding: 0;
+  margin: 0;
+  top: 35%;
+  left: 35%;
+  width: 20px;
+}
+
+.center-align-play-button {
+  display: inline-block;
+  position: relative;
 }
 
 
@@ -1113,6 +1133,11 @@ span.warning p {
    padding: 0px 10px;
   }
 
+  .center h5 span.assignment-heading {
+    float: right;
+    clear: both;
+  }
+
 }
 
 @media only screen and (min-width: 1024px) {
@@ -1171,6 +1196,11 @@ span.warning p {
 
   .modal-lg {
     width:500px;
+  }
+
+  .center h5 span.assignment-heading {
+    float: right;
+    clear: both;
   }
 
 }

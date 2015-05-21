@@ -22,7 +22,7 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <h5>
                     <span class="assignment-heading">
                       Due Date
@@ -36,7 +36,7 @@
                     </span>
                   </h5>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
+                <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1 center">
                   <h5>
                     <span class="assignment-heading">
                       Completed
@@ -223,7 +223,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
@@ -254,7 +254,7 @@
                   </div>
                 </div>
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
-                  <span class="glyphicon icon-checkmark"></span>
+
                 </div>
               </div>
               <hr>
@@ -283,7 +283,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
@@ -313,7 +313,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
