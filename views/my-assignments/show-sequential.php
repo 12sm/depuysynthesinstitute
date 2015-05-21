@@ -23,7 +23,7 @@
                 <button type="button" class="btn btn-black" data-dismiss="modal">Cancel</button>
               </div>
               <div class="col-xs-3 col-sm-4">
-                <button type="button" class="btn btn-info">OK</button>
+                <button type="button" class="btn btn-info" data-dismiss="modal">OK</button>
               </div>
             </div>
           </div>
@@ -87,7 +87,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row indent">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -99,8 +99,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour" name="check" />
-                                  	<label for="squaredFour"></label>
+                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour" name="check" />
+                                    <label for="squaredFour"></label>
                                   </div>
                                 </div>
                               </div>
@@ -143,20 +143,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -171,7 +171,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row indent">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -183,8 +183,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour2" name="check" />
-                                  	<label for="squaredFour2"></label>
+                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour2" name="check" />
+                                    <label for="squaredFour2"></label>
                                   </div>
                                 </div>
                               </div>
@@ -227,20 +227,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -255,7 +255,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row indent">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -267,8 +267,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour3" name="check" />
-                                  	<label for="squaredFour3"></label>
+                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour3" name="check" />
+                                    <label for="squaredFour3"></label>
                                   </div>
                                 </div>
                               </div>
@@ -311,20 +311,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -339,7 +339,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row indent">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -351,8 +351,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour4" name="check" />
-                                  	<label for="squaredFour4"></label>
+                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour4" name="check" />
+                                    <label for="squaredFour4"></label>
                                   </div>
                                 </div>
                               </div>
@@ -395,20 +395,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">19 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">19 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -423,7 +423,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row indent">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -435,8 +435,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour5" name="check" />
-                                  	<label for="squaredFour5"></label>
+                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour5" name="check" />
+                                    <label for="squaredFour5"></label>
                                   </div>
                                 </div>
                               </div>
@@ -475,20 +475,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">26 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">26 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -503,7 +503,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row indent">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -515,8 +515,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour6" name="check" />
-                                  	<label for="squaredFour6"></label>
+                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour6" name="check" />
+                                    <label for="squaredFour6"></label>
                                   </div>
                                 </div>
                               </div>
@@ -559,20 +559,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">1,526 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">1,526 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -584,12 +584,12 @@
                 </div>
               </div>
 
-              <div id="these-are-so-checked">
-                <div class="row single-class grey-bg grey-bg-top">
+              <div id="these-are-so-checked" class="grey-bg-top">
+                <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -601,8 +601,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour7" name="check" />
-                                  	<label for="squaredFour7"></label>
+                                    <input type="checkbox" class="remembered" value="None" id="squaredFour7" name="check" />
+                                    <label for="squaredFour7"></label>
                                   </div>
                                 </div>
                               </div>
@@ -645,20 +645,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">52 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">52 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>
@@ -673,7 +673,7 @@
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row">
-                      <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
+                      <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
                             <div class="row">
@@ -685,8 +685,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                  	<input type="checkbox" value="None" id="squaredFour8" name="check" />
-                                  	<label for="squaredFour8"></label>
+                                    <input type="checkbox" class="remembered" value="None" id="squaredFour8" name="check" />
+                                    <label for="squaredFour8"></label>
                                   </div>
                                 </div>
                               </div>
@@ -729,20 +729,20 @@
                               </div>
                             </div>
                             <div class="course_interaction content">
-                      				<div class="share-like-list dropdown btn-group">
-                      					<span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                      					</span>
-                      					<ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                      					</a></li>
-                      					<li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                      					</a></li>
-                      				</ul>
-                      				<span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                      				</div>
-                      			</div>
+                              <div class="share-like-list dropdown btn-group">
+                                <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
+                                </span>
+                                <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
+                                </a></li>
+                                <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
+                                </a></li>
+                              </ul>
+                              <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
+                              </div>
+                            </div>
                           </div>
                         </div>
                       </div>

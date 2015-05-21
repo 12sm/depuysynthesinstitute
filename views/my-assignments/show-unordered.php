@@ -62,7 +62,7 @@
                           <div class="checkBiz col-xs-1">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour" name="check" />
+                              	<input type="checkbox" class="forgotten" value="None" id="squaredFour" name="check">
                               	<label for="squaredFour"></label>
                               </div>
                             </div>
@@ -84,7 +84,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -138,7 +138,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour2" name="check" />
+                              	<input type="checkbox" class="forgotten" value="None" id="squaredFour2" name="check">
                               	<label for="squaredFour2"></label>
                               </div>
                             </div>
@@ -160,7 +160,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -214,7 +214,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour3" name="check" />
+                              	<input type="checkbox" class="forgotten" value="None" id="squaredFour3" name="check">
                               	<label for="squaredFour3"></label>
                               </div>
                             </div>
@@ -236,7 +236,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -290,7 +290,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour4" name="check" />
+                              	<input type="checkbox" class="forgotten" value="None" id="squaredFour4" name="check">
                               	<label for="squaredFour4"></label>
                               </div>
                             </div>
@@ -362,7 +362,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour5" name="check" />
+                              	<input type="checkbox" class="forgotten" value="None" id="squaredFour5" name="check">
                               	<label for="squaredFour5"></label>
                               </div>
                             </div>
@@ -384,7 +384,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -429,8 +429,8 @@
                 </div>
               </div>
 
-              <div id="these-are-checked">
-                <div class="row single-class grey-bg grey-bg-top">
+              <div id="these-are-checked" class="grey-bg-top">
+                <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="row">
@@ -439,7 +439,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour6" name="check" />
+                              	<input type="checkbox" class="remembered" value="None" id="squaredFour6" name="check" checked>
                               	<label for="squaredFour6"></label>
                               </div>
                             </div>
@@ -461,7 +461,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -515,7 +515,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour7" name="check" />
+                              	<input type="checkbox" class="remembered" value="None" id="squaredFour7" name="check" checked>
                               	<label for="squaredFour7"></label>
                               </div>
                             </div>
@@ -537,7 +537,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -591,7 +591,7 @@
                           <div class="checkBiz col-xs-1 ">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                              	<input type="checkbox" value="None" id="squaredFour8" name="check" />
+                              	<input type="checkbox" class="remembered" value="None" id="squaredFour8" name="check" checked>
                               	<label for="squaredFour8"></label>
                               </div>
                             </div>
@@ -613,7 +613,7 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image">
                               </div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
