@@ -359,6 +359,20 @@ function checkIt(){
   // $(this).closest(".single-class").remove();
 }
 
+function checkItOut(){
+  console.log("this is hittin");
+  $(this).closest("siblings").removeAttr('checked');
+  $(this).addClass("forgotten").removeClass("remembered");
+  $(this).closest(".contention").removeClass("grey-bg-content");
+  $(this).closest(".single-class").removeClass("grey-bg");
+  $(this).closest(".indention").removeClass("indent");
+  var elem = $(this).closest(".single-class")[0];
+  console.log(elem);
+  document.getElementById("these-are-unchecked").appendChild(elem);
+  // $('div.these-are-checked').append($(this).closest(".single-class")[0]);
+  // $(this).closest(".single-class").remove();”
+}
+
 function uncheckIt(){
   console.log("not done yet");
   console.log("this is hittin");
@@ -411,5 +425,5 @@ function initDSI(role) {
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
-  $(".remembered").click(uncheckIt);
+  $(".remembered").click(checkItOut);
 }
