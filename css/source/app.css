@@ -660,6 +660,20 @@ img.placeholder-image {
   padding-left:15px;
 }
 
+.grey-bg-content h5 {
+  color: #4d4f53;
+}
+
+.grey-bg img.list-item-thumbnail {
+  -webkit-filter: saturate(40%);
+  -moz-filter: saturate(40%);
+  filter: saturate(40%);
+}
+
+.sequential .checkComplete {
+  margin-top: -7px;
+}
+
 
 /* ================================
    MY ASSIGNMENTS > SHOW ORDERED
@@ -697,10 +711,6 @@ img.play-button-image {
 
 .pho-show img {
   border: 1px solid rgb(223, 223, 223);
-}
-
-.course_interaction {
-  margin-top: 10px;
 }
 
 .gallery-img-wrapper img {
