@@ -908,7 +908,7 @@
                   <div class="col-xs-2 col-md-1">
                     <input type="number" min="1" max="99" value="1">
                   </div>
-                  <div class="col-xs-8 col-md-10">
+                  <div class="col-xs-9 col-md-10">
                     <div class="row">
                       <div class="col-xs-12">
                         <h5>
@@ -961,7 +961,7 @@
                   <div class="col-xs-2 col-md-1">
                     <input type="number" min="1" max="99" value="2">
                   </div>
-                  <div class="col-xs-8 col-md-10">
+                  <div class="col-xs-9 col-md-10">
                     <div class="row">
                       <div class="col-xs-12">
                         <h5>
