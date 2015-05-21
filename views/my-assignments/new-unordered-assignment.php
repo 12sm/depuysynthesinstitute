@@ -921,13 +921,13 @@
                       </div>
                     </div>
                     <div class="row">
-                      <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
                           <a href="/views/my-assignments/single.php" class="center-align-play-button">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                             <img src="/img/play-button.png" class="play-button-image" />
                           </a>
                       </div>
-                      <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                      <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="col-xs-12">
                             <p>
@@ -945,7 +945,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-xs-2 col-md-1">
+                  <div class="col-xs-1 col-md-1 center">
                     <a href="#"><span class="glyphicon icon-trash"></span></a>
                   </div>
                 </div>
@@ -971,13 +971,13 @@
                       </div>
                     </div>
                     <div class="row">
-                      <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
                           <a href="/views/my-assignments/single.php" class="center-align-play-button">
                             <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                             <img src="/img/play-button.png" class="play-button-image" />
                           </a>
                       </div>
-                      <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                      <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="col-xs-12">
                             <p>
@@ -995,7 +995,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-xs-2 col-md-1">
+                  <div class="col-xs-1 col-md-1 center">
                     <a href="#"><span class="glyphicon icon-trash"></span></a>
                   </div>
                 </div>
