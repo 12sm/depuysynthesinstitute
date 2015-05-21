@@ -345,6 +345,25 @@ function initSearchAutoSuggest() {
   });
 }
 
+function checkIt(){
+  var that = this;
+  $('.bs-example-modal-sm').modal('show');
+  $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
+    $that.attr('checked');
+    $that.removeClass("forgotten").addClass("remembered");
+    $that.closest(".contention").addClass("grey-bg-content");
+    $that.closest(".single-class").addClass("grey-bg");
+
+    var element = $that.closest(".single-class");
+    $that.closest(".single-class").remove();
+    $("#these-are-checked").append(element);
+  });
+}
+
+function uncheckIt(){
+
+}
+
 /**
  * init DSI
  */
@@ -356,6 +375,7 @@ function initDSI(role) {
   setupVideoPlayers();
   initSearchAutoSuggest();
 
+  //----  DROPDOWN MENU INITS  ----//
   $('#acc-menu5').collapse("hide");
   $('#acc-menu6').collapse("hide");
   $('#acc-menuPgy1').collapse("hide");
@@ -370,8 +390,13 @@ function initDSI(role) {
   $('#mat6').collapse("hide");
   $('#mat7').collapse("hide");
 
+  //----  REGISTRATION SPECIALTY CONTROLLER ----//
   $("input.ortho-unhide").click(function(){
     $("div.flying-ashtrays").toggleClass("hidden");
     $("input.ortho-unhide").prop("checked");
   });
+
+  //----  ASSIGNMENT COMPLETION INITS  ----//
+  $(".forgotten").change(checkIt);
+  $(".remembered").change(uncheckIt);
 }
