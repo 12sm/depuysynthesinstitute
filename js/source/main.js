@@ -370,4 +370,8 @@ function initDSI(role) {
   $('#mat6').collapse("hide");
   $('#mat7').collapse("hide");
 
+  $("input.ortho-unhide").click(function(){
+    $("div.flying-ashtrays").toggleClass("hidden");
+    $("input.ortho-unhide").prop("checked");
+  });
 }
