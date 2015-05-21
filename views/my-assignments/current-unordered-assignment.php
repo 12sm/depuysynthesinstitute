@@ -195,7 +195,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A
+                                <a href="/views/my-assignments/single.php">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A</a>
                               </h4>
                             </div>
                           </div>
@@ -263,7 +263,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                Case Insights: Distal Humerus Extra Articular
+                                <a href="/views/my-assignments/single.php">Case Insights: Distal Humerus Extra Articular</a>
                               </h4>
                             </div>
                           </div>
@@ -331,7 +331,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                Clavicle: Segmental Pediatric
+                                <a href="/views/my-assignments/single.php">Clavicle: Segmental Pediatric</a>
                               </h4>
                             </div>
                           </div>
@@ -407,7 +407,7 @@
                               <div class="row">
                                 <div class="col-xs-12">
                                   <h4>
-                                    Codman Neuro MedStreamTM Therapy Maintenance Course
+                                    <a href="/views/my-assignments/single.php">Codman Neuro MedStreamTM Therapy Maintenance Course</a>
                                   </h4>
                                 </div>
                               </div>
@@ -463,7 +463,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                A.L.P.S. Elbow Plating System Surgical Technique
+                                <a href="/views/my-assignments/single.php">A.L.P.S. Elbow Plating System Surgical Technique</a>
                               </h4>
                             </div>
                           </div>
@@ -531,7 +531,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                Dr. Malcom Smith - Reduction of Femoral Neck Fractures
+                                <a href="/views/my-assignments/single.php">Dr. Malcom Smith - Reduction of Femoral Neck Fractures</a>
                               </h4>
                             </div>
                           </div>
@@ -599,7 +599,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                Sinflate® System
+                                <a href="/views/my-assignments/single.php">Sinflate® System</a>
                               </h4>
                             </div>
                           </div>
@@ -667,7 +667,7 @@
                           <div class="row">
                             <div class="col-xs-12">
                               <h4>
-                                Case Insights: Proximal Ulna Monteggia Fracture
+                                <a href="/views/my-assignments/single.php">Case Insights: Proximal Ulna Monteggia Fracture</a>
                               </h4>
                             </div>
                           </div>
