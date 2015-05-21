@@ -56,7 +56,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="row indent">
                       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1">
@@ -68,21 +68,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>
@@ -132,7 +132,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="row indent">
                       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -144,21 +144,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   Case Insights: Distal Humerus Extra Articular
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>
@@ -208,7 +208,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="row indent">
                       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -220,21 +220,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   Clavicle: Segmental Pediatric
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>
@@ -284,7 +284,7 @@
                 <div class="row single-class single-date">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="row indent">
                       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -296,7 +296,7 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
                                 <div class="pull-left">
                                   <div class="calendar">
@@ -304,7 +304,7 @@
                                     <p class="calendar_date">19</p>
                                   </div>
                                 </div>
-                                <div class="row">
+                                <div class="row content">
                                   <div class="col-xs-12">
                                     <p class="tiny-grey"><strong>2 Days</strong></p>
                                   </div>
@@ -356,7 +356,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="row indent">
                       <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -368,21 +368,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   A.L.P.S. Elbow Plating System Surgical Technique
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>
@@ -445,21 +445,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   Dr. Malcom Smith - Reduction of Femoral Neck Fractures
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>
@@ -521,21 +521,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   Sinflate® System
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>
@@ -597,21 +597,21 @@
                             </div>
                           </div>
                           <div class="col-xs-11">
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h5>
                                   ORTHOPAEDICS
                                 </h5>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-12">
                                 <h4>
                                   Case Insights: Proximal Ulna Monteggia Fracture
                                 </h4>
                               </div>
                             </div>
-                            <div class="row">
+                            <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
                                 <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
                               </div>

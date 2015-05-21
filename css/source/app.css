@@ -30,6 +30,14 @@
   margin-top:0!important;
 }
 
+.indent {
+  padding-left: 10px;
+}
+
+.content {
+  padding-left: 12px;
+}
+
 .container-fluid {
   padding: 0;
 }
@@ -617,7 +625,7 @@ img.placeholder-image {
 
 .grey-bg {
   background-color: #D8D8D6;
-  padding: 0px 10px;
+  padding: 0px 0px 0px 10px;
   background-clip: content-box;
 }
 
@@ -1090,6 +1098,10 @@ span.warning p {
 
   h4.modal-title {
     font-size: 16px;
+  }
+
+  .grey-bg .no-padding {
+   padding: 0px 10px;
   }
 
 }
