@@ -68,7 +68,7 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
+                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <h5>
                     <span class="assignment-heading">
                       Due Date
@@ -83,7 +83,7 @@
                   </h5>
                 </div>
               </div>
-              <hr class="no-margin-top">
+              <hr>
               <div class="row">
                 <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
@@ -210,9 +210,9 @@
                   </h5>
                 </div>
               </div>
-              <hr class="no-margin-top">
+              <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -228,13 +228,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-1 col-sm-2 col-md-1 col-lg-1 center">
                   <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -250,13 +250,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-1 col-sm-2 col-md-1 col-lg-1 center">
                   <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -272,13 +272,13 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-1 col-sm-2 col-md-1 col-lg-1 center">
                   <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -294,7 +294,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="col-xs-1 col-sm-2 col-md-1 col-lg-1 center">
                   <a href="#"><span class="glyphicon icon-trash"></span></a>
                 </div>
               </div>

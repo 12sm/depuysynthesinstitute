@@ -83,13 +83,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
@@ -162,13 +162,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
@@ -241,13 +241,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
@@ -392,13 +392,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
@@ -472,13 +472,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
@@ -551,13 +551,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
@@ -630,13 +630,13 @@
                               </div>
                             </div>
                             <div class="row content">
-                              <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                              <div class="col-xs-6 col-sm-4 col-md-3 col-lg-2 pull-left list-thumb">
                                   <a href="/views/my-assignments/single.php" class="center-align-play-button">
                                     <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
                                     <img src="/img/play-button.png" class="play-button-image" />
                                   </a>
                       				</div>
-                              <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                              <div class="col-xs-6 col-sm-8 col-md-9 col-lg-10">
                                 <div class="row">
                                   <div class="col-xs-12">
                                     <p>
