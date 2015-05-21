@@ -12,115 +12,57 @@
           </div>
           <div id="materials" class="modal-body">
             <p>
-              Showing results for "orthopaedics"
+              Showing results for "shoulder"
             </p>
             <div class="row single-class">
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
+                          <div class="squaredFour">
+                            <input type="checkbox" value="None" id="squaredFour" name="check" />
+                            <label for="squaredFour"></label>
+                          </div>
                         </div>
                       </div>
                       <div class="col-xs-11">
                         <div class="row">
                           <div class="col-xs-12">
                             <h5>
-                              ORTHOPAEDICS
+                              SHOULDER
                             </h5>
                           </div>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
                             <h4>
-                              ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A
+                              <a href="/views/my-assignments/single.php">Case Insights: Distal Humerus Extra Articular</a>
                             </h4>
                           </div>
                         </div>
                         <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>eLearning, 50 credits</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat1" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat1" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class">
-              <div class="col-xs-12">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Case Insights: Distal Humerus Extra Articular
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
+                          <div class="col-xs-11">
                             <p>
                               <span>Video, 2:24</span>
                             </p>
                           </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat2" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                          <div class="col-xs-1">
+                            <a href="#mat1" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
-                        <div id="mat2" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                        <div id="mat1" class="row">
+                          <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
+                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                <img src="/img/play-button.png" class="play-button-image" />
+                              </a>
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -142,47 +84,51 @@
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
+                          <div class="squaredFour">
+                            <input type="checkbox" value="None" id="squaredFour2" name="check" />
+                            <label for="squaredFour2"></label>
+                          </div>
                         </div>
                       </div>
                       <div class="col-xs-11">
                         <div class="row">
                           <div class="col-xs-12">
                             <h5>
-                              ORTHOPAEDICS
+                              SHOULDER
                             </h5>
                           </div>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
                             <h4>
-                              Clavicle: Segmental Pediatric
+                              <a href="/views/my-assignments/single.php">Clavicle: Segmental Pediatric</a>
                             </h4>
                           </div>
                         </div>
                         <div class="row">
-                          <div class="col-xs-12">
+                          <div class="col-xs-11">
                             <p>
                               <span>Video, 5:08</span>
                             </p>
                           </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat3" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                          <div class="col-xs-1">
+                            <a href="#mat2" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
-                        <div id="mat3" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                        <div id="mat2" class="row">
+                          <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
+                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                <img src="/img/play-button.png" class="play-button-image" />
+                              </a>
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -208,12 +154,15 @@
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
+                          <div class="squaredFour">
+                            <input type="checkbox" value="None" id="squaredFour3" name="check" />
+                            <label for="squaredFour3"></label>
+                          </div>
                         </div>
                       </div>
                       <div class="col-xs-11">
                         <div class="row">
-                          <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2">
+                          <div class="col-xs-4 col-sm-4 col-md-2 col-lg-3">
                             <div class="pull-left">
                               <div class="calendar">
                                 <p class="calendar_month">JUN</p>
@@ -226,11 +175,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="col-xs-8 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-8 col-sm-8 col-md-10 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <h4>
-                                  Codman Neuro MedStreamTM Therapy Maintenance Course
+                                  <a href="/views/my-assignments/single.php">Codman Neuro MedStreamTM Therapy Maintenance Course</a>
                                 </h4>
                               </div>
                             </div>
@@ -250,236 +199,56 @@
               </div>
             </div>
 
+
             <div class="row single-class">
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
-                          <input type="checkbox" value="complete"/>
+                          <div class="squaredFour">
+                            <input type="checkbox" value="None" id="squaredFour4" name="check" />
+                            <label for="squaredFour4"></label>
+                          </div>
                         </div>
                       </div>
                       <div class="col-xs-11">
                         <div class="row">
                           <div class="col-xs-12">
                             <h5>
-                              ORTHOPAEDICS
+                              SHOULDER
                             </h5>
                           </div>
                         </div>
                         <div class="row">
                           <div class="col-xs-12">
                             <h4>
-                              A.L.P.S. Elbow Plating System Surgical Technique
+                              <a href="/views/my-assignments/single.php">A.L.P.S. Elbow Plating System Surgical Technique</a>
                             </h4>
                           </div>
                         </div>
                         <div class="row">
-                          <div class="col-xs-12">
+                          <div class="col-xs-11">
                             <p>
                               <span>PDF, 1.1 MB</span>
                             </p>
                           </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
+                          <div class="col-xs-1">
                             <a href="#mat4" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
+                              <span class="pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
                         <div id="mat4" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                          <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
+                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                <img src="/img/play-button.png" class="play-button-image" />
+                              </a>
                           </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <div class="row single-class grey-bg grey-bg-top">
-              <div class="col-xs-12 no-padding">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete" checked />
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Dr. Malcom Smith - Reduction of Femoral Neck Fractures
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Podcast, 3:43</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat5" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat5" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  Elbow Plating System. Product Rationale & Surgical Technique guide. Low profile plate design helps minimize discomfort and soft...
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class grey-bg">
-              <div class="col-xs-12 no-padding">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete" checked />
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Sinflate® System
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>PDF, 1.1 MB</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat6" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat6" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
-                            <div class="row">
-                              <div class="col-xs-12">
-                                <p>
-                                  Vertebral augmentation system for the reduction of fractures and/or creation of a void in cancellous bone in the spine.
-                                </p>
-                              </div>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-
-
-            <div class="row single-class grey-bg">
-              <div class="col-xs-12 no-padding">
-                <hr>
-                <div class="row">
-                  <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
-                    <div class="row">
-                      <div class="checkBiz col-xs-1 ">
-                        <div class="checkComplete">
-                          <input type="checkbox" value="complete" checked />
-                        </div>
-                      </div>
-                      <div class="col-xs-11">
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h5>
-                              ORTHOPAEDICS
-                            </h5>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <h4>
-                              Case Insights: Proximal Ulna Monteggia Fracture
-                            </h4>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <p>
-                              <span>Video, 2:18</span>
-                            </p>
-                          </div>
-                        </div>
-                        <div class="row">
-                          <div class="col-xs-12">
-                            <a href="#mat7" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-right"></span>
-                            </a>
-                          </div>
-                        </div>
-                        <div id="mat7" class="row">
-                          <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                            <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
-                          </div>
-                          <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                          <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
                               <div class="col-xs-12">
                                 <p>
@@ -495,6 +264,138 @@
                 </div>
               </div>
             </div>
+
+            <div class="row single-class grey-bg grey-bg-top">
+              <div class="col-xs-12">
+                <hr>
+                <div class="row">
+                  <div class="col-xs-12 grey-bg-content">
+                    <div class="row">
+                      <div class="checkBiz col-xs-1 ">
+                        <div class="checkComplete">
+                          <div class="squaredFour">
+                            <input type="checkbox" value="None" id="squaredFour5" name="check" />
+                            <label for="squaredFour5"></label>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-11">
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <h5>
+                              SHOULDER
+                            </h5>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <h4>
+                              <a href="/views/my-assignments/single.php">Case Insights: Proximal Ulna Monteggia Fracture</a>
+                            </h4>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-11">
+                            <p>
+                              <span>Video, 2:18</span>
+                            </p>
+                          </div>
+                          <div class="col-xs-1">
+                            <a href="#mat5" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
+                              <span class="pull-right glyphicon icon-caret-down"></span>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="mat5" class="row">
+                          <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
+                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                <img src="/img/play-button.png" class="play-button-image" />
+                              </a>
+                          </div>
+                          <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                            <div class="row">
+                              <div class="col-xs-12">
+                                <p>
+                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="row single-class grey-bg">
+              <div class="col-xs-12">
+                <hr>
+                <div class="row">
+                  <div class="col-xs-12 grey-bg-content">
+                    <div class="row">
+                      <div class="checkBiz col-xs-1 ">
+                        <div class="checkComplete">
+                          <div class="squaredFour">
+                            <input type="checkbox" value="None" id="squaredFour6" name="check" />
+                            <label for="squaredFour6"></label>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-xs-11">
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <h5>
+                              SHOULDER
+                            </h5>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-12">
+                            <h4>
+                              <a href="/views/my-assignments/single.php">Case Insights: Proximal Ulna Monteggia Fracture</a>
+                            </h4>
+                          </div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-11">
+                            <p>
+                              <span>Video, 2:18</span>
+                            </p>
+                          </div>
+                          <div class="col-xs-1">
+                            <a href="#mat6" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
+                              <span class="pull-right glyphicon icon-caret-down"></span>
+                            </a>
+                          </div>
+                        </div>
+                        <div id="mat6" class="row">
+                          <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
+                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                <img src="/img/play-button.png" class="play-button-image" />
+                              </a>
+                          </div>
+                          <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
+                            <div class="row">
+                              <div class="col-xs-12">
+                                <p>
+                                  With 19 lab stations, six training rooms and eight conference rooms, the 75,000 square foot DePuy Institute is the largest...
+                                </p>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
           </div>
           <div class="modal-footer">
             <div class="row">
@@ -1014,15 +915,18 @@
                     <div class="row">
                       <div class="col-xs-12">
                         <h4>
-                          ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A
+                          <a href="/views/my-assignments/single.php">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A<?a>
                         </h4>
                       </div>
                     </div>
                     <div class="row">
-                      <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                        <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                          <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                            <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                            <img src="/img/play-button.png" class="play-button-image" />
+                          </a>
                       </div>
-                      <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                      <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="col-xs-12">
                             <p>
@@ -1040,7 +944,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-xs-2 col-md-1">
+                  <div class="col-xs-1 col-md-1 center">
                     <a href="#"><span class="glyphicon icon-trash"></span></a>
                   </div>
                 </div>
@@ -1061,15 +965,18 @@
                     <div class="row">
                       <div class="col-xs-12">
                         <h4>
-                          Dr. Malcom Smith - Reduction of Femoral Neck Fractures
+                          <a href="/views/my-assignments/single.php">Dr. Malcom Smith - Reduction of Femoral Neck Fractures</a>
                         </h4>
                       </div>
                     </div>
                     <div class="row">
-                      <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2">
-                        <img src="/img/myassignments/assignments-thumbnail.png" class="placeholder-image" />
+                      <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
+                          <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                            <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                            <img src="/img/play-button.png" class="play-button-image" />
+                          </a>
                       </div>
-                      <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
+                      <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="col-xs-12">
                             <p>
@@ -1087,7 +994,7 @@
                       </div>
                     </div>
                   </div>
-                  <div class="col-xs-2 col-md-1">
+                  <div class="col-xs-1 col-md-1 center">
                     <a href="#"><span class="glyphicon icon-trash"></span></a>
                   </div>
                 </div>
