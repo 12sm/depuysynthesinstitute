@@ -346,22 +346,35 @@ function initSearchAutoSuggest() {
 }
 
 function checkIt(){
-  var that = this;
-  $('.bs-example-modal-sm').modal('show');
-  $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
-    $that.attr('checked');
-    $that.removeClass("forgotten").addClass("remembered");
-    $that.closest(".contention").addClass("grey-bg-content");
-    $that.closest(".single-class").addClass("grey-bg");
-
-    var element = $that.closest(".single-class");
-    $that.closest(".single-class").remove();
-    $("#these-are-checked").append(element);
-  });
+  console.log("this is hittin");
+  $(this).closest("siblings").attr('checked');
+  $(this).removeClass("forgotten").addClass("remembered");
+  $(this).closest(".contention").addClass("grey-bg-content");
+  $(this).closest(".single-class").addClass("grey-bg");
+  $(this).closest(".indention").addClass("indent");
+  var elem = $(this).closest(".single-class")[0];
+  console.log(elem);
+  document.getElementById("these-are-checked").appendChild(elem);
+  // $('div.these-are-checked').append($(this).closest(".single-class")[0]);
+  // $(this).closest(".single-class").remove();
 }
 
 function uncheckIt(){
-
+  console.log("not done yet");
+  console.log("this is hittin");
+  var that = this;
+  console.log(that);
+  $('.bs-example-modal-sm').modal('show')
+  $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
+    $that.closest("siblings").attr('checked');
+    $that.removeClass("forgotten").addClass("remembered");
+    $that.closest(".contention").addClass("grey-bg-content");
+    $that.closest(".single-class").addClass("grey-bg");
+    $that.closest(".indention").addClass("indent");
+    var element = $that.closest(".single-class");
+    $("#these-are-checked").append(element);
+    $that.closest(".single-class").remove();
+  });
 }
 
 /**
@@ -397,6 +410,6 @@ function initDSI(role) {
   });
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
-  $(".forgotten").change(checkIt);
-  $(".remembered").change(uncheckIt);
+  $(".forgotten").click(checkIt);
+  $(".remembered").click(uncheckIt);
 }
