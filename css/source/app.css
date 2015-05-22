@@ -125,9 +125,9 @@ nav.main_nav li.active .glyphicon {
  input#squaredFour3,
  input#squaredFour4,
  input#squaredFour5,
- input#squaredFour6,
+ input#squaredFour8,
  input#squaredFour7,
- input#squaredFour8 {
+ input#squaredFour6{
   display: none;
 }
 
