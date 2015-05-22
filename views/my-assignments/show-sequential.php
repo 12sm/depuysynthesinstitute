@@ -87,7 +87,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row indent">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -100,8 +100,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour" name="check" />
-                                    <label for="squaredFour"></label>
+                                    <input type="checkbox" value="None" id="squaredFour11" name="check">
+                                    <label for="squaredFour11" class="forget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -124,10 +124,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -174,7 +174,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row indent">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -187,8 +187,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour2" name="check" />
-                                    <label for="squaredFour2"></label>
+                                    <input type="checkbox" value="None" id="squaredFour2" name="check">
+                                    <label for="squaredFour2" class="forget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -211,10 +211,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -261,7 +261,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row indent">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -274,8 +274,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour3" name="check" />
-                                    <label for="squaredFour3"></label>
+                                    <input type="checkbox" value="None" id="squaredFour3" name="check">
+                                    <label for="squaredFour3" class="forget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -298,10 +298,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -348,7 +348,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row indent">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -361,8 +361,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour4" name="check" />
-                                    <label for="squaredFour4"></label>
+                                    <input type="checkbox" value="None" id="squaredFour4" name="check">
+                                    <label for="squaredFour4" class="forget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -385,10 +385,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -435,7 +435,7 @@
                 <div class="row single-class single-date">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row indent">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -448,8 +448,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour5" name="check" />
-                                    <label for="squaredFour5"></label>
+                                    <input type="checkbox" value="None" id="squaredFour5" name="check">
+                                    <label for="squaredFour5" class="forget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -515,7 +515,7 @@
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row indent">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -528,8 +528,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="forgotten" value="None" id="squaredFour6" name="check" />
-                                    <label for="squaredFour6"></label>
+                                    <input type="checkbox" value="None" id="squaredFour6" name="check">
+                                    <label for="squaredFour6" class="forget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -552,10 +552,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -604,7 +604,7 @@
                 <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="indention row">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -617,8 +617,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="remembered" value="None" id="squaredFour7" name="check" />
-                                    <label for="squaredFour7"></label>
+                                    <input type="checkbox" value="None" id="squaredFour7" name="check">
+                                    <label for="squaredFour7" class="neverForget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -641,10 +641,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">
@@ -691,7 +691,7 @@
                 <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="row">
+                    <div class="indention row">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -704,8 +704,8 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <input type="checkbox" class="remembered" value="None" id="squaredFour8" name="check" />
-                                    <label for="squaredFour8"></label>
+                                    <input type="checkbox" value="None" id="squaredFour8" checked name="check">
+                                    <label for="squaredFour8" class="neverForget"></label>
                                   </div>
                                 </div>
                               </div>
@@ -728,10 +728,10 @@
                             </div>
                             <div class="row content">
                               <div class="col-xs-6 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
-                                  <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                    <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                    <img src="/img/play-button.png" class="play-button-image" />
-                                  </a>
+                                <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                                  <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                                  <img src="/img/play-button.png" class="play-button-image">
+                                </a>
                       				</div>
                               <div class="col-xs-6 col-sm-8 col-md-10 col-lg-10">
                                 <div class="row">

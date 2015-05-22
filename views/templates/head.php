@@ -17,7 +17,7 @@
   <link href="../../css/source/app.css" type="text/css" rel="stylesheet" title="main" />
 
 
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+  <script type="text/javascript" src="../../js/vendor/jquery.min.js"></script>
   <script type="text/javascript" src="../../js/vendor/libs.min.js"></script>
   <script type="text/javascript" src="../../js/vendor/global.js"></script>
   <!--[if lt IE 9]>

@@ -345,52 +345,6 @@ function initSearchAutoSuggest() {
   });
 }
 
-function checkIt(){
-  console.log("this is hittin");
-  $(this).closest("siblings").attr('checked');
-  $(this).removeClass("forgotten").addClass("remembered");
-  $(this).closest(".contention").addClass("grey-bg-content");
-  $(this).closest(".single-class").addClass("grey-bg");
-  $(this).closest(".indention").addClass("indent");
-  var elem = $(this).closest(".single-class")[0];
-  console.log(elem);
-  document.getElementById("these-are-checked").appendChild(elem);
-  // $('div.these-are-checked').append($(this).closest(".single-class")[0]);
-  // $(this).closest(".single-class").remove();
-}
-
-function checkItOut(){
-  console.log("this is hittin");
-  $(this).closest("siblings").removeAttr('checked');
-  $(this).addClass("forgotten").removeClass("remembered");
-  $(this).closest(".contention").removeClass("grey-bg-content");
-  $(this).closest(".single-class").removeClass("grey-bg");
-  $(this).closest(".indention").removeClass("indent");
-  var elem = $(this).closest(".single-class")[0];
-  console.log(elem);
-  document.getElementById("these-are-unchecked").appendChild(elem);
-  // $('div.these-are-checked').append($(this).closest(".single-class")[0]);
-  // $(this).closest(".single-class").remove();”
-}
-
-function uncheckIt(){
-  console.log("not done yet");
-  console.log("this is hittin");
-  var that = this;
-  console.log(that);
-  $('.bs-example-modal-sm').modal('show')
-  $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
-    $that.closest("siblings").attr('checked');
-    $that.removeClass("forgotten").addClass("remembered");
-    $that.closest(".contention").addClass("grey-bg-content");
-    $that.closest(".single-class").addClass("grey-bg");
-    $that.closest(".indention").addClass("indent");
-    var element = $that.closest(".single-class");
-    $("#these-are-checked").append(element);
-    $that.closest(".single-class").remove();
-  });
-}
-
 /**
  * init DSI
  */
@@ -425,5 +379,47 @@ function initDSI(role) {
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
-  $(".remembered").click(checkItOut);
+  $(".forget").click(uncheckIt);
+  $(".neverForget").click(uncheckItOut);
+
+}
+
+function checkIt(){
+  console.log("checkIt is hittin");
+  $(this).closest(".contention").toggleClass("grey-bg-content");
+  $(this).closest(".single-class").toggleClass("grey-bg");
+  var container = document.getElementById("these-are-checked");
+  var elem = $(this).closest(".single-class")[0];
+  if(container.contains(elem)){
+    document.getElementById("these-are-unchecked").appendChild(elem);
+  }else{
+    document.getElementById("these-are-checked").appendChild(elem);
+  }
+}
+
+function uncheckIt(){
+  console.log("uncheckIt is hittin");
+  var that = $(this)[0];
+  console.log(that);
+  $('.bs-example-modal-sm').modal('show')
+  $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
+    $(that).removeClass("forget").addClass("neverForget");
+    $(that).closest(".contention").addClass("grey-bg-content");
+    $(that).closest(".single-class").addClass("grey-bg");
+    $(that).closest(".indention").addClass("indent");
+    var elem = $(that).closest(".single-class")[0];
+    $("#these-are-so-checked").append(elem);
+    // that.closest(".single-class").remove();
+  });
+}
+
+function uncheckItOut(){
+  console.log("uncheckItOut is hittin");
+  $(this).addClass("forget").removeClass("neverForget");
+  $(this).closest(".contention").removeClass("grey-bg-content");
+  $(this).closest(".single-class").removeClass("grey-bg");
+  $(this).closest(".indention").removeClass("indent");
+  var elem = $(this).closest(".single-class")[0];
+  $("#these-are-not-checked").append(elem);
+    // that.closest(".single-class").remove();
 }
