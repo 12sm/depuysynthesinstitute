@@ -387,8 +387,8 @@ function uncheckIt(){
   console.log("uncheckIt is hittin");
   var that = $(this);
   var elem = $(this).closest(".single-class")[0];
-  var container = document.getElementById("these-are-not-checked");
-  if(container.contains(elem)){
+  var cont = document.getElementById("these-are-not-checked");
+  if(cont.contains(elem)){
     $('.bs-example-modal-sm').modal('show');
     $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
       $(that).closest(".contention").addClass("grey-bg-content");

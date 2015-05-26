@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<?php include '../templates/head.php';?>
+  <?php include '../templates/head.php';?>
 
   <body>
 
@@ -103,6 +103,7 @@
               </div>
 
               <div id="these-are-not-checked">
+
                 <div class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
@@ -722,9 +723,11 @@
                     </div>
                   </div>
                 </div>
+
               </div>
 
               <div id="these-are-so-checked" class="grey-bg-top">
+
                 <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
@@ -939,17 +942,15 @@
                     </div>
                   </div>
                 </div>
+
               </div>
+
             </div>
           </div>
         </div>
-
-
-
         <?php include '../templates/footer.php';?>
       </div>
     </div>
     <?php include '../templates/scripts.php';?>
   </body>
-
 </html>
