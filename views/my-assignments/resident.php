@@ -46,7 +46,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="date-width col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
                     <div class="calendar">
                       <p class="calendar_month">JUN</p>
@@ -223,7 +223,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
+                <div class="checkmark-completed col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
@@ -283,7 +283,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
+                <div class="checkmark-completed col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
@@ -313,7 +313,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
+                <div class="checkmark-completed col-xs-3 col-sm-2 col-md-1 col-lg-1 center">
                   <span class="glyphicon icon-checkmark"></span>
                 </div>
               </div>
