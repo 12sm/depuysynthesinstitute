@@ -419,7 +419,6 @@ span.assignment-heading {
   font-size: 12px!important;
   font-weight: 200;
   letter-spacing: -0.2px;
-  font-size: 10px;
 }
 
 .percentage-complete {
@@ -443,7 +442,6 @@ span.assignment-heading {
   font-size: 12px;
   font-weight: 200;
   letter-spacing: -0.2px;
-  font-size: 10px;
   white-space: nowrap;
 }
 
@@ -636,7 +634,6 @@ img.placeholder-image {
 
 .grey-bg {
   background-color: #D8D8D6;
-  padding: 0px 0px 0px 10px;
   background-clip: content-box;
 }
 
@@ -805,6 +802,7 @@ img.play-button-image {
   color: #A7A8AA;
   text-transform: uppercase;
   margin-top: 20px;
+  margin-bottom:10px;
   text-shadow: 0 1px 0 rgba(255,255,255,.5);
 }
 
@@ -865,7 +863,6 @@ img.play-button-image {
   font-size: 12px;
   font-weight: 200;
   letter-spacing: -0.2px;
-  font-size: 10px;
   margin-bottom: 0;
   margin-top: 20px;
 }
@@ -936,6 +933,19 @@ a.delete-link {
   top: 8px;
   float:right;
   margin-right: 3px;
+}
+
+.date-width {
+  max-width: 63px;
+}
+
+.sequence-width {
+  max-width: 37px;
+  padding: 0;
+}
+
+.list-thumb {
+  max-width: 100px;
 }
 
 
@@ -1065,6 +1075,24 @@ span.warning p {
   margin-right: 10px;
 }
 
+.modal .single-class h4 {
+  margin: 2px 0px 5px 0px;
+}
+
+.row.single-class.single-date div > p.tiny-grey {
+  margin-left: -10px;
+  margin-right: -10px;
+  padding-left: 10px;
+}
+
+.modal-body {
+  padding: 15px;
+}
+
+.modal .grey-bg-content {
+  padding-left: 10px;
+}
+
 
 
 
@@ -1105,6 +1133,10 @@ span.warning p {
 
   h4.modal-title {
     font-size: 16px;
+  }
+
+  .btn-info, .btn-black {
+   height: 38px;
   }
 
 }
@@ -1165,7 +1197,7 @@ span.warning p {
   }
 
   .grey-bg {
-    margin-right: 0px;
+    padding-right: 15px;
   }
 
   .how-many-residents {
@@ -1207,6 +1239,10 @@ span.warning p {
   .center h5 span.assignment-heading {
     float: right;
     clear: both;
+  }
+
+  .sequence-width {
+   max-width: 70px;
   }
 
 }

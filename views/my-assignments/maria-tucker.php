@@ -85,26 +85,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag opaque" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -159,26 +144,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag opaque" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -233,26 +203,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">19 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -300,26 +255,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">26 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -374,26 +314,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">1,526 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag opaque" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -448,26 +373,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">52 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag opaque" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -522,26 +432,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag opaque" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>
@@ -596,26 +491,11 @@
                               </div>
                             </div>
                           </div>
-                          <div class="course_interaction">
-                            <div class="share-like-list dropdown btn-group">
-                              <span class="video_share dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown"> <a href="#"><span class="glyphicon icon-share"></span> share</a>
-                              </span>
-                              <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareFacebook('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/fb.jpg"> Facebook
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareTwitter('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/tw.jpg"> Twitter
-                              </a></li>
-                              <li role="presentation"><a role="menuitem" tabindex="-1" href="javascript:shareEmail('/chest-wall/qs/DSUSCMF03150339');"> <img src="/img/mail.jpg"> Email
-                              </a></li>
-                            </ul>
-                            <span class="divider">&nbsp;</span> <span class="video_likes smtPageView" smt-uri="/chest-wall/qs/DSUSCMF03150339">879 views</span>
-                            </div>
-                          </div>
+
                         </div>
                       </div>
                     </div>
                     <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                      <div class="flag opaque" smt-uri="/chest-wall/qs/DSUSCMF03150339" smt-asset-type="MEDIABIN" smt-asset-id="DSUSCMF03150339"></div>
                     </div>
                   </div>
                 </div>

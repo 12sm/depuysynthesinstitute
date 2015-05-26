@@ -489,7 +489,7 @@
                     </div>
                     <div class="row">
                       <div class="col-xs-12">
-                        <input type="text" placeholder="Name Of Resident Assignment">
+                        <input type="text">
                       </div>
                     </div>
                     <div class="row">
@@ -501,7 +501,7 @@
                     </div>
                     <div class="row">
                       <div class="col-xs-4 col-sm-3 col-md-4">
-                        <input type="text" id="myDate" placeholder="06/19/2015">
+                        <input type="text" id="myDate" placeholder="mm/dd/yyyy">
                       </div>
                       <div class="col-xs-1 col-sm-1 col-md-1">
                         <span class="pull-right glyphicon icon-cal"></span>
@@ -516,7 +516,7 @@
                     </div>
                     <div class="row">
                       <div class="col-xs-12">
-                        <textarea rows="4" cols="50" placeholder="I’ve put together this assignment to prepare you for your practum on June 19. Please take some time to look at the resources attached. Please attend Dr. Marshall’s event on Cold and Flu Season. Let me know if you have any questions.">
+                        <textarea>
                         </textarea>
                       </div>
                     </div>
@@ -937,7 +937,7 @@
                 </div>
 
                 <div class="row single-class">
-                  <div class="col-xs-2 col-md-1">
+                  <div class="sequence-width col-xs-2 col-md-1">
                     <input type="number" min="1" max="99" value="1">
                   </div>
                   <div class="col-xs-9 col-md-10">
@@ -990,7 +990,7 @@
                   </div>
                 </div>
                 <div class="row single-class">
-                  <div class="col-xs-2 col-md-1">
+                  <div class="sequence-width col-xs-2 col-md-1">
                     <input type="number" min="1" max="99" value="2">
                   </div>
                   <div class="col-xs-9 col-md-10">
@@ -1062,7 +1062,7 @@
                 <div class="row cancel-save">
                   <div class="col-xs-5 col-sm-3 col-md-3 col-lg-9">
                   </div>
-                  <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
+                  <div class="right col-xs-3 col-sm-2 col-md-2 col-lg-1">
                     <a href="#" class="pull-right">Cancel</a>
                   </div>
                   <div class="col-xs-3 col-sm-2 col-md-2 col-lg-2">

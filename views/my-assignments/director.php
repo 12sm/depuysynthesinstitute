@@ -55,7 +55,7 @@
                       </div>
                       <div class="col-xs-4">
                         <button class="btn btn-info">
-                          <a href="new-unordered-assignment.php">Next</a>
+                          <a href="/views/my-assignments/new-unordered-assignment.php">Next</a>
                         </button>
                       </div>
                     </div>
@@ -68,14 +68,14 @@
                 </div>
               </div>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="date-width col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <h5>
                     <span class="assignment-heading">
                       Due Date
                     </span>
                   </h5>
                 </div>
-                <div class="col-xs-9 col-sm-10 col-md-10 col-lg-11">
+                <div class="assignment-width col-xs-9 col-sm-10 col-md-10 col-lg-11">
                   <h5>
                     <span class="assignment-heading">
                       Assignment
@@ -85,7 +85,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="date-width col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
                     <div class="calendar">
                       <p class="calendar_month">JUN</p>
@@ -93,7 +93,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -112,7 +112,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="date-width col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
                     <div class="calendar">
                       <p class="calendar_month">DEC</p>
@@ -120,7 +120,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -139,7 +139,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="date-width col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
                     <div class="calendar">
                       <p class="calendar_month">DUE</p>
@@ -147,7 +147,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -166,7 +166,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-3 col-sm-2 col-md-1 col-lg-1">
+                <div class="date-width col-xs-3 col-sm-2 col-md-1 col-lg-1">
                   <div class="pull-left">
                     <div class="calendar">
                       <p class="calendar_month">DUE</p>
@@ -174,7 +174,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="col-xs-9 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-9 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -212,7 +212,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -234,7 +234,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -256,7 +256,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
@@ -278,7 +278,7 @@
               </div>
               <hr>
               <div class="row">
-                <div class="col-xs-11 col-sm-10 col-md-11 col-lg-11">
+                <div class="assignment-width col-xs-11 col-sm-10 col-md-11 col-lg-11">
                   <div class="row">
                     <div class="col-xs-12">
                       <h3 class="course_description">
