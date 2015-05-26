@@ -915,7 +915,7 @@
                     <div class="row">
                       <div class="col-xs-12">
                         <h4>
-                          <a href="/views/my-assignments/single.php">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A<?a>
+                          <a href="/views/my-assignments/single.php">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A</a>
                         </h4>
                       </div>
                     </div>
