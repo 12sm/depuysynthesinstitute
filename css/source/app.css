@@ -514,10 +514,6 @@ p.calendar_date {
   border-bottom: 4px solid #A89968;
 }
 
-.tabs-section .inactive {
-  border-bottom: 4px solid #003b5f;
-}
-
 .tabs-section .active p {
   color: #A89968;
   font-size:12px;
