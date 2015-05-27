@@ -88,7 +88,7 @@
                               <p class="tiny-grey">mnguyen@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="pull-right">Trash</span>
+                              <span class="glyphicon icon-trash pull-right"></span>
                             </div>
                           </div>
                           <div class="row">
@@ -102,7 +102,7 @@
                               <p class="tiny-grey">ljackson@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="pull-right">Trash</span>
+                              <span class="glyphicon icon-trash pull-right"></span>
                             </div>
                           </div>
                           <div class="row">
@@ -116,7 +116,7 @@
                               <p class="tiny-grey">mtucker@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="pull-right">Trash</span>
+                              <span class="glyphicon icon-trash pull-right"></span>
                             </div>
                           </div>
                           <div class="row">
@@ -130,7 +130,7 @@
                               <p class="tiny-grey">smarshall@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="pull-right">Trash</span>
+                              <span class="glyphicon icon-trash pull-right"></span>
                             </div>
                           </div>
                           <div class="row">
@@ -163,7 +163,71 @@
                       </div>
                       <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                         <div class="panel-body">
-                          Lorem ipsum
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Michelle Nguyen</strong></p>
+                              <p class="tiny-grey">mnguyen@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Lauren Jackson</strong></p>
+                              <p class="tiny-grey">ljackson@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Maria Tucker</strong></p>
+                              <p class="tiny-grey">mtucker@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Samuel Marshall</strong></p>
+                              <p class="tiny-grey">smarshall@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row invited-resident">
+                            <div class="col-xs-9">
+                              <p><strong>Patricia Butler</strong></p>
+                              <p class="tiny-grey">pbutler@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -180,7 +244,71 @@
                       </div>
                       <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                         <div class="panel-body">
-                          Lorem ipsum
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Michelle Nguyen</strong></p>
+                              <p class="tiny-grey">mnguyen@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Lauren Jackson</strong></p>
+                              <p class="tiny-grey">ljackson@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Maria Tucker</strong></p>
+                              <p class="tiny-grey">mtucker@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Samuel Marshall</strong></p>
+                              <p class="tiny-grey">smarshall@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row invited-resident">
+                            <div class="col-xs-9">
+                              <p><strong>Patricia Butler</strong></p>
+                              <p class="tiny-grey">pbutler@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -197,7 +325,71 @@
                       </div>
                       <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                         <div class="panel-body">
-                          Lorem ipsum
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Michelle Nguyen</strong></p>
+                              <p class="tiny-grey">mnguyen@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Lauren Jackson</strong></p>
+                              <p class="tiny-grey">ljackson@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Maria Tucker</strong></p>
+                              <p class="tiny-grey">mtucker@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Samuel Marshall</strong></p>
+                              <p class="tiny-grey">smarshall@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row invited-resident">
+                            <div class="col-xs-9">
+                              <p><strong>Patricia Butler</strong></p>
+                              <p class="tiny-grey">pbutler@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -214,7 +406,6 @@
                       </div>
                       <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
                         <div class="panel-body">
-                          Lorem ipsum
                         </div>
                       </div>
                     </div>
@@ -231,7 +422,71 @@
                       </div>
                       <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
                         <div class="panel-body">
-                          Lorem ipsum
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Michelle Nguyen</strong></p>
+                              <p class="tiny-grey">mnguyen@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Lauren Jackson</strong></p>
+                              <p class="tiny-grey">ljackson@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Maria Tucker</strong></p>
+                              <p class="tiny-grey">mtucker@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><strong>Samuel Marshall</strong></p>
+                              <p class="tiny-grey">smarshall@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <span class="glyphicon icon-trash pull-right"></span>
+                            </div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-12">
+                              <hr />
+                            </div>
+                          </div>
+                          <div class="row invited-resident">
+                            <div class="col-xs-9">
+                              <p><strong>Patricia Butler</strong></p>
+                              <p class="tiny-grey">pbutler@generalhospital.edu</p>
+                            </div>
+                            <div class="col-xs-3">
+                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            </div>
+                          </div>
                         </div>
                       </div>
                     </div>
