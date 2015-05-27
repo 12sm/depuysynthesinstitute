@@ -147,12 +147,8 @@
             <input type="hidden" name="formFields" value="7f000001537b18842a834a598cdeafa">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">
-                <span aria-hidden="true">
-                  ×
-                </span>
-                <span class="sr-only">
-                  Close
-                </span>
+                <span aria-hidden="true">×</span>
+                <span class="sr-only">Close</span>
               </button>
               <div class="row">
                 <div class="col-xs-6 col-sm-6 modal-header-left">
@@ -325,12 +321,8 @@
             <input type="hidden" name="formFields" value="c0a802378dc21c56c15b1c38f9c3831d">
             <div class="modal-header">
               <button type="button" class="close" data-dismiss="modal">
-                <span aria-hidden="true">
-                  ×
-                </span>
-                <span class="sr-only">
-                  Close
-                </span>
+                <span aria-hidden="true">×</span>
+                <span class="sr-only">Close</span>
               </button>
               <div class="row">
                 <div class="col-sm-6 modal-header-left">
@@ -380,49 +372,49 @@
                 <div class="col-sm-6">
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Acute Care Surgery">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Acute Care Surgery">
                       Acute Care Surgery
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Anesthesiology">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Anesthesiology">
                       Anesthesiology
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Diagnostic Radiology">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Diagnostic Radiology">
                       Diagnostic Radiology
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="General Surgery">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="General Surgery">
                       General Surgery
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Interventional Radiology">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Interventional Radiology">
                       Interventional Radiology
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurosurgery">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurosurgery">
                       Neurosurgery
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurology">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurology">
                       Neurology
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Oral and Maxillofacial Surgery">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Oral and Maxillofacial Surgery">
                       Oral and Maxillofacial Surgery
                     </label>
                   </div>
@@ -436,37 +428,37 @@
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Otolaryngology">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Otolaryngology">
                       Otolaryngology
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Pain Management">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Pain Management">
                       Pain Management
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Physiatry">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Physiatry">
                       Physiatry
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery">
                       Plastic Surgery
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery">
                       Podiatric Medicine
                     </label>
                   </div>
                   <div class="radio">
                     <label>
-                      <input class="" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Veterinary Medicine">
+                      <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Veterinary Medicine">
                       Veterinary Medicine
                     </label>
                   </div>
@@ -561,7 +553,7 @@
       </div>
     </div>
 
-    <!-- Registration Required 3 -->
+    <!-- Registration Required 3.1 -->
     <div class="modal fade reg-req-three-one" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
@@ -598,18 +590,16 @@
                   IDENTIFICATION NUMBER
                 </label>
                 <div class="dropdown">
-                  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                    NPI Number
-                    <span class="caret pull-right"></span>
-                  </button>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">NPI Number</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">State License Number</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">I don't have either</a></li>
-                  </ul>
+                  <select id="whatNumber">
+                    <option id="npiNumber">NPI Number</option>
+                    <option id="slNumber">State License Number</option>
+                    <option id="noNumber">I don't have either</option>
+                  </select>
                 </div>
               </div>
             </div>
+
+
             <div class="row npi-number-options">
               <div class="col-xs-10 col-sm-5">
                 <input type="text" placeholder="10-digit NPI Number">
@@ -618,20 +608,19 @@
                 icon
               </div>
             </div>
+
+
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                    State
-                    <span class="caret pull-right"></span>
-                  </button>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation">
-                      <a role="menuitem" tabindex="-1" href="#">
-                        AL
-                      </a>
-                    </li>
-                  </ul>
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
                 </div>
               </div>
               <div class="col-xs-5">
@@ -641,11 +630,15 @@
                 icon
               </div>
             </div>
+
+
             <div class="row hidden identification-number-options">
               <div class="col-xs-12">
                 <textarea placeholder="Why don't you have an NPI Number or State License?"></textarea>
               </div>
             </div>
+
+
             <div class="row">
               <div class="col-xs-12">
                 <label class="dark">
@@ -681,17 +674,14 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                    State
-                    <span class="caret pull-right"></span>
-                  </button>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation">
-                      <a role="menuitem" tabindex="-1" href="#">
-                        AL
-                      </a>
-                    </li>
-                  </ul>
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
                 </div>
               </div>
               <div class="col-xs-4 col-sm-2">
@@ -710,15 +700,15 @@
             </div>
             <div class="row radio-yes-no">
               <div class="col-xs-5 col-sm-3 col-lg-2">
-                <input type="radio" name="sequenced" checked value="yes">
+                <input id="yesMili" type="radio" name="sequenced" value="yes">
                 Yes
               </div>
               <div class="col-xs-5 col-sm-3 col-lg-2">
-                <input type="radio" name="sequenced" value="no">
+                <input id="noMili" type="radio" name="sequenced" value="no" checked="checked">
                 No
               </div>
             </div>
-            <div class="row">
+            <div id="proffer" class="hidden row">
               <div class="col-xs-12">
                 <span class="warning">
                   <p>
@@ -732,22 +722,19 @@
                 <label>
                   YEAR IN RESIDENCY
                 </label>
-                <div class="dropdown">
-                  <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                    PGY
-                    <span class="caret pull-right"></span>
-                  </button>
-                  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">1</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">2</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">3</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">4</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">5</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">6</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">7</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">8</a></li>
-                    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">9</a></li>
-                  </ul>
+                <<div class="dropdown">
+                  <select>
+                    <option>PGY</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                  </select>
                 </div>
               </div>
               <div class="col-xs-6 graduation-date">
@@ -769,12 +756,577 @@
       </div>
     </div>
 
+    <!-- Registration Required 3.2 -->
+    <div class="modal fade reg-req-three-two" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  IDENTIFICATION NUMBER
+                </label>
+                <div class="dropdown">
+                  <select id="whatNumber">
+                    <option id="npiNumber">NPI Number</option>
+                    <option id="slNumber">State License Number</option>
+                    <option id="noNumber">I don't have either</option>
+                  </select>
+                </div>
+              </div>
+            </div>
 
+
+            <div class="row npi-number-options">
+              <div class="col-xs-10 col-sm-5">
+                <input type="text" placeholder="10-digit NPI Number">
+              </div>
+              <div class="col-xs-2 col-sm-2">
+                icon
+              </div>
+            </div>
+
+
+            <div class="row hidden state-license-number-options">
+              <div class="col-xs-3">
+                <div class="dropdown">
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-5">
+                <input type="text" placeholder="License Number">
+              </div>
+              <div class="col-xs-2">
+                icon
+              </div>
+            </div>
+
+
+            <div class="row hidden identification-number-options">
+              <div class="col-xs-12">
+                <textarea placeholder="Why don't you have an NPI Number or State License?"></textarea>
+              </div>
+            </div>
+
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-8">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-2">
+                <label>
+                  STATE
+                </label>
+                <div class="dropdown">
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-2">
+                <label>
+                  ZIP CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Are you working in a Military Hospital?
+                </p>
+              </div>
+            </div>
+            <div class="row radio-yes-no">
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="yesMili" type="radio" name="sequenced" value="yes">
+                Yes
+              </div>
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="noMili" type="radio" name="sequenced" value="no">
+                No
+              </div>
+            </div>
+            <div id="proffer" class="hidden row">
+              <div class="col-xs-12">
+                <span class="warning">
+                  <p>
+                    In order to participate in the redemption program your ethics officer must sign a Proffer Letter. A DS Program Manager will contact you with further details.
+                  </p>
+                </span>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6 year-residency">
+                <label>
+                  YEAR IN RESIDENCY
+                </label>
+                <div class="dropdown">
+                  <select>
+                    <option>PGY</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-6 graduation-date">
+                <label>
+                  GRADUATION DATE
+                </label>
+                <br>
+                <input type="text" placeholder="MM">
+                <input type="text" placeholder="YYYY">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  MY ASSIGNMENTS
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  As a Chief Resident, you may assign content and curricula to residents in your program through the My Assignments section. Learn more.
+                </p>
+                <p>
+                  Would you like to participate?
+                </p>
+              </div>
+            </div>
+            <div class="row radio-yes-no">
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="yesAssign" type="radio" name="myAssign" value="yes">
+                Yes
+              </div>
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="noAssign" type="radio" name="myAssign" value="no">
+                No
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Registration Required 3.3 -->
+    <div class="modal fade reg-req-three-three" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  IDENTIFICATION NUMBER
+                </label>
+                <div class="dropdown">
+                  <select id="whatNumber">
+                    <option id="npiNumber">NPI Number</option>
+                    <option id="slNumber">State License Number</option>
+                    <option id="noNumber">I don't have either</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+
+
+            <div class="row npi-number-options">
+              <div class="col-xs-10 col-sm-5">
+                <input type="text" placeholder="10-digit NPI Number">
+              </div>
+              <div class="col-xs-2 col-sm-2">
+                icon
+              </div>
+            </div>
+
+
+            <div class="row hidden state-license-number-options">
+              <div class="col-xs-3">
+                <div class="dropdown">
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-5">
+                <input type="text" placeholder="License Number">
+              </div>
+              <div class="col-xs-2">
+                icon
+              </div>
+            </div>
+
+
+            <div class="row hidden identification-number-options">
+              <div class="col-xs-12">
+                <textarea placeholder="Why don't you have an NPI Number or State License?"></textarea>
+              </div>
+            </div>
+
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-8">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-2">
+                <label>
+                  STATE
+                </label>
+                <div class="dropdown">
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-2">
+                <label>
+                  ZIP CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Are you working in a Military Hospital?
+                </p>
+              </div>
+            </div>
+            <div class="row radio-yes-no">
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="yesMili" type="radio" name="sequenced" value="yes">
+                Yes
+              </div>
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="noMili" type="radio" name="sequenced" value="no" checked="checked">
+                No
+              </div>
+            </div>
+            <div id="proffer" class="hidden row">
+              <div class="col-xs-12">
+                <span class="warning">
+                  <p>
+                    In order to participate in the redemption program your ethics officer must sign a Proffer Letter. A DS Program Manager will contact you with further details.
+                  </p>
+                </span>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6 graduation-date">
+                <label>
+                  GRADUATION DATE
+                </label>
+                <br>
+                <input type="text" placeholder="MM">
+                <input type="text" placeholder="YYYY">
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Registration Required 3.4 -->
+    <div class="modal fade reg-req-three-four" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-8">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-2">
+                <label>
+                  STATE
+                </label>
+                <div class="dropdown">
+                  <select>
+                    <option>State</option>
+                    <option>AL</option>
+                    <option>AZ</option>
+                    <option>RI</option>
+                    <option>TN</option>
+                    <option>TX</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-2">
+                <label>
+                  ZIP CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  MY ASSIGNMENTS
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  As a Chief Resident, you may assign content and curricula to residents in your program through the My Assignments section. Learn more.
+                </p>
+                <p>
+                  Would you like to participate?
+                </p>
+              </div>
+            </div>
+            <div class="row radio-yes-no">
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="yesAssign" type="radio" name="myAssign" value="yes">
+                Yes
+              </div>
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="noAssign" type="radio" name="myAssign" value="no">
+                No
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Confirmation Modal -->
+    <div class="modal fade thank-you" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">
+              <span aria-hidden="true">×</span>
+              <span class="sr-only">Close</span>
+            </button>
+            <div class="row">
+              <div class="col-xs-12 modal-header-left">
+                <h2 class="modal-title">Thank You</h2>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-sm-12">
+                <p>Thank you for registering for the DePuy Synthes Institute Future Leaders online educational program. You now have access to all content and may earn credits. You may not redeem credits until we review your registration and activate your account in 1–2 business days. If you have any questions please feel free to contact us any time at futureleaders@its.jnj.com.</p>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" class="pull-right btn button-lg button-modal">Okay<span class="glyphicon icon-caret-right"></span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
 
     <div class="main_wrapper container-fluid">
       <div id="smt_col1Wrapper">
         <div id="smt_col1" class="padding-wrap">
           <div class="modSpacer">
+            <h1>
+              If Not Registered:
+            </h1>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".sign-in-modal">
               Sign In Modal
             </button>
@@ -788,10 +1340,22 @@
               Registration Required 2
             </button>
             <h1>
-              If Resident:
+              If Registered:
             </h1>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-one">
               Registration Required 3.1
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-two">
+              Registration Required 3.2
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-three">
+              Registration Required 3.3
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
+              Registration Required 3.4
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".thank-you">
+              Confirmation
             </button>
           </div>
         </div>

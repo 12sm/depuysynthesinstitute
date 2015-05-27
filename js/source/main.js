@@ -371,46 +371,133 @@ function initDSI(role) {
   $('#mat6').collapse("hide");
   $('#mat7').collapse("hide");
 
-  //----  REGISTRATION SPECIALTY CONTROLLER ----//
+  //----  REGISTRATION MODAL CONTROLS  ----//
   $("input.ortho-unhide").click(function(){
-    $("div.flying-ashtrays").toggleClass("hidden");
-    $("input.ortho-unhide").prop("checked");
+    $("div.flying-ashtrays").removeClass("hidden");
+  });
+  $("input.aa").click(function(){
+    $("div.flying-ashtrays").addClass("hidden");
+  });
+  $("#whatNumber").change(function(){
+    var option = $(this).children(":selected").attr("id");
+    switch(option){
+      case "slNumber":
+        $(".identification-number-options").addClass("hidden");
+        $(".npi-number-options").addClass("hidden");
+        $(".state-license-number-options").removeClass("hidden");
+        break;
+      case "noNumber":
+        $(".npi-number-options").addClass("hidden");
+        $(".state-license-number-options").addClass("hidden");
+        $(".identification-number-options").removeClass("hidden");
+        break;
+      default:
+        $(".state-license-number-options").addClass("hidden");
+        $(".identification-number-options").addClass("hidden");
+        $(".npi-number-options").removeClass("hidden");
+        break;
+    }
+  });
+  $("input#noMili").prop('checked', true);
+  $("input#yesAssign").prop('checked', true);
+  $("input#yesMili").click(function(){
+    $("div#proffer").removeClass("hidden");
+  });
+  $("input#noMili").click(function(){
+    $("div#proffer").addClass("hidden");
   });
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
   $(".forget").click(uncheckIt);
-
-}
-
-function uncheckIt(){
-  console.log("uncheckIt is hittin");
-  var that = $(this);
-  var elem = $(this).closest(".single-class")[0];
-  var cont = document.getElementById("these-are-not-checked");
-  if(cont.contains(elem)){
-    $('.bs-example-modal-sm').modal('show');
-    $('.bs-example-modal-sm').on('hide.bs.modal', function(e){
-      $(that).closest(".contention").addClass("grey-bg-content");
-      $(that).closest(".single-class").addClass("grey-bg");
-      document.getElementById("these-are-so-checked").appendChild(elem);
-    });
-  }else{
-    $(this).closest(".contention").removeClass("grey-bg-content");
-    $(this).closest(".single-class").removeClass("grey-bg");
-    document.getElementById("these-are-not-checked").appendChild(elem);
-  }
 }
 
 function checkIt(){
-  console.log("checkIt is hittin");
   $(this).closest(".contention").toggleClass("grey-bg-content");
   $(this).closest(".single-class").toggleClass("grey-bg");
-  var container = document.getElementById("these-are-checked");
   var elem = $(this).closest(".single-class")[0];
-  if(container.contains(elem)){
+  if(document.getElementById("these-are-checked").contains(elem)){
     document.getElementById("these-are-unchecked").appendChild(elem);
   }else{
     document.getElementById("these-are-checked").appendChild(elem);
   }
+}
+
+var checkedAssign = 0;
+
+function uncheckIt(){
+  var that = $(this);
+  $(this).closest(".contention").toggleClass("grey-bg-content");
+  $(this).closest(".single-class").toggleClass("grey-bg");
+  var elem = $(this).closest(".single-class")[0];
+  if(document.getElementById("these-are-not-checked").contains(elem)){
+    $(that).attr('checked', 'checked');
+    soChecked(elem);
+    if(checkedAssign === 0){
+      $('.bs-example-modal-sm').modal('show');
+      $(".seq-cancel").click(function(){
+        $(that).closest(".contention").toggleClass("grey-bg-content");
+        $(that).closest(".single-class").toggleClass("grey-bg");
+        $(that).removeAttr('checked');
+        notChecked(elem);
+        checkedAssign = 0;
+      });
+      $(".seq-confirm").click(function(){
+        checkedAssign = 1;
+        // Ajax code for assignment completion form submission
+      });
+    }else{
+      checkedAssign = 1;
+      // Ajax code for assignment completion form submission
+    }
+  }else{
+    $(that).removeAttr('checked');
+    notChecked(elem);
+  }
+}
+
+function soChecked(elem){
+  var value  = $(elem).find(".numberz")[0].innerHTML;
+  var deev   = document.getElementById("these-are-so-checked");
+  var object = $(deev).find(".numberz");
+  for(var i = 0; i < object.length; i++){
+    var digit = object[i].innerHTML;
+    if(value < digit){
+      var jcss = $(object[i]).closest(".single-class")[0];
+      console.log(jcss);
+      $(jcss).before(elem);
+      break;
+    }else if((value > digit) && (i = object.length - 1)){
+      var jcss = $(object[i]).closest(".single-class")[0];
+      console.log(jcss);
+      $(jcss).after(elem);
+      break;
+    }
+  }
+  console.log(object.length);
+  console.log(value);
+  // .appendChild(elem);
+}
+
+function notChecked(elem){
+  var value  = $(elem).find(".numberz")[0].innerHTML;
+  var deev   = document.getElementById("these-are-not-checked");
+  var object = $(deev).find(".numberz");
+  for(var i = 0; i < object.length; i++){
+    var digit = object[i].innerHTML;
+    if(value < digit){
+      var jcss = $(object[i]).closest(".single-class")[0];
+      console.log(jcss);
+      $(jcss).before(elem);
+      break;
+    }else if((value > digit) && (i = object.length - 1)){
+      var jcss = $(object[i]).closest(".single-class")[0];
+      console.log(jcss);
+      $(jcss).after(elem);
+      break;
+    }
+  }
+  console.log(object.length);
+  console.log(value);
+  // .appendChild(elem);
 }
