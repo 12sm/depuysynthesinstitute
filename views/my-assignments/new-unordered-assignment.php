@@ -604,141 +604,6 @@
                         </h4>
                       </div>
                       <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingFour">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingFive">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingSix">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              Unknown <span class="tiny-grey">(6)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-
-
-
-
-
-                  <div class="visible-xs visible-sm hidden-md col-xs-12 col-sm-12">
-                    <div class="row">
-                      <div class="col-xs-12">
-                        <h2>
-                          Assign To:
-                        </h2>
-                      </div>
-                    </div>
-                    <div class="panel-group resident-panel-group director-new-assignment" id="accordion" role="tablist" aria-multiselectable="true">
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingOne">
-                        <h4 class="panel-title">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <p>
-                              <input type="checkbox" checked value="complete"/>
-                              PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
-                        <div class="panel-body">
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Lauren Jackson</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Maria Tucker</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Samuel marshall</p>
-                            </div>
-                            <div class="col-xs-3"></div>
-                          </div>
-                          <div class="row invited-resident">
-                            <div class="col-xs-9">
-                              <p><input type="checkbox" checked value="complete"/> Patricia Butler</p>
-                            </div>
-                            <div class="col-xs-3"><p>pending</p></div>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingTwo">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                         <div class="panel-body not-checked">
                           <div class="row">
                             <div class="col-xs-9">
@@ -774,24 +639,6 @@
                       </div>
                     </div>
                     <div class="panel panel-default">
-                      <div class="panel-heading" role="tab" id="headingThree">
-                        <h4 class="panel-title">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
-                          </a>
-                        </h4>
-                      </div>
-                      <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
-                        </div>
-                      </div>
-                    </div>
-                    <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingFour">
                         <h4 class="panel-title">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
@@ -804,8 +651,37 @@
                         </h4>
                       </div>
                       <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
+                        <div class="panel-body not-checked">
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
                         </div>
                       </div>
                     </div>
@@ -822,8 +698,7 @@
                         </h4>
                       </div>
                       <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
+                        <div class="panel-body not-checked">
                         </div>
                       </div>
                     </div>
@@ -840,12 +715,321 @@
                         </h4>
                       </div>
                       <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
-                        <div class="panel-body">
-                          <p>Lorem ipsum</p>
+                        <div class="panel-body not-checked">
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
+                          <div class="row">
+                            <div class="col-xs-9">
+                              <p><input type="checkbox" value="complete"/> Patricia Butler</p>
+                            </div>
+                            <div class="col-xs-3"></div>
+                          </div>
                         </div>
                       </div>
                     </div>
                   </div>
+                </div>
+
+
+
+
+
+                <div class="visible-xs visible-sm hidden-md hidden-lg col-xs-12 col-sm-12">
+                  <div class="row">
+                    <div class="col-xs-12">
+                      <h2>
+                        Assign To:
+                      </h2>
+                    </div>
+                  </div>
+                  <div class="panel-group resident-panel-group director-new-assignment" id="accordion-mobile" role="tablist" aria-multiselectable="true">
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingOne">
+                      <h4 class="panel-title">
+                        <a data-toggle="collapse" data-parent="#accordion-mobile" href="#collapseOne-mobile" aria-expanded="true" aria-controls="collapseOne-mobile">
+                          <p>
+                            <input type="checkbox" checked value="complete"/>
+                            PGY 1 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                          </p>
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseOne-mobile" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne-mobile">
+                      <div class="panel-body">
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Michelle Nguyen</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Lauren Jackson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Maria Tucker</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Samuel Marshall</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row invited-resident">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Patricia Butler</p>
+                          </div>
+                          <div class="col-xs-3"><p>pending</p></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingTwo-mobile">
+                      <h4 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion-mobile" href="#collapseTwo-mobile" aria-expanded="false" aria-controls="collapseTwo-mobile">
+                          <p>
+                            <input type="checkbox" value="complete"/>
+                            PGY 2 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                          </p>
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseTwo-mobile" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo-mobile">
+                      <div class="panel-body not-checked">
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingThree-mobile">
+                      <h4 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion-mobile" href="#collapseThree-mobile" aria-expanded="false" aria-controls="collapseThree-mobile">
+                          <p>
+                            <input type="checkbox" value="complete"/>
+                            PGY 3 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                          </p>
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseThree-mobile" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree-mobile">
+                      <div class="panel-body not-checked">
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingFour-mobile">
+                      <h4 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion-mobile" href="#collapseFour-mobile" aria-expanded="false" aria-controls="collapseFour-mobile">
+                          <p>
+                            <input type="checkbox" value="complete"/>
+                            PGY 4 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                          </p>
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseFour-mobile" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour-mobile">
+                      <div class="panel-body not-checked">
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingFive-mobile">
+                      <h4 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion-mobile" href="#collapseFive-mobile" aria-expanded="false" aria-controls="collapseFive-mobile">
+                          <p>
+                            <input type="checkbox" value="complete"/>
+                            PGY 5 <span class="tiny-grey">(0)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                          </p>
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseFive-mobile" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive-mobile">
+                      <div class="panel-body not-checked">
+                      </div>
+                    </div>
+                  </div>
+                  <div class="panel panel-default">
+                    <div class="panel-heading" role="tab" id="headingSix-mobile">
+                      <h4 class="panel-title">
+                        <a class="collapsed" data-toggle="collapse" data-parent="#accordion-mobile" href="#collapseSix-mobile" aria-expanded="false" aria-controls="collapseSix-mobile">
+                          <p>
+                            <input type="checkbox" value="complete"/>
+                            Unknown <span class="tiny-grey">(6)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                          </p>
+                        </a>
+                      </h4>
+                    </div>
+                    <div id="collapseSix-mobile" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix-mobile">
+                      <div class="panel-body not-checked">
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Joyce Peterson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Bryan Freeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Carl Carlson</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" checked value="complete"/> Benjamin Reyes</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Jacob Boeman</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                        <div class="row">
+                          <div class="col-xs-9">
+                            <p><input type="checkbox" value="complete"/> Patricia Butler</p>
+                          </div>
+                          <div class="col-xs-3"></div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
                   </div>
                 </div>
               </div>
