@@ -1291,6 +1291,347 @@
       </div>
     </div>
 
+    <!-- Registration Required 4.1 -->
+    <div class="modal fade reg-req-four-one" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  For compliance purposes, please provide one of the following forms of documentation that you are currently a resident enrolled in a residency program.
+                </p>
+                <p>
+                  Institution’s web link featuring the list of current residents enrolled in the residency program:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <input type="text" placeholder="Program website URL">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Your residency director or residency coordinators email address so that we can request confirmation:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <input type="text" placeholder="Director/Coordinator email address">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  A letter on institution letterhead from your residency director or residency coordinator confirming your enrollment in the program:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-7">
+                <input type="file" placeholder="Upload...">
+              </div>
+              <div class="col-xs-7">
+                <button class="btn btn-black">
+                  Browse
+                </button>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-1">
+                <div class="checkComplete">
+                  <div class="squaredFour">
+                    <label><input type="checkbox" value="none" id="squaredFour0" name="check"></label>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-11">
+                <p>
+                  I will contact the DePuy Synthes Institute Future Leaders team at futureleaders@its.jnj.com.
+                </p>
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Submit Registration <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Registration Required 4.2 -->
+    <div class="modal fade reg-req-four-two" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  For compliance purposes, please provide one of the following forms of documentation that you are currently a fellow enrolled in a fellowship program.
+                </p>
+                <p>
+                  Institution’s web link featuring the list of current fellows enrolled in the fellowship program:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <input type="text" placeholder="Program website URL">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Your fellowship director or fellowship coordinators email address so that we can request confirmation:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <input type="text" placeholder="Director/Coordinator email address">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  A letter on institution letterhead from your fellowship director or fellowship coordinator confirming your enrollment in the program:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-7">
+                <input type="file" placeholder="Upload...">
+              </div>
+              <div class="col-xs-7">
+                <button class="btn btn-black">
+                  Browse
+                </button>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-1">
+                <div class="checkComplete">
+                  <div class="squaredFour">
+                    <label><input type="checkbox" value="none" id="squaredFour0" name="check"></label>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-11">
+                <p>
+                  I will contact the DePuy Synthes Institute Future Leaders team at futureleaders@its.jnj.com.
+                </p>
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Submit Registration <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Registration Required 4.3 -->
+    <div class="modal fade reg-req-four-three" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  For compliance purposes, please provide one of the following forms of documentation that you are currently associated with a residency program.
+                </p>
+                <p>
+                  Institution’s web link featuring your name and association to the program:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <input type="text" placeholder="Program website URL">
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  A letter on institution letterhead from the chairman of your department confirming your enrollment in the program:
+                </p>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-7">
+                <input type="file" placeholder="Upload...">
+              </div>
+              <div class="col-xs-7">
+                <button class="btn btn-black">
+                  Browse
+                </button>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  OR
+                </label>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-xs-1">
+                <div class="checkComplete">
+                  <div class="squaredFour">
+                    <label><input type="checkbox" value="none" id="squaredFour0" name="check"></label>
+                  </div>
+                </div>
+              </div>
+              <div class="col-xs-11">
+                <p>
+                  I will contact the DePuy Synthes Institute Future Leaders team at futureleaders@its.jnj.com.
+                </p>
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Submit Registration <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
     <!-- Confirmation Modal -->
     <div class="modal fade thank-you" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog">
@@ -1353,6 +1694,15 @@
             </button>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
               Registration Required 3.4
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-one">
+              Registration Required 4.1
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-two">
+              Registration Required 4.2
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-three">
+              Registration Required 4.3
             </button>
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".thank-you">
               Confirmation
