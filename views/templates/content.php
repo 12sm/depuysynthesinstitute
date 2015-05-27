@@ -1,5 +1,5 @@
 <div id="smt_col1Wrapper">
-  <div id="smt_col1">
+  <div id="smt_col1" class="padding-wrap">
 
 
     <div class="modSpacer">
