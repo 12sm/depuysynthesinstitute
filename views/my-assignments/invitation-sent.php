@@ -33,7 +33,7 @@
                   <input type="text" placeholder="First Name">
                 </div>
                 <div class="col-xs-3">
-                  <button type="button" class="btn btn-info pull-right">Find</button>
+                  <button type="button" class="btn btn-info pull-left find-btn">Find</button>
                 </div>
               </div>
               <div class="row">
@@ -46,7 +46,7 @@
                   <input type="text" placeholder="Resident Email Address">
                 </div>
                 <div class="col-xs-5">
-                  <button type="button" class="btn btn-info pull-right">Send Invite</button>
+                  <button type="button" class="btn btn-info pull-left send-invite-btn">Send Invite</button>
                 </div>
               </div>
               <div class="row">
@@ -88,7 +88,7 @@
                               <p class="tiny-grey">mnguyen@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><a href="#"><span class="glyphicon icon-trash pull-right"></span></a></a>
                             </div>
                           </div>
                           <div class="row">
@@ -102,7 +102,7 @@
                               <p class="tiny-grey">ljackson@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><a href="#"><span class="glyphicon icon-trash pull-right"></span></a></a>
                             </div>
                           </div>
                           <div class="row">
@@ -116,7 +116,7 @@
                               <p class="tiny-grey">mtucker@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -130,7 +130,7 @@
                               <p class="tiny-grey">smarshall@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -169,7 +169,7 @@
                               <p class="tiny-grey">mnguyen@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -183,7 +183,7 @@
                               <p class="tiny-grey">ljackson@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -197,7 +197,7 @@
                               <p class="tiny-grey">mtucker@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -211,7 +211,7 @@
                               <p class="tiny-grey">smarshall@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -250,7 +250,7 @@
                               <p class="tiny-grey">mnguyen@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -264,7 +264,7 @@
                               <p class="tiny-grey">ljackson@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -278,7 +278,7 @@
                               <p class="tiny-grey">mtucker@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -292,7 +292,7 @@
                               <p class="tiny-grey">smarshall@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -331,7 +331,7 @@
                               <p class="tiny-grey">mnguyen@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -345,7 +345,7 @@
                               <p class="tiny-grey">ljackson@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -359,7 +359,7 @@
                               <p class="tiny-grey">mtucker@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -373,7 +373,7 @@
                               <p class="tiny-grey">smarshall@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -428,7 +428,7 @@
                               <p class="tiny-grey">mnguyen@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -442,7 +442,7 @@
                               <p class="tiny-grey">ljackson@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -456,7 +456,7 @@
                               <p class="tiny-grey">mtucker@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">
@@ -470,7 +470,7 @@
                               <p class="tiny-grey">smarshall@generalhospital.edu</p>
                             </div>
                             <div class="col-xs-3">
-                              <span class="glyphicon icon-trash pull-right"></span>
+                              <a href="#"><span class="glyphicon icon-trash pull-right"></span></a>
                             </div>
                           </div>
                           <div class="row">

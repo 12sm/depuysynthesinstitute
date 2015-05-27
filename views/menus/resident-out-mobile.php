@@ -17,7 +17,7 @@
         <li>
           <a href="#acc-menu5" class="coll-butt nav_knowledge-center" data-parent="#accordion5" data-toggle="collapse">
             Knowledge Center
-            <span class="pull-right glyphicon icon-caret-right"></span>
+            <span class="glyphicon icon-arrow-down pull-right blue"></span>
           </a>
           <ul id="acc-menu5">
             <li><a href="#">General Principles And Fundamentals</a></li>
