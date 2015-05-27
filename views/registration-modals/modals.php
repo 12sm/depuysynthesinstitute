@@ -1577,14 +1577,6 @@
 
             <div class="row">
               <div class="col-xs-12">
-                <label class="dark">
-                  OR
-                </label>
-              </div>
-            </div>
-
-            <div class="row">
-              <div class="col-xs-12">
                 <p>
                   A letter on institution letterhead from the chairman of your department confirming your enrollment in the program:
                 </p>
