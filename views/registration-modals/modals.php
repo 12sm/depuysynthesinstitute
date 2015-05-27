@@ -25,7 +25,7 @@
           <div class="modal-body">
             <div class="row">
               <div class="col-xs-12">
-                <label>
+                <label class="dark">
                   EMAIL ADDRESS
                 </label>
                 <input type="text" placeholder="email@address.org">
@@ -33,7 +33,7 @@
             </div>
             <div class="row">
               <div class="col-xs-12">
-                <label>
+                <label class="dark">
                   PASSWORD
                 </label>
                 <input type="text" placeholder="password">
@@ -42,7 +42,7 @@
             <div class="row">
               <div class="col-xs-12">
                 <input type="checkbox">
-                <label>
+                <label class="agree">
                   Remember me on this computer
                 </label>
               </div>
@@ -107,7 +107,7 @@
             <div class="row">
               <div class="col-sm-12">
                 <p>
-                  Thank you for previously registering on the DePuy Synthes Institute website. In order to participate in the new Future Leaders online educational program, we need to collect some additional information from you and verify that you are associated with a Residency Program. If you have any questions please feel free to contact us any time at futureleaders@its.jnj.com.
+                  Thank you for previously registering on the DePuy Synthes Institute website. In order to participate in the new Future Leaders online educational program, we need to collect some additional information from you and verify that you are associated with a Residency Program. If you have any questions please feel free to contact us any time at <a href="#">futureleaders@its.jnj.com</a>.
                 </p>
               </div>
             </div>
@@ -270,8 +270,8 @@
                     <label>
                       <input class="sr-only" type="checkbox" value="1" name="orgConsentStatement">
                       <span class="styled_checkbox"></span>
-                      I agree to the
-                      <a href="#"> terms and conditions</a>.
+                      <p>I agree to the
+                      <a href="#"> terms and conditions</a>.</p>
                     </label>
                   </div>
                   <div class="checkbox">
@@ -279,8 +279,8 @@
                     <label>
                       <input class="sr-only" type="checkbox" value="1" name="orgConsentStatement">
                       <span class="styled_checkbox"></span>
-                      If you check this box we may send you information through email communication about our products and services. You agree that the information you provide will be governed by our
-                      <a href="/privacy"> Privacy Policy</a>.
+                      <p>If you check this box we may send you information through email communication about our products and services. You agree that the information you provide will be governed by our
+                      <a href="/privacy"> Privacy Policy</a>.</p>
                     </label>
                   </div>
                 </div>
@@ -325,10 +325,15 @@
                 <span class="sr-only">Close</span>
               </button>
               <div class="row">
-                <div class="col-sm-6 modal-header-left">
+                <div class="col-xs-6 col-sm-6 modal-header-left">
                   <h2 class="modal-title">
-                    Registration Required
+                    Registration
                   </h2>
+                </div>
+                <div class="col-xs-6 col-sm-6">
+                  <a href="#" class="pull-right">
+                    Sign In
+                  </a>
                 </div>
               </div>
             </div>
@@ -371,49 +376,49 @@
               <div class="row">
                 <div class="col-sm-6">
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Acute Care Surgery">
                       Acute Care Surgery
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Anesthesiology">
                       Anesthesiology
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Diagnostic Radiology">
                       Diagnostic Radiology
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="General Surgery">
                       General Surgery
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Interventional Radiology">
                       Interventional Radiology
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurosurgery">
                       Neurosurgery
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Neurology">
                       Neurology
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Oral and Maxillofacial Surgery">
                       Oral and Maxillofacial Surgery
                     </label>
@@ -421,43 +426,43 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="radio">
-                    <label class="">
+                    <label class="dark">
                       <input class="ortho-unhide" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Orthopaedic Surgery">
                       Orthopaedic Surgery
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Otolaryngology">
                       Otolaryngology
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Pain Management">
                       Pain Management
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Physiatry">
                       Physiatry
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery">
                       Plastic Surgery
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Plastic Surgery">
                       Podiatric Medicine
                     </label>
                   </div>
                   <div class="radio">
-                    <label>
+                    <label class="dark">
                       <input class="aa" type="radio" name="reg_||c0a80241b71d27b038342fcb3ab567a0" value="Veterinary Medicine">
                       Veterinary Medicine
                     </label>
@@ -478,31 +483,31 @@
                 <div class="row subspecialty ortho">
                   <div class="col-sm-6">
                     <div class="radio">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Joint Reconstruction">
                         Joint Reconstruction
                       </label>
                     </div>
                     <div class="radio">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Sports Medicine">
                         Sports Medicine
                       </label>
                     </div>
                     <div class="radio">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Trauma">
                         Trauma
                       </label>
                     </div>
                     <div class="radio">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Spine">
                         Spine
                       </label>
                     </div>
                     <div class="radio">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Hip and Pelvis">
                         Hip and Pelvis
                       </label>
@@ -510,31 +515,31 @@
                   </div>
                   <div class="col-sm-6">
                     <div class="radio Pedia">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Pediatric">
                         Pediatric
                       </label>
                     </div>
                     <div class="radio Foot ">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Foot and Ankle">
                         Foot and Ankle
                       </label>
                     </div>
                     <div class="radio Hand ">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Hand and Wrist">
                         Hand and Wrist
                       </label>
                     </div>
                     <div class="radio Gener">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="General">
                         General
                       </label>
                     </div>
                     <div class="radio Shoul">
-                      <label>
+                      <label class="dark">
                         <input class="" type="checkbox" name="reg_||c0a80241fe190db1672ee7fc804922b1" value="Shoulder and Elbow">
                         Shoulder and Elbow
                       </label>
@@ -553,8 +558,8 @@
       </div>
     </div>
 
-    <!-- Registration Required 3.1 -->
-    <div class="modal fade reg-req-three-one" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <!-- Registration Required 3.1 if Resident -->
+    <div class="modal fade reg-req-three-one if-resident" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <div class="modal-header">
@@ -605,7 +610,8 @@
                 <input type="text" placeholder="10-digit NPI Number">
               </div>
               <div class="col-xs-2 col-sm-2">
-                icon
+                <span class="glyphicon icon-search">
+                </span>
               </div>
             </div>
 
@@ -756,8 +762,8 @@
       </div>
     </div>
 
-    <!-- Registration Required 3.2 -->
-    <div class="modal fade reg-req-three-two" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <!-- Registration Required 3.2 if Chief Resident -->
+    <div class="modal fade reg-req-three-two if-chief" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <div class="modal-header">
@@ -986,8 +992,8 @@
       </div>
     </div>
 
-    <!-- Registration Required 3.3 -->
-    <div class="modal fade reg-req-three-three" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <!-- Registration Required 3.3 if Fellow -->
+    <div class="modal fade reg-req-three-three if-fellow" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <div class="modal-header">
@@ -1170,8 +1176,8 @@
       </div>
     </div>
 
-    <!-- Registration Required 3.4 -->
-    <div class="modal fade reg-req-three-four" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+    <!-- Registration Required 3.4 if Resident Director/Coordinator -->
+    <div class="modal fade reg-req-three-four if-director" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <div class="modal-header">

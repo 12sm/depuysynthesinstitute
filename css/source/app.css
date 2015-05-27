@@ -536,6 +536,8 @@ p.calendar_date {
   height: 35px;
   width: auto;
   float: right;
+  letter-spacing: .3px;
+  font-weight: bold;
 }
 
 .btn-black {
@@ -672,6 +674,20 @@ img.placeholder-image {
 .checkmark-completed {
   float: right;
   padding-right: 30px;
+}
+
+.additional-steps .modal-footer,
+.reg-req-one .modal-footer {
+  padding: 0;
+}
+
+label p {
+  font-weight: normal;
+}
+
+.if-resident .dropdown, .if-resident select#whatNumber {
+  width: 100%;
+  margin-bottom: 5px;
 }
 
 
@@ -966,8 +982,6 @@ a.delete-link {
    MODALS
    =========================== */
 
-
-
 h4.modal-title {
   font-size: 14px;
 }
@@ -996,7 +1010,7 @@ h4.modal-title {
 }
 
 .modal input[type="text"] {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
 }
 
 .sign-in-modal input[type="checkbox"] {
@@ -1056,12 +1070,16 @@ h4.modal-title {
 
 .modal label {
   color: #A7A8AA;
-  margin-top: 10px;
+  margin-top: 0px;
   margin-bottom: 5px;
 }
 
 label.dark {
   color: rgb(63, 63, 63);
+}
+
+label.agree {
+  color:#4D4F52;
 }
 
 .graduation-date input[type="text"] {
