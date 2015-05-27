@@ -690,6 +690,24 @@ label p {
   margin-bottom: 5px;
 }
 
+.npi-number-options span.glyphicon {
+  margin-top: 5px;
+}
+
+.if-resident label.dark,
+.if-chief label.dark {
+  margin-bottom: 0;
+}
+
+.if-resident textarea,
+.if-chief textarea {
+  height: 65px;
+}
+
+span.warning p {
+  margin-top: 10px;
+}
+
 
 /* ================================
    MY ASSIGNMENTS > SHOW ORDERED
@@ -1007,6 +1025,7 @@ h4.modal-title {
 .modal label {
   margin-top: 0px;
   margin-bottom: 7px;
+  -webkit-font-smoothing: antialiased;
 }
 
 .modal input[type="text"] {
@@ -1117,6 +1136,11 @@ span.warning p {
 .modal .grey-bg-content {
   padding-left: 10px;
 }
+
+.year-residency, .graduation-date {
+  margin-top: 15px;
+}
+
 
 
 

@@ -610,8 +610,7 @@
                 <input type="text" placeholder="10-digit NPI Number">
               </div>
               <div class="col-xs-2 col-sm-2">
-                <span class="glyphicon icon-search">
-                </span>
+                <a href="#"><span class="glyphicon icon-search"></span></a>
               </div>
             </div>
 
@@ -633,7 +632,7 @@
                 <input type="text" placeholder="License Number">
               </div>
               <div class="col-xs-2">
-                icon
+                <a href="#"><span class="glyphicon icon-search"></span></a>
               </div>
             </div>
 
@@ -699,6 +698,26 @@
             </div>
             <div class="row">
               <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
                 <p>
                   Are you working in a Military Hospital?
                 </p>
@@ -728,7 +747,7 @@
                 <label>
                   YEAR IN RESIDENCY
                 </label>
-                <<div class="dropdown">
+                <div class="dropdown">
                   <select>
                     <option>PGY</option>
                     <option>1</option>
@@ -814,7 +833,7 @@
                 <input type="text" placeholder="10-digit NPI Number">
               </div>
               <div class="col-xs-2 col-sm-2">
-                icon
+                <a href="#"><span class="glyphicon icon-search"></span></a>
               </div>
             </div>
 
@@ -836,7 +855,7 @@
                 <input type="text" placeholder="License Number">
               </div>
               <div class="col-xs-2">
-                icon
+                <a href="#"><span class="glyphicon icon-search"></span></a>
               </div>
             </div>
 
@@ -898,6 +917,26 @@
                   ZIP CODE
                 </label>
                 <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
               </div>
             </div>
             <div class="row">
@@ -1044,7 +1083,7 @@
                 <input type="text" placeholder="10-digit NPI Number">
               </div>
               <div class="col-xs-2 col-sm-2">
-                icon
+                <a href="#"><span class="glyphicon icon-search"></span></a>
               </div>
             </div>
 
@@ -1128,6 +1167,26 @@
                   ZIP CODE
                 </label>
                 <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
               </div>
             </div>
             <div class="row">
@@ -1258,6 +1317,26 @@
                   ZIP CODE
                 </label>
                 <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
               </div>
             </div>
             <div class="row">
@@ -1401,7 +1480,7 @@
               </div>
               <div class="col-xs-11">
                 <p>
-                  I will contact the DePuy Synthes Institute Future Leaders team at futureleaders@its.jnj.com.
+                  I will contact the DePuy Synthes Institute Future Leaders team at <a href="#">futureleaders@its.jnj.com</a>.
                 </p>
               </div>
             </div>
