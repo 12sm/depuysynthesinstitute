@@ -560,13 +560,13 @@
                     <div class="panel-group resident-panel-group director-new-assignment" id="accordion" role="tablist" aria-multiselectable="true">
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne">
-                          <input type="checkbox" checked value="complete">
-                          <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <h4 class="panel-title">
+                          <h4 class="panel-title">
+                            <input type="checkbox" checked value="complete">
+                            <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                               PGY 1 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </h4>
-                          </a>
+                            </a>
+                          </h4>
                         </div>
                         <div id="collapseOne" class="panel-collapse collapse in" role="tabpanel" aria-labelledby="headingOne">
                           <div class="panel-body">
@@ -607,13 +607,13 @@
                       </div>
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingTwo">
-                          <input type="checkbox" value="complete">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <h4 class="panel-title">
+                          <h4 class="panel-title">
+                            <input type="checkbox" value="complete">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                               PGY 2 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </h4>
-                          </a>
+                            </a>
+                          </h4>
                         </div>
                         <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
                           <div class="panel-body not-checked">
@@ -652,13 +652,13 @@
                       </div>
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingThree">
-                          <input type="checkbox" value="complete">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <h4 class="panel-title">
+                          <h4 class="panel-title">
+                            <input type="checkbox" value="complete">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                               PGY 3 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </h4>
-                          </a>
+                            </a>
+                          </h4>
                         </div>
                         <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
                           <div class="panel-body not-checked">
@@ -697,13 +697,13 @@
                       </div>
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingFour">
-                          <input type="checkbox" value="complete">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <h4 class="panel-title">
+                          <h4 class="panel-title">
+                            <input type="checkbox" value="complete">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                               PGY 4 <span class="tiny-grey">(5)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </h4>
-                          </a>
+                            </a>
+                          </h4>
                         </div>
                         <div id="collapseFour" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFour">
                           <div class="panel-body not-checked">
@@ -742,8 +742,8 @@
                       </div>
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingFive">
-                          <input type="checkbox" value="complete">
                           <h4 class="panel-title">
+                            <input type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                               PGY 5 <span class="tiny-grey">(0)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
@@ -757,13 +757,13 @@
                       </div>
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingSix">
-                          <input type="checkbox" value="complete">
-                          <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <h4 class="panel-title">
+                          <h4 class="panel-title">
+                            <input type="checkbox" value="complete">
+                            <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                               Unknown <span class="tiny-grey">(6)</span>
                               <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </h4>
-                          </a>
+                            </a>
+                          </h4>
                         </div>
                         <div id="collapseSix" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingSix">
                           <div class="panel-body not-checked">
