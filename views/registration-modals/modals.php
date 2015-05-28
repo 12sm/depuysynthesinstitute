@@ -203,21 +203,15 @@
                 <div class="col-sm-6">
                   <div class="form-group">
                     <div class="dropdown">
-                      <label for="Last_Name">
-                        DEGREE
-                      </label>
-                      <button class="btn btn-default dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown" aria-expanded="true">
-                        Select Degree
-                        <span class="caret pull-right"></span>
-                      </button>
-                      <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">MD</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DO</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DPM</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DVM</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">DMD</a></li>
-                        <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Other</a></li>
-                      </ul>
+                      <select class="modalSelection">
+                        <option>Select Degree</option>
+                        <option>MD</option>
+                        <option>DO</option>
+                        <option>DPM</option>
+                        <option>DVM</option>
+                        <option>DMD</option>
+                        <option>Other</option>
+                      </select>
                     </div>
                   </div>
                 </div>
@@ -346,7 +340,7 @@
                       PROFESSION
                     </label>
                     <br>
-                    <select name="reg_||c0a80241b71c9d40a59dbd6f4b621260" class="form-control">
+                    <select class="modalSelection form-control">
                       <option>Select Specialty</option>
                       <option value="Resident">
                         Resident
@@ -595,7 +589,7 @@
                   IDENTIFICATION NUMBER
                 </label>
                 <div class="dropdown">
-                  <select id="whatNumber">
+                  <select class="modalSelection" id="whatNumber">
                     <option id="npiNumber">NPI Number</option>
                     <option id="slNumber">State License Number</option>
                     <option id="noNumber">I don't have either</option>
@@ -618,7 +612,7 @@
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>
@@ -679,7 +673,7 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>
@@ -748,7 +742,7 @@
                   YEAR IN RESIDENCY
                 </label>
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>PGY</option>
                     <option>1</option>
                     <option>2</option>
@@ -818,7 +812,7 @@
                   IDENTIFICATION NUMBER
                 </label>
                 <div class="dropdown">
-                  <select id="whatNumber">
+                  <select class="modalSelection" id="whatNumber">
                     <option id="npiNumber">NPI Number</option>
                     <option id="slNumber">State License Number</option>
                     <option id="noNumber">I don't have either</option>
@@ -841,7 +835,7 @@
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>
@@ -902,7 +896,7 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>
@@ -971,7 +965,7 @@
                   YEAR IN RESIDENCY
                 </label>
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>PGY</option>
                     <option>1</option>
                     <option>2</option>
@@ -1068,7 +1062,7 @@
                   IDENTIFICATION NUMBER
                 </label>
                 <div class="dropdown">
-                  <select id="whatNumber">
+                  <select class="modalSelection" id="whatNumber">
                     <option id="npiNumber">NPI Number</option>
                     <option id="slNumber">State License Number</option>
                     <option id="noNumber">I don't have either</option>
@@ -1091,7 +1085,7 @@
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>
@@ -1152,7 +1146,7 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>
@@ -1302,7 +1296,7 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select>
+                  <select class="modalSelection">
                     <option>State</option>
                     <option>AL</option>
                     <option>AZ</option>

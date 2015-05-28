@@ -406,6 +406,7 @@ function initDSI(role) {
   $("input#noMili").click(function(){
     $("div#proffer").addClass("hidden");
   });
+  $(".modalSelection").select2();
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
