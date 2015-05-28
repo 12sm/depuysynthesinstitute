@@ -16,7 +16,7 @@
         <li class=""><a href="/profile" class="">My Profile<span class="pull-right glyphicon icon-profile"></span></a></li>
         <li class=""><a href="/favorites" class="">My Favorites<span class="pull-right glyphicon icon-favorites"></span></a></li>
         <li class="active"><a href="/my-assignments" class="">My Assignments<span class="pull-right glyphicon icon-assignments"></span></a></li>
-
+        <li class="mobile-nav-break"></li>
         <li class=""><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
 
 

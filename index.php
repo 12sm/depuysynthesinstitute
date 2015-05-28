@@ -66,10 +66,10 @@
           <a href='views/my-assignments/resident-management.php'><h2></h2>Manage Residents</a>
           <a href='views/my-assignments/invitation-sent.php'><h2></h2>Invitation Sent</a>
           <h2>Menus</h2>
-          <a href='views/menus/surgeon-menu.php'><h2></h2>Surgeon Education Logged Out</a>
-          <a href='views/menus/nurse-menu.php'><h2></h2>Nurse Education Logged Out</a>
-          <a href='views/menus/vet-menu.php'><h2></h2>Veterinary Education Logged Out</a>
-          <a href='views/menus/resident-menu.php'><h2></h2>Resident Education Logged Out</a>
+          <a href='views/menus/surgeon-menu.php'><h2></h2>Surgeon Education Logged In</a>
+          <a href='views/menus/nurse-menu.php'><h2></h2>Nurse Education Logged In</a>
+          <a href='views/menus/vet-menu.php'><h2></h2>Veterinary Education Logged In</a>
+          <a href='views/menus/resident-menu.php'><h2></h2>Resident Education Logged In</a>
           <h2>Registration Modals</h2>
           <a href='views/partner-site-button/partner.php'><h2></h2>Partner</a>
           <h2>Miscellaneous Views</h2>
