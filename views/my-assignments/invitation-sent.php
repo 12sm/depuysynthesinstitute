@@ -13,6 +13,223 @@
 
 
 
+
+        <!-- Find Modal -->
+        <div class="modal fade invite-resident-modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+          <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+              <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <h4 class="modal-title">
+                      Select Residents to Add
+                    </h4>
+                  </div>
+                </div>
+              </div>
+              <div class="modal-body">
+                <div class="row">
+                  <div class="col-xs-12">
+                    <p>Showing results for "Dimaggio"</p>
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr class="no-margin-top" />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Aaron Dimaggio</strong></p>
+                    <p class="tiny-grey">adimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Carl Dimaggio</strong></p>
+                    <p class="tiny-grey">cdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3 center invite-sent">
+                    <p><strong>Invite Sent</strong></p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Douglas Dimaggio</strong></p>
+                    <p class="tiny-grey">ddimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Howard Dimaggio</strong></p>
+                    <p class="tiny-grey">hdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Joseph Dimaggio</strong></p>
+                    <p class="tiny-grey">jdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Liam Dimaggio</strong></p>
+                    <p class="tiny-grey">ldimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Mark Dimaggio</strong></p>
+                    <p class="tiny-grey">Mdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Nicolas Dimaggio</strong></p>
+                    <p class="tiny-grey">ndimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Omar Dimaggio</strong></p>
+                    <p class="tiny-grey">odimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3 center invite-sent">
+                    <p><strong>Invite Sent</strong></p>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Paul Dimaggio</strong></p>
+                    <p class="tiny-grey">pdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Samuel Dimaggio</strong></p>
+                    <p class="tiny-grey">sdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+                <div class="row">
+                  <div class="col-xs-9">
+                    <p><strong>Thomas Dimaggio</strong></p>
+                    <p class="tiny-grey">tdimaggio@generalhospital.edu</p>
+                  </div>
+                  <div class="col-xs-3">
+                    <a href="#"><button class="btn btn-info">Send Invite</button></a>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-xs-12">
+                    <hr />
+                  </div>
+                </div>
+
+
+              </div><!-- end modal body -->
+            </div>
+          </div>
+        </div>
+
+
+
         <div id="smt_col1Wrapper">
           <div id="smt_col1" class="padding-wrap">
 
@@ -32,7 +249,7 @@
                   <input type="text" placeholder="First Name">
                 </div>
                 <div class="col-xs-3">
-                  <button type="button" class="btn btn-info pull-left find-btn">Find</button>
+                  <button type="button" class="btn btn-info pull-left find-btn" data-toggle="modal" data-target=".invite-resident-modal">Find</button>
                 </div>
               </div>
               <div class="row">

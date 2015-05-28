@@ -11,7 +11,7 @@
       <div class="right_column col-xs-12 col-sm-8 col-md-9">
         <?php include '../templates/mobile-header.php';?>
 
-        <!-- Sign In Modal -->
+        <!-- Find Modal -->
         <div class="modal fade invite-resident-modal" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
           <div class="modal-dialog modal-lg">
             <div class="modal-content">
@@ -34,7 +34,7 @@
 
                 <div class="row">
                   <div class="col-xs-12">
-                    <hr />
+                    <hr class="no-margin-top" />
                   </div>
                 </div>
 

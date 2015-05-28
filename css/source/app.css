@@ -1288,6 +1288,13 @@ span.select2.select2-container.select2-container--default {
   float:right;
 }
 
+.invite-resident-modal .modal-body {
+  padding-top: 3px;
+}
+
+.invite-resident-modal hr.no-margin-top {
+  margin-top: 7px!important;
+}
 
 
 
