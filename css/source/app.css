@@ -220,7 +220,7 @@ ul#acc-menu5 li {
 }
 
 ul#acc-menu5 li a {
-  padding: 15px 20px!important;
+  padding: 10px 20px!important;
   width: 100%;
   font-size: 12px;
   display: inline-block;
@@ -1262,6 +1262,19 @@ span.select2.select2-container.select2-container--default {
   margin-bottom: 10px;
 }
 
+.invite-resident-modal p {
+  margin-bottom: 0;
+}
+
+.invite-sent p {
+  padding-top: 10px;
+}
+
+.invite-resident-modal .col-xs-3 {
+  max-width: 126px;
+  float:right;
+}
+
 
 
 
@@ -1379,7 +1392,7 @@ span.select2.select2-container.select2-container--default {
   }
 
   ul#acc-menu6 li a {
-   padding: 15px 30px!important;
+   padding: 10px 30px!important;
   }
 
   .new-assignment-form h2 {
