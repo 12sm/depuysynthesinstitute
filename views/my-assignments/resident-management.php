@@ -275,7 +275,6 @@
 
               <div class="row resident-accordion">
                 <div class="col-xs-12">
-
                   <div class="panel-group resident-panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingOne">
@@ -351,8 +350,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <a class="inviteAgain btn btn-info pull-right">Invite Again</a>
                             </div>
                           </div>
                         </div>
@@ -432,8 +431,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <a class="btn btn-info pull-right inviteAgain">Invite Again</a>
                             </div>
                           </div>
                         </div>
@@ -513,8 +512,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <a class="inviteAgain btn btn-info pull-right">Invite Again</a>
                             </div>
                           </div>
                         </div>
@@ -594,8 +593,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="inviteDiv col-xs-3">
+                              <a class="inviteAgain btn btn-info pull-right">Invite Again</a>
                             </div>
                           </div>
                         </div>
@@ -614,7 +613,6 @@
                       </div>
                       <div id="collapseFive" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingFive">
                         <div class="panel-body">
-
                         </div>
                       </div>
                     </div>
@@ -692,8 +690,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <a class="inviteAgain btn btn-info pull-right">Invite Again</a>
                             </div>
                           </div>
                         </div>

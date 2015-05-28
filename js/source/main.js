@@ -356,6 +356,9 @@ function initDSI(role) {
   setupVideoPlayers();
   initSearchAutoSuggest();
 
+  //----  INVITE SENT TOGGLE  ----//
+  $(".inviteAgain").click(toggleInvite);
+
   //----  DROPDOWN MENU INITS  ----//
   $('#acc-menu5').collapse("hide");
   $('#acc-menu6').collapse("hide");
@@ -423,6 +426,13 @@ function initDSI(role) {
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
   $(".forget").click(uncheckIt);
+}
+
+function toggleInvite(){
+  var sent = $("<p><strong>Invite Sent</strong></p>");
+  var deev = $(this).closest(".inviteDiv")[0];
+  deev.appendChild(sent[0]);
+  $(this).remove();
 }
 
 function checkIt(){

@@ -16,7 +16,6 @@
         <div id="smt_col1Wrapper">
           <div id="smt_col1" class="padding-wrap">
 
-
             <div class="modSpacer add-a-resident">
               <div class="row">
                 <div class="col-xs-12">
@@ -51,7 +50,7 @@
               </div>
               <div class="row">
                 <div class="col-xs-12">
-                  <p class="invitation-sent-notification"><strong>Invitation send to scrow@abchospital.com.</strong></p>
+                  <p class="invitation-sent-notification"><strong>Invitation sent to scrow@abchospital.com.</strong></p>
                 </div>
               </div>
             </div>
@@ -67,7 +66,6 @@
 
               <div class="row resident-accordion">
                 <div class="col-xs-12">
-
                   <div class="panel-group resident-panel-group" id="accordion" role="tablist" aria-multiselectable="true">
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingOne">
@@ -143,8 +141,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="inviteDiv col-xs-3">
+                              <a class="inviteAgain btn btn-info pull-right">Invite Again</a>
                             </div>
                           </div>
                         </div>
@@ -224,8 +222,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <button type="button" class="inviteAgain btn btn-info pull-right">Invite Again</button>
                             </div>
                           </div>
                         </div>
@@ -305,8 +303,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <button type="button" class="inviteAgain btn btn-info pull-right">Invite Again</button>
                             </div>
                           </div>
                         </div>
@@ -386,8 +384,8 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <button type="button" class="inviteAgain btn btn-info pull-right">Invite Again</button>
                             </div>
                           </div>
                         </div>
@@ -483,24 +481,17 @@
                               <p><strong>Patricia Butler</strong></p>
                               <p class="tiny-grey">pbutler@generalhospital.edu</p>
                             </div>
-                            <div class="col-xs-3">
-                              <button type="button" class="btn btn-info pull-right">Invite Again</button>
+                            <div class="col-xs-3 inviteDiv">
+                              <button class="inviteAgain btn btn-info pull-right">Invite Again</button>
                             </div>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
-
                 </div>
               </div>
-
             </div>
-
-            <div class="modSpacer">
-            </div>
-
-
           </div>
         </div>
 
