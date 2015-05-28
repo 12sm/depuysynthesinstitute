@@ -13,9 +13,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
   <link href="../../css/vendor/bootstrap-custom.css" rel="stylesheet" />
+  <link href="../../css/vendor/select2.min.css" rel="stylesheet" />
   <link href="../../css/vendor/modules.css" type="text/css" rel="stylesheet" />
   <link href="../../css/source/app.css" type="text/css" rel="stylesheet" title="main" />
-
 
   <script type="text/javascript" src="../../js/vendor/jquery.min.js"></script>
   <script type="text/javascript" src="../../js/vendor/libs.min.js"></script>
