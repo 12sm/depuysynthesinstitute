@@ -202,6 +202,9 @@
                 </div>
                 <div class="col-sm-6">
                   <div class="form-group">
+                    <label for="degree">
+                      DEGREE
+                    </label>
                     <div class="dropdown">
                       <select class="modalSelection">
                         <option>Select Degree</option>
@@ -1721,7 +1724,7 @@
           <div class="modal-body">
             <div class="row">
               <div class="col-sm-12">
-                <p>Thank you for registering for the DePuy Synthes Institute Future Leaders online educational program. You now have access to all content and may earn credits. You may not redeem credits until we review your registration and activate your account in 1–2 business days. If you have any questions please feel free to contact us any time at futureleaders@its.jnj.com.</p>
+                <p>Thank you for registering for the DePuy Synthes Institute Future Leaders online educational program. You now have access to all content and may earn credits. You may not redeem credits until we review your registration and activate your account in 1–2 business days. If you have any questions please feel free to contact us any time at <a href="#">futureleaders@its.jnj.com</a>.</p>
               </div>
             </div>
             <div class="modal-footer">

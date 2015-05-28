@@ -1212,6 +1212,26 @@ span.warning p {
   margin-top: 15px;
 }
 
+.dropdown span.select2.select2-container.select2-container--default {
+  width: 100%!important;
+}
+
+span.select2.select2-container.select2-container--default {
+  width: 100%!important;
+}
+
+.select2-container--default .select2-selection--single {
+  background-color: #fff;
+  border: 1px solid #D4D5D1;
+  border-radius: 4px;
+  height: 32px;
+}
+
+.reg-req-three-two .dropdown span.select2.select2-container.select2-container--default,
+.reg-req-three-three .dropdown span.select2.select2-container.select2-container--default {
+  margin-bottom: 10px;
+}
+
 
 
 
