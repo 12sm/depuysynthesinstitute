@@ -7,8 +7,11 @@
       <div class="modal-dialog modal-lg">
         <div class="modal-content">
           <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
-            <h4 class="modal-title">Select Resources To Add</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+            </button>
+            <h4 class="modal-title">
+              Select Resources To Add
+            </h4>
           </div>
           <div id="materials" class="modal-body">
             <p>
@@ -39,14 +42,18 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <h4>
-                              <a href="/views/my-assignments/single.php">Case Insights: Distal Humerus Extra Articular</a>
+                              <a href="/views/my-assignments/single.php">
+                                Case Insights: Distal Humerus Extra Articular
+                              </a>
                             </h4>
                           </div>
                         </div>
                         <div class="row">
                           <div class="col-xs-11">
                             <p>
-                              <span>Video, 2:24</span>
+                              <span>
+                                Video, 2:24
+                              </span>
                             </p>
                           </div>
                           <div class="col-xs-1">
@@ -57,10 +64,10 @@
                         </div>
                         <div id="mat1" class="row">
                           <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
-                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                <img src="/img/play-button.png" class="play-button-image" />
-                              </a>
+                            <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                              <img src="/img/play-button.png" class="play-button-image" />
+                            </a>
                           </div>
                           <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
@@ -123,10 +130,10 @@
                         </div>
                         <div id="mat2" class="row">
                           <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
-                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                <img src="/img/play-button.png" class="play-button-image" />
-                              </a>
+                            <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                              <img src="/img/play-button.png" class="play-button-image" />
+                            </a>
                           </div>
                           <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
@@ -171,7 +178,8 @@
                             </div>
                             <div class="row">
                               <div class="col-xs-12">
-                                <p class="tiny-grey"><strong>2 Days</strong></p>
+                                <p class="tiny-grey"><strong>2 Days</strong>
+                                </p>
                               </div>
                             </div>
                           </div>
@@ -179,8 +187,8 @@
                             <div class="row">
                               <div class="col-xs-12">
                                 <h4>
-                                  <a href="/views/my-assignments/single.php">Codman Neuro MedStreamTM Therapy Maintenance Course</a>
-                                </h4>
+                                    <a href="/views/my-assignments/single.php">Codman Neuro MedStreamTM Therapy Maintenance Course</a>
+                                  </h4>
                               </div>
                             </div>
                             <div class="row">
@@ -225,8 +233,8 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <h4>
-                              <a href="/views/my-assignments/single.php">A.L.P.S. Elbow Plating System Surgical Technique</a>
-                            </h4>
+                                <a href="/views/my-assignments/single.php">A.L.P.S. Elbow Plating System Surgical Technique</a>
+                              </h4>
                           </div>
                         </div>
                         <div class="row">
@@ -243,10 +251,9 @@
                         </div>
                         <div id="mat4" class="row">
                           <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
-                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                <img src="/img/play-button.png" class="play-button-image" />
-                              </a>
+                            <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                            </a>
                           </div>
                           <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
@@ -265,11 +272,11 @@
               </div>
             </div>
 
-            <div class="row single-class grey-bg grey-bg-top">
+            <div class="row single-class">
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-12 grey-bg-content">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
@@ -308,10 +315,10 @@
                         </div>
                         <div id="mat5" class="row">
                           <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
-                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                <img src="/img/play-button.png" class="play-button-image" />
-                              </a>
+                            <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                              <img src="/img/play-button.png" class="play-button-image" />
+                            </a>
                           </div>
                           <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
@@ -331,11 +338,11 @@
             </div>
 
 
-            <div class="row single-class grey-bg">
+            <div class="row single-class">
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-12 grey-bg-content">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
@@ -356,8 +363,8 @@
                         <div class="row">
                           <div class="col-xs-12">
                             <h4>
-                              <a href="/views/my-assignments/single.php">Case Insights: Proximal Ulna Monteggia Fracture</a>
-                            </h4>
+                                <a href="/views/my-assignments/single.php">Case Insights: Proximal Ulna Monteggia Fracture</a>
+                              </h4>
                           </div>
                         </div>
                         <div class="row">
@@ -374,10 +381,10 @@
                         </div>
                         <div id="mat6" class="row">
                           <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
-                              <a href="/views/my-assignments/single.php" class="center-align-play-button">
-                                <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                                <img src="/img/play-button.png" class="play-button-image" />
-                              </a>
+                            <a href="/views/my-assignments/single.php" class="center-align-play-button">
+                              <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                              <img src="/img/play-button.png" class="play-button-image" />
+                            </a>
                           </div>
                           <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
                             <div class="row">
@@ -500,12 +507,10 @@
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingOne">
                         <h4 class="panel-title">
+                          <input type="checkbox" checked value="complete">
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                            <p>
-                              <input type="checkbox" checked value="complete"/>
-                              PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
+                            PGY 1 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                           </a>
                         </h4>
                       </div>
@@ -547,12 +552,10 @@
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingTwo">
                         <h4 class="panel-title">
+                          <input type="checkbox" value="complete">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
+                            PGY 2 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                           </a>
                         </h4>
                       </div>
@@ -594,12 +597,10 @@
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingThree">
                         <h4 class="panel-title">
+                          <input type="checkbox" value="complete">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
+                            PGY 3 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                           </a>
                         </h4>
                       </div>
@@ -641,12 +642,10 @@
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingFour">
                         <h4 class="panel-title">
+                          <input type="checkbox" value="complete">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
+                            PGY 4 <span class="tiny-grey">(5)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                           </a>
                         </h4>
                       </div>
@@ -688,12 +687,10 @@
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingFive">
                         <h4 class="panel-title">
+                          <input type="checkbox" value="complete">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
+                            PGY 5 <span class="tiny-grey">(0)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                           </a>
                         </h4>
                       </div>
@@ -705,12 +702,10 @@
                     <div class="panel panel-default">
                       <div class="panel-heading" role="tab" id="headingSix">
                         <h4 class="panel-title">
+                          <input type="checkbox" value="complete">
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                            <p>
-                              <input type="checkbox" value="complete"/>
-                              Unknown <span class="tiny-grey">(6)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
-                            </p>
+                            Unknown <span class="tiny-grey">(6)</span>
+                            <span class="pull-right glyphicon icon-caret-down pull-right"></span>
                           </a>
                         </h4>
                       </div>

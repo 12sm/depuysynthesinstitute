@@ -254,7 +254,6 @@
                           <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 pull-left list-thumb">
                             <a href="/views/my-assignments/single.php" class="center-align-play-button">
                               <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                              <img src="/img/play-button.png" class="play-button-image" />
                             </a>
                           </div>
                           <div class="col-xs-9 col-sm-9 col-md-9 col-lg-9">
@@ -274,11 +273,11 @@
               </div>
             </div>
 
-            <div class="row single-class grey-bg grey-bg-top">
+            <div class="row single-class">
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-12 grey-bg-content">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
@@ -340,11 +339,11 @@
             </div>
 
 
-            <div class="row single-class grey-bg">
+            <div class="row single-class">
               <div class="col-xs-12">
                 <hr>
                 <div class="row">
-                  <div class="col-xs-12 grey-bg-content">
+                  <div class="col-xs-12">
                     <div class="row">
                       <div class="checkBiz col-xs-1 ">
                         <div class="checkComplete">
@@ -806,7 +805,6 @@
                       <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
                         <a href="/views/my-assignments/single.php" class="center-align-play-button">
                           <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                          <img src="/img/play-button.png" class="play-button-image" />
                         </a>
                       </div>
                       <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">
@@ -848,7 +846,6 @@
                       <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
                         <a href="/views/my-assignments/single.php" class="center-align-play-button">
                           <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
-                          <img src="/img/play-button.png" class="play-button-image" />
                         </a>
                       </div>
                       <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">
