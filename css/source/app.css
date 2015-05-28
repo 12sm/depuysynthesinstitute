@@ -903,6 +903,19 @@ img.play-button-image {
   margin-left:-10px!important;
 }
 
+a.inviteAgain.btn.btn-info.pull-right {
+  font-weight: bold;
+  padding: 7px;
+}
+
+.inviteDiv p strong {
+  text-align: right;
+  float: right;
+  padding-top: 10px;
+}
+
+
+
 
 /* ===========================
    My Assignments Director
