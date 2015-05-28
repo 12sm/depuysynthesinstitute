@@ -206,8 +206,8 @@
                       DEGREE
                     </label>
                     <div class="dropdown">
-                      <select class="modalSelection">
-                        <option>Select Degree</option>
+                      <select class="modalSelectionDegree">
+                        <option></option>
                         <option>MD</option>
                         <option>DO</option>
                         <option>DPM</option>
@@ -343,8 +343,8 @@
                       PROFESSION
                     </label>
                     <br>
-                    <select class="modalSelection form-control">
-                      <option>Select Specialty</option>
+                    <select class="modalSelectionSpecialty form-control">
+                      <option></option>
                       <option value="Resident">
                         Resident
                       </option>
@@ -615,8 +615,8 @@
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>
@@ -676,8 +676,8 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>
@@ -838,8 +838,8 @@
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>
@@ -899,8 +899,8 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>
@@ -1088,8 +1088,8 @@
             <div class="row hidden state-license-number-options">
               <div class="col-xs-3">
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>
@@ -1149,8 +1149,8 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>
@@ -1299,8 +1299,8 @@
                   STATE
                 </label>
                 <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>State</option>
+                  <select class="modalSelectionState">
+                    <option></option>
                     <option>AL</option>
                     <option>AZ</option>
                     <option>RI</option>

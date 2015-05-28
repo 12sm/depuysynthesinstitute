@@ -407,6 +407,18 @@ function initDSI(role) {
     $("div#proffer").addClass("hidden");
   });
   $(".modalSelection").select2();
+  $(".modalSelectionDegree").select2({
+    placeholder: "Select Degree",
+    allowClear: true
+  });
+  $(".modalSelectionState").select2({
+    placeholder: "State",
+    allowClear: true
+  });
+  $(".modalSelectionSpecialty").select2({
+    placeholder: "Select Specialty",
+    allowClear: true
+  });
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
