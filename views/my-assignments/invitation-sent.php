@@ -290,7 +290,7 @@
                           <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                             <p>
                               PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
                           </a>
                         </h4>
@@ -371,7 +371,7 @@
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                             <p>
                               PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
                           </a>
                         </h4>
@@ -452,7 +452,7 @@
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                             <p>
                               PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
                           </a>
                         </h4>
@@ -533,7 +533,7 @@
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                             <p>
                               PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
                           </a>
                         </h4>
@@ -614,7 +614,7 @@
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                             <p>
                               PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
                           </a>
                         </h4>
@@ -630,7 +630,7 @@
                           <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                             <p>
                               Unknown <span class="tiny-grey">(6)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </p>
                           </a>
                         </h4>
