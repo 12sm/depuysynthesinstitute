@@ -443,7 +443,7 @@
                 <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="indention row">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -522,7 +522,7 @@
                 <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="indention row">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
@@ -600,7 +600,7 @@
                 <div class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
-                    <div class="indention row">
+                    <div class="indention row indent">
                       <div class="contention col-xs-10 col-sm-10 col-md-10 col-lg-10 grey-bg-content">
                         <div class="row">
                           <div class="checkBiz col-xs-1 ">
