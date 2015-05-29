@@ -62,8 +62,8 @@
                           <div class="checkBiz col-xs-1">
                             <div class="checkComplete">
                               <div class="squaredFour">
-                                <input type="checkbox" class="sibs" value="none" id="squaredFour11" name="check">
-                                <label class="forgotten" for="squaredFour11"></label>
+                                <input type="checkbox" class="sibs" value="none" id="squaredFour1" name="check">
+                                <label class="forgotten" for="squaredFour1"></label>
                               </div>
                             </div>
                           </div>
