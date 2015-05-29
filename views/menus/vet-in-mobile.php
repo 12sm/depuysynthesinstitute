@@ -15,11 +15,15 @@
 
 
       <ul class="dropdown-menu mobile-nav vet-out">
-        <li class="active"><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
+        <li class=""><a href="/profile" class="">My Profile<span class="pull-right glyphicon icon-profile"></span></a></li>
+        <li class=""><a href="/favorites" class="">My Favorites<span class="pull-right glyphicon icon-favorites"></span></a></li>
+        <li class="active"><a href="/my-assignments" class="">My Assignments<span class="pull-right glyphicon icon-assignments">4</span></a></li>
+        <li class="mobile-nav-break"></li>
+        <li class=""><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
         <li class="mobile-nav-break"></li>
         <li class=""><a href="/sm_animal">Small Animal<span class="pull-right glyphicon icon-dog"></span></a></li>
         <li class=""><a href="/lg_animal">Large Animal<span class="pull-right glyphicon icon-horse"></span></a></li>
-        <li class="mobile-nav-break"></li>
+        <li class="nav-calendar"><a href="/calendar" class="nav_calendar">Course Calendar<span class="pull-right glyphicon icon-cal"></span></a></li>
         <li class=""><a href="/commerce">eCommerce Site<span class="pull-right glyphicon icon-ecomm"></span></a></li>
         <li class="sub-nav"><a href="/surgeon-education">Surgeon Education<span class="glyphicon icon-caret-right"></span></a></li>
         <li class="sub-nav"><a href="/nurse-education">Nurse Education<span class="glyphicon icon-caret-right"></span></a></li>

@@ -2,7 +2,7 @@
 <html lang="en">
   <?php include '../templates/head.php';?>
   <body>
-    <?php include '../templates/sign-in-out.php';?>
+    <?php include '../templates/sign-in.php';?>
     <div class="main_wrapper container-fluid">
       <div class="left_column hidden-xs col-sm-4 col-md-3">
         <?php include '../templates/logo-search-sm.php';?>

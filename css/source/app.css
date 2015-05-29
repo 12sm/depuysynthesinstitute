@@ -103,7 +103,8 @@ a {color:#003b5f;}
     content: "\e618";
 }
 
-nav.main_nav li.active .glyphicon {
+nav.main_nav li.active .glyphicon,
+ul.dropdown-menu.mobile-nav li.active .glyphicon {
   color: #a89968;
   font-size: 13px;
   font-weight: bold;
@@ -318,15 +319,10 @@ li.nav-home {
   margin-top: -2px;
 }
 
-ul.nav_list li:nth-child(2) {
-  -webkit-box-shadow: none!important;
-  -moz-box-shadow: none!important;
-  box-shadow: none!important;
-}
-
-ul.nav_list.vet-out li:nth-child(2),
-ul.nav_list.surgeon-out li:nth-child(2),
-ul.nav_list.nurse-out li:nth-child(2) {
+ul.-menu.list-unstyled.nav_list.vet-out-menu li:nth-child(2) {
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
   display:none;
 }
 
@@ -366,8 +362,9 @@ span.glyphicon.icon-phone.pull-right {
   width: 38px;
 }
 
-.vet-out li.nav-home {
-  margin-top: 0px;
+.vet-out li.nav-home,
+.vet-out-menu li.nav-home {
+  margin-top: 0px!important;
   border-top: none!important;
 }
 
@@ -406,7 +403,8 @@ ul.dropdown-menu.mobile-nav li.sub-nav a {
 
 .residents-menu li.nav-home,
 .director-menu li.nav-home,
-.chief-resident-menu li.nav-home {
+.chief-resident-menu li.nav-home,
+ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
   list-style: none;
   -webkit-box-shadow: 2px -3px 2px 0 rgba(000,000,000,.1)!important;
   -moz-box-shadow: 2px -3px 2px 0 rgba(000,000,000,.1)!important;
