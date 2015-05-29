@@ -326,6 +326,12 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li:nth-child(2) {
   display:none;
 }
 
+ul.nav_list li:nth-child(2) {
+-webkit-box-shadow: none!important;
+-moz-box-shadow: none!important;
+box-shadow: none!important;
+}
+
 ul.list-unstyled.nav_list li.nav-foot-ankle {
   -webkit-box-shadow: none!important;
   -moz-box-shadow: none!important;
