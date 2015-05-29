@@ -262,14 +262,14 @@
               </div>
               <div class="row">
                 <div class="col-xs-12">
-                  <div class="checkbox">
+                  <!-- <div class="checkbox">
                     <input type="hidden" name="allowCommFlgSet" value="1">
                     <label>
                       <input type="checkbox" value="complete">
                       <p>I agree to the
                       <a href="#"> terms and conditions</a>.</p>
                     </label>
-                  </div>
+                  </div> -->
                   <div class="checkbox">
                     <input type="hidden" name="allowCommFlgSet" value="1">
                     <label>
@@ -1714,33 +1714,72 @@
             <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-two">
               Registration Required 2
             </button>
-            <h1>
-              If Registered:
-            </h1>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-one">
-              Registration Required 3.1
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-two">
-              Registration Required 3.2
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-three">
-              Registration Required 3.3
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
-              Registration Required 3.4
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-one">
-              Registration Required 4.1
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-two">
-              Registration Required 4.2
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-three">
-              Registration Required 4.3
-            </button>
-            <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".thank-you">
-              Confirmation
-            </button>
+
+            <div class="row">
+              <div class="col-sm-12">
+                <h1>
+                  If Registered:
+                </h1>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-sm-12">
+                <p><strong>USA</strong></p>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-one">
+                  Registration Required 3.1
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-two">
+                  Registration Required 3.2
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-three">
+                  Registration Required 3.3
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
+                  Registration Required 3.4
+                </button>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-sm-12">
+                <p><strong>Canada</strong></p>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
+                  If Canada Alert
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-one">
+                  Registration Required 3.1.C
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-two">
+                  Registration Required 3.2.C
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-three">
+                  Registration Required 3.3.C
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
+                  Registration Required 3.4.C
+                </button>
+              </div>
+            </div>
+
+            <div class="row">
+              <div class="col-sm-12">
+                <p><strong>All</strong></p>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-one">
+                  Registration Required 4.1
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-two">
+                  Registration Required 4.2
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-four-three">
+                  Registration Required 4.3
+                </button>
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".thank-you">
+                  Confirmation
+                </button>
+              </div>
+            </div>
+
           </div>
         </div>
       </div>

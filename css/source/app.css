@@ -704,7 +704,7 @@ p.calendar_date {
 
 h6.completed {
   color: #4d4f53;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .single-class {
@@ -748,6 +748,8 @@ img.placeholder-image {
   top: -11px;
   right:10px;
 }
+
+#these-are-not-checked hr {margin-top:0px;}
 
 .grey-bg {
   background-color: #D8D8D6;
