@@ -419,7 +419,7 @@ function initDSI(role) {
     allowClear: true
   });
   $(".modalSelectionSpecialty").select2({
-    placeholder: "Select Specialty",
+    placeholder: "Select Profession",
     allowClear: true
   });
 

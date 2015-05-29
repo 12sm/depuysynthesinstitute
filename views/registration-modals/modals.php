@@ -265,8 +265,7 @@
                   <div class="checkbox">
                     <input type="hidden" name="allowCommFlgSet" value="1">
                     <label>
-                      <input class="sr-only" type="checkbox" value="1" name="orgConsentStatement">
-                      <span class="styled_checkbox"></span>
+                      <input type="checkbox" value="complete">
                       <p>I agree to the
                       <a href="#"> terms and conditions</a>.</p>
                     </label>
@@ -274,8 +273,7 @@
                   <div class="checkbox">
                     <input type="hidden" name="allowCommFlgSet" value="1">
                     <label>
-                      <input class="sr-only" type="checkbox" value="1" name="orgConsentStatement">
-                      <span class="styled_checkbox"></span>
+                      <input type="checkbox" value="complete">
                       <p>If you check this box we may send you information through email communication about our products and services. You agree that the information you provide will be governed by our
                       <a href="/privacy"> Privacy Policy</a>.</p>
                     </label>
@@ -1001,7 +999,7 @@
             <div class="row">
               <div class="col-xs-12">
                 <p>
-                  As a Chief Resident, you may assign content and curricula to residents in your program through the My Assignments section. Learn more.
+                  As a Chief Resident, you may assign content and curricula to residents in your program through the My Assignments section. <a href="#">Learn more.</a>
                 </p>
                 <p>
                   Would you like to participate?
@@ -1318,26 +1316,6 @@
             </div>
             <div class="row">
               <div class="col-xs-12">
-                <div class="checkbox">
-                  <input type="hidden" name="allowCommFlgSet" value="1">
-                  <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
-                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
-                  </label>
-                </div>
-                <div class="checkbox">
-                  <input type="hidden" name="allowCommFlgSet" value="1">
-                  <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
-                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
-                  </label>
-                </div>
-              </div>
-            </div>
-            <div class="row">
-              <div class="col-xs-12">
                 <label class="dark">
                   MY ASSIGNMENTS
                 </label>
@@ -1346,7 +1324,7 @@
             <div class="row">
               <div class="col-xs-12">
                 <p>
-                  As a Chief Resident, you may assign content and curricula to residents in your program through the My Assignments section. Learn more.
+                  As a Residency Director/Coordinator, you may assign content and curricula to residents in your program through the My Assignments section. <a hef="#">Learn more.</a>
                 </p>
                 <p>
                   Would you like to participate?
@@ -1452,11 +1430,7 @@
             <div class="row">
               <div class="col-xs-7">
                 <input type="file" placeholder="Upload...">
-              </div>
-              <div class="col-xs-7">
-                <button class="btn btn-black">
-                  Browse
-                </button>
+                <p />
               </div>
             </div>
             <div class="row">
@@ -1470,14 +1444,12 @@
             <div class="row">
               <div class="col-xs-1">
                 <div class="checkComplete">
-                  <div class="squaredFour">
-                    <label><input type="checkbox" value="none" id="squaredFour0" name="check"></label>
-                  </div>
+                    <label><input type="checkbox" value="none" name="check"></label>
                 </div>
               </div>
               <div class="col-xs-11">
                 <p>
-                  I will contact the DePuy Synthes Institute Future Leaders team at <a href="#">futureleaders@its.jnj.com</a>.
+                  I will contact the DePuy Synthes Institute Future Leaders team at <a href="mailto:futureleaders@its.jnj.com">futureleaders@its.jnj.com</a>.
                 </p>
               </div>
             </div>
@@ -1570,11 +1542,7 @@
             <div class="row">
               <div class="col-xs-7">
                 <input type="file" placeholder="Upload...">
-              </div>
-              <div class="col-xs-7">
-                <button class="btn btn-black">
-                  Browse
-                </button>
+                <p />
               </div>
             </div>
             <div class="row">
@@ -1588,14 +1556,12 @@
             <div class="row">
               <div class="col-xs-1">
                 <div class="checkComplete">
-                  <div class="squaredFour">
-                    <label><input type="checkbox" value="none" id="squaredFour0" name="check"></label>
-                  </div>
+                    <label><input type="checkbox" value="none" name="check"></label>
                 </div>
               </div>
               <div class="col-xs-11">
                 <p>
-                  I will contact the DePuy Synthes Institute Future Leaders team at futureleaders@its.jnj.com.
+                  I will contact the DePuy Synthes Institute Future Leaders team at <a href="mailto:futureleaders@its.jnj.com">futureleaders@its.jnj.com</a>.
                 </p>
               </div>
             </div>
@@ -1667,11 +1633,7 @@
             <div class="row">
               <div class="col-xs-7">
                 <input type="file" placeholder="Upload...">
-              </div>
-              <div class="col-xs-7">
-                <button class="btn btn-black">
-                  Browse
-                </button>
+                <p />
               </div>
             </div>
             <div class="row">
@@ -1685,14 +1647,12 @@
             <div class="row">
               <div class="col-xs-1">
                 <div class="checkComplete">
-                  <div class="squaredFour">
                     <label><input type="checkbox" value="none" id="squaredFour0" name="check"></label>
-                  </div>
                 </div>
               </div>
               <div class="col-xs-11">
                 <p>
-                  I will contact the DePuy Synthes Institute Future Leaders team at futureleaders@its.jnj.com.
+                  I will contact the DePuy Synthes Institute Future Leaders team at <a href="mailto:futureleaders@its.jnj.com">futureleaders@its.jnj.com</a>.
                 </p>
               </div>
             </div>
