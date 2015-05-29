@@ -567,8 +567,25 @@ p.calendar_date {
   margin-right: 0;
 
 }
-.resident-tab, .admin-tab {
+
+.col-xs-6.col-sm-6.col-md-2.resident-tab.inactive {
+  padding: 0;
+}
+
+.resident-tab a,
+.admin-tab a,
+.admin-tab.active p,
+.resident-tab.active p {
+  width: 100%;
+  display: block;
+  height: 100%;
   padding: 12px 0px;
+}
+
+.resident-tab a:hover, .admin-tab a:hover {
+  background-color: #e4e4e2;
+  text-decoration: none;
+  border-bottom: 4px solid #003b5f;
 }
 
 .tabs-section .active {
