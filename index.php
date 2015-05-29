@@ -67,7 +67,7 @@
           <a href='views/my-assignments/invitation-sent.php'><h2></h2>Invitation Sent</a>
           <h2>Menus</h2>
           <a href='views/menus/surgeon-menu.php'><h2></h2>Surgeon Education Logged Out</a>
-          <a href='views/menus/nurse-menu.php'><h2></h2>Nurse Education Logged Out</a>
+          <a href='views/menus/nurse-menu-signed-out.php'><h2></h2>Nurse Education Logged Out</a>
           <a href='views/menus/vet-menu-signed-out.php'><h2></h2>Veterinary Education Logged Out</a>
           <a href='views/menus/resident-menu.php'><h2></h2>Resident Education Logged Out</a>
           <h2>Registration Modals</h2>

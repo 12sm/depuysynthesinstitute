@@ -919,6 +919,7 @@
                       <div class="col-xs-5 col-sm-4 col-md-2 col-lg-2 pull-left list-thumb">
                         <a href="/views/my-assignments/single.php" class="center-align-play-button">
                           <img src="/img/myassignments/assignments-thumbnail.png" class="list-item-thumbnail">
+                          <img src="/img/play-button.png" class="play-button-image" />
                         </a>
                       </div>
                       <div class="col-xs-7 col-sm-8 col-md-10 col-lg-10">

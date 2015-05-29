@@ -552,6 +552,15 @@ p.calendar_date {
   max-width:25px;
 }
 
+.single-date .col-xs-4.col-sm-4.col-md-2.col-lg-2 {
+  max-width: 54px;
+}
+
+.single-date p.tiny-grey {
+  display: block;
+  width: 100px;
+}
+
 
 /* --- Chief Resident --- */
 
@@ -809,9 +818,14 @@ img.play-button-image {
   position: absolute;
   padding: 0;
   margin: 0;
-  top: 35%;
+  top: 27%;
   left: 35%;
-  width: 20px;
+  width: 25px;
+  opacity: .7;
+}
+
+img.play-button-image:hover {
+  opacity: 1;
 }
 
 .center-align-play-button {
