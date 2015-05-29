@@ -13,7 +13,7 @@
       </button>
       <ul class="dropdown-menu mobile-nav" id="accordion5">
         <li class="active"><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
-
+        <li class="mobile-nav-break"></li>
         <li>
           <a href="#acc-menu5" class="coll-butt nav_knowledge-center" data-parent="#accordion5" data-toggle="collapse">
             Knowledge Center
@@ -36,6 +36,7 @@
         <li class=""><a href="/redemption-center" class="">Redemption Center<span class="pull-right glyphicon icon-redemption-center"></span></a></li>
         <li class=""><a href="/graduation-resources" class="">Graduation Resources<span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
         <li class=""><a href="/external-resources" class="">External Resources<span class="pull-right glyphicon icon-external-resources"></span></a></li>
+        <li class="mobile-nav-break"></li>
         <li class=""><a href="/calendar" class="">Course Calendar<span class="pull-right glyphicon icon-cal"></span></a></li>
         <li class=""><a href="/faq" class="">FAQs<span class="pull-right glyphicon icon-faq"></span></a></li>
         <li class=""><a href="/contact" class="">Contact Us<span class="pull-right glyphicon icon-earphone"></span></a></li>
