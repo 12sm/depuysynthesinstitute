@@ -832,10 +832,10 @@
                 </div>
                 <div class="row">
                   <div class="col-xs-5 col-sm-3 col-lg-2">
-                    <input type="radio" name="sequenced" checked value="yes">Yes
+                    <input id="yesSeq" type="radio" name="sequenced" checked value="yes">Yes
                   </div>
                   <div class="col-xs-5 col-sm-3 col-lg-2">
-                    <input type="radio" name="sequenced" value="no">No
+                    <input id="noSeq" type="radio" name="sequenced" value="no">No
                   </div>
                 </div>
 
@@ -867,7 +867,7 @@
 
                 <div class="row single-class">
                   <div class="sequence-width col-xs-2 col-md-1">
-                    <input type="number" min="1" max="99" value="1">
+                    <input class="seqNumber" type="number" min="1" max="99" value="1">
                   </div>
                   <div class="col-xs-9 col-md-10">
                     <div class="row">
@@ -919,7 +919,7 @@
                 </div>
                 <div class="row single-class">
                   <div class="sequence-width col-xs-2 col-md-1">
-                    <input type="number" min="1" max="99" value="2">
+                    <input class="seqNumber" type="number" min="1" max="99" value="2">
                   </div>
                   <div class="col-xs-9 col-md-10">
                     <div class="row">

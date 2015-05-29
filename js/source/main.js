@@ -356,6 +356,14 @@ function initDSI(role) {
   setupVideoPlayers();
   initSearchAutoSuggest();
 
+  //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
+  $("#yesSeq").click(function(){
+    $(".new-assignment-form").find(".seqNumber").removeClass("hidden");
+  });
+  $("#noSeq").click(function(){
+    $(".new-assignment-form").find(".seqNumber").addClass("hidden");
+  });
+
   //----  INVITE SENT TOGGLE  ----//
   $(".inviteAgain").click(toggleInvite);
 
