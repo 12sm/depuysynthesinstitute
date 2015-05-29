@@ -754,15 +754,13 @@ img.placeholder-image {
   background-clip: content-box;
 }
 
-.grey-bg hr:first-child {
-  margin-top: 2px;
+.grey-bg hr {
+  margin-top: 0px;
+  margin-bottom: 10px;
+  padding-top: 0px;
 }
 
-.grey-bg-top {
-  margin-top: 10px;
-}
-
-.single-class.grey-bg .course_interaction {
+.single-class .course_interaction {
   margin-bottom: 10px;
 }
 
@@ -772,6 +770,10 @@ img.placeholder-image {
 
 .grey-bg-content h5 {
   color: #4d4f53;
+}
+
+.grey-bg .indent {
+  padding-left: 0;
 }
 
 .grey-bg img.list-item-thumbnail {
