@@ -358,10 +358,10 @@ function initDSI(role) {
 
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
-    $(".new-assignment-form").find(".seqNumber").removeClass("hidden");
+    $(".new-assignment-form").find(".seqNumber").removeClass("displayNoneSon");
   });
   $("#noSeq").click(function(){
-    $(".new-assignment-form").find(".seqNumber").addClass("hidden");
+    $(".new-assignment-form").find(".seqNumber").addClass("displayNoneSon");
   });
 
   //----  INVITE SENT TOGGLE  ----//

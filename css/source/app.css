@@ -2,6 +2,10 @@
    12SM Helper Classes
    =========================== */
 
+.displayNoneSon{
+  display: none;
+}
+
 .left {
   text-align:left!important;
 }
@@ -962,7 +966,6 @@ img.play-button-image:hover {
 }
 
 .invited-resident p {
-  color: #B8B9BA;
   font-style: italic;
 }
 
@@ -1034,7 +1037,6 @@ a.inviteAgain.btn.btn-info.pull-right {
 }
 
 .director-new-assignment .panel-body p {
-  color: #B8B9BA;
   padding: 4px 0px;
 }
 

@@ -51,7 +51,7 @@
                           </div>
                           <div class="col-xs-1">
                             <a href="#mat1" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
+                              <span class="iconFlipOne pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -117,7 +117,7 @@
                           </div>
                           <div class="col-xs-1">
                             <a href="#mat2" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
+                              <span class="iconFlipOne pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -237,7 +237,7 @@
                           </div>
                           <div class="col-xs-1">
                             <a href="#mat4" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
+                              <span class="iconFlipOne pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -301,7 +301,7 @@
                           </div>
                           <div class="col-xs-1">
                             <a href="#mat5" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
+                              <span class="iconFlipOne pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -367,7 +367,7 @@
                           </div>
                           <div class="col-xs-1">
                             <a href="#mat6" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
+                              <span class="iconFlipOne pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -432,7 +432,7 @@
                           </div>
                           <div class="col-xs-1">
                             <a href="#mat7" class="coll-butt nav_knowledge-center" data-parent="#materials" data-toggle="collapse">
-                              <span class="pull-right glyphicon icon-caret-down"></span>
+                              <span class="iconFlipOne pull-right glyphicon icon-caret-down"></span>
                             </a>
                           </div>
                         </div>
@@ -535,7 +535,7 @@
                         <input type="text" id="myDate" placeholder="mm/dd/yyyy">
                       </div>
                       <div class="col-xs-1 col-sm-1 col-md-1">
-                        <span class="pull-right glyphicon icon-cal"></span>
+                        <a href="#"><span class="pull-right glyphicon icon-cal"></span></a>
                       </div>
                     </div>
                     <div class="row">
@@ -559,10 +559,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingOne">
                           <h4 class="panel-title">
-                            <input type="checkbox" checked value="complete">
+                            <input class="allChecked" type="checkbox" checked value="complete">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                               PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -606,10 +606,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingTwo">
                           <h4 class="panel-title">
-                            <input type="checkbox" value="complete">
+                            <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                               PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -651,10 +651,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingThree">
                           <h4 class="panel-title">
-                            <input type="checkbox" value="complete">
+                            <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                               PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -696,10 +696,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingFour">
                           <h4 class="panel-title">
-                            <input type="checkbox" value="complete">
+                            <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                               PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -741,10 +741,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingFive">
                           <h4 class="panel-title">
-                            <input type="checkbox" value="complete">
+                            <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                               PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -756,10 +756,10 @@
                       <div class="panel panel-default">
                         <div class="panel-heading" role="tab" id="headingSix">
                           <h4 class="panel-title">
-                            <input type="checkbox" value="complete">
+                            <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                               Unknown <span class="tiny-grey">(6)</span>
-                              <span class="pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -866,8 +866,8 @@
                 </div>
 
                 <div class="row single-class">
-                  <div class="sequence-width col-xs-2 col-md-1">
-                    <input class="seqNumber" type="number" min="1" max="99" value="1">
+                  <div class="seqNumber sequence-width col-xs-2 col-md-1">
+                    <input class="" type="number" min="1" max="99" value="1">
                   </div>
                   <div class="col-xs-9 col-md-10">
                     <div class="row">
@@ -918,8 +918,8 @@
                   </div>
                 </div>
                 <div class="row single-class">
-                  <div class="sequence-width col-xs-2 col-md-1">
-                    <input class="seqNumber" type="number" min="1" max="99" value="2">
+                  <div class="seqNumber sequence-width col-xs-2 col-md-1">
+                    <input class="" type="number" min="1" max="99" value="2">
                   </div>
                   <div class="col-xs-9 col-md-10">
                     <div class="row">
