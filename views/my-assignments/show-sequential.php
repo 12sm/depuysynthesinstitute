@@ -74,7 +74,7 @@
 
               <div id="these-are-not-checked">
 
-                <div class="row single-class">
+                <div id="sc1" class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row indent">
@@ -90,7 +90,7 @@
                               <div class="col-xs-12">
                                 <div class="checkComplete">
                                   <div class="squaredFour">
-                                    <label><input class="forget" type="checkbox" value="none" id="squaredFour11" name="check"></label>
+                                    <label><input class="forget" type="checkbox" value="none" id="squaredFour1" name="check"></label>
                                   </div>
                                 </div>
                               </div>
@@ -155,7 +155,7 @@
                   </div>
                 </div>
 
-                <div class="row single-class">
+                <div id="sc2" class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row indent">
@@ -234,7 +234,7 @@
                   </div>
                 </div>
 
-                <div class="row single-class">
+                <div id="sc3" class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row indent">
@@ -314,7 +314,7 @@
                   </div>
                 </div>
 
-                <div class="row single-class">
+                <div id="sc4" class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row indent">
@@ -394,7 +394,7 @@
                   </div>
                 </div>
 
-                <div class="row single-class single-date">
+                <div id="sc5" class="row single-class single-date">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row indent">
@@ -471,7 +471,7 @@
                   </div>
                 </div>
 
-                <div class="row single-class">
+                <div id="sc6" class="row single-class">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row indent">
@@ -554,7 +554,7 @@
 
               <div id="these-are-so-checked" class="grey-bg-top">
 
-                <div class="row single-class grey-bg">
+                <div id="sc7" class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row">
@@ -636,7 +636,7 @@
                   </div>
                 </div>
 
-                <div class="row single-class grey-bg">
+                <div id="sc8" class="row single-class grey-bg">
                   <div class="col-xs-12 no-padding">
                     <hr>
                     <div class="indention row">
