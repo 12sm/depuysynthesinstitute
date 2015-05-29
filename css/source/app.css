@@ -46,6 +46,10 @@
   padding: 0px 10px;
 }
 
+.btn-info-sm {
+  height: 30px!important;
+}
+
 .btn-info a {
   color:#FFF;
   font-weight:bold;
@@ -874,6 +878,7 @@ img.play-button-image {
   color: #949696;
   display: table-cell;
   vertical-align: middle;
+  padding-left: 100px;
 }
 
 .panel-body {
@@ -1014,7 +1019,6 @@ a.inviteAgain.btn.btn-info.pull-right {
 .how-many-residents button.btn.btn-info {
   white-space: normal;
   height: auto;
-  padding: 10px;
 }
 
 .cancel-save {
@@ -1076,6 +1080,14 @@ a.delete-link {
 
 .list-thumb {
   max-width: 100px;
+}
+
+.cancel {
+  padding-top:10px;
+}
+
+.edit-assignment-btn {
+  max-width:141px;
 }
 
 

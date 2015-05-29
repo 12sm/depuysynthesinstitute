@@ -524,8 +524,7 @@
                     </div>
                     <div class="row">
                       <div class="col-xs-12">
-                        <textarea>
-                        </textarea>
+                        <textarea></textarea>
                       </div>
                     </div>
                   </div>
@@ -958,7 +957,7 @@
                     <input type="text" placeholder="Search Resources">
                   </div>
                   <div class="col-xs-3 col-sm-2 col-lg-1">
-                    <button type="button" class="btn btn-info pull-right" data-toggle="modal" data-target=".bs-example-modal-lg">Search</button>
+                    <button type="button" class="btn btn-info pull-right btn-info-sm" data-toggle="modal" data-target=".bs-example-modal-lg">Search</button>
                   </div>
                 </div>
                 <div class="row">
@@ -972,8 +971,8 @@
                   </div>
                   <div class="col-xs-1 col-sm-5 col-md-5 col-lg-8">
                   </div>
-                  <div class="right col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                    <a href="#">Cancel</a>
+                  <div class="cancel right col-xs-3 col-sm-2 col-md-2 col-lg-1">
+                    <a href="#" class="cancel">Cancel</a>
                   </div>
                   <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
                     <button class="btn btn-info pull-right">Create</button>

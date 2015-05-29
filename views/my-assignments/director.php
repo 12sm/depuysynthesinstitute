@@ -27,7 +27,7 @@
                   </div>
                   <div class="row">
                     <div class="col-xs-12">
-                      <button class="btn btn-info">
+                      <button class="btn btn-info btn-info-sm">
                         <a href="/views/my-assignments/resident-management.php">Manage Residents</a>
                       </button>
                     </div>
@@ -54,7 +54,7 @@
                         <input type="text" placeholder="Assignment Name">
                       </div>
                       <div class="col-xs-4">
-                        <button class="btn btn-info">
+                        <button class="btn btn-info btn-info-sm">
                           <a href="/views/my-assignments/new-unordered-assignment.php">Next</a>
                         </button>
                       </div>
