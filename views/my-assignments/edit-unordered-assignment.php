@@ -891,16 +891,15 @@
                   </div>
                 </div>
                 <div class="row">
-                  <div class="col-xs-5 col-sm-3 col-md-3 col-lg-2">
-                    <button class="btn btn-black">Save For Later</button>
+                  <div class="col-xs-4 col-sm-3 col-md-3 col-lg-2">
                   </div>
-                  <div class="col-xs-1 col-sm-5 col-md-5 col-lg-8">
+                  <div class="col-xs-1 col-sm-3 col-md-5 col-lg-7">
                   </div>
                   <div class="cancel right col-xs-3 col-sm-2 col-md-2 col-lg-1">
                     <a href="#" class="cancel">Cancel</a>
                   </div>
-                  <div class="col-xs-3 col-sm-2 col-md-2 col-lg-1">
-                    <button class="btn btn-info pull-right">Create</button>
+                  <div class="col-xs-4 col-sm-4 col-md-2 col-lg-2 save-changes-btn">
+                    <button class="btn btn-info pull-right">Save Changes</button>
                   </div>
                 </div>
               </div>
