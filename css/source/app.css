@@ -489,7 +489,7 @@ span.assignment-heading {
 .percentage-complete {
   font-size: 12px;
   font-weight: bold;
-  text-align: center;
+  text-align: right;
   color: #1e1e1e;
   float:right;
   padding-right: 30px;
@@ -1378,9 +1378,19 @@ span.select2.select2-container.select2-container--default {
    margin-left: -5px!important;
   }
 
+  .col-xs-3.col-sm-2.col-md-2.col-lg-1.center, .col-xs-3.col-sm-2.col-md-1.col-lg-1.center {
+    float: right;
+    text-align: right!important;
+  }
+
 }
 
 @media only screen and (min-width:600px) {
+
+  .col-xs-3.col-sm-2.col-md-2.col-lg-1.center,
+  .col-xs-3.col-sm-2.col-md-1.col-lg-1.center {
+  float: right;
+}
 
   .tabs-section {
     margin-top:0px;
@@ -1517,6 +1527,10 @@ span.select2.select2-container.select2-container--default {
 
   .modal.bs-example-modal-lg .single-date .col-xs-4.col-sm-4.col-md-2.col-lg-3 {
   max-width: 66px;
+}
+
+.checkmark-completed, .percentage-complete {
+  padding-right: 30px;
 }
 
 }
