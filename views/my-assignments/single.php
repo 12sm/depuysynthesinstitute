@@ -30,7 +30,7 @@
               </div>
             <div class="row">
               <div class="col-sm-12">
-                <h2 class="no-margin-bottom">ORTHOCORD&reg; Suture and Arthroscopic Knot Tying CA#13038B/DJ12808A</h2>
+                <h2 class="no-margin-bottom title-heading">ORTHOCORD&reg; Suture and Arthroscopic Knot Tying CA#13038B/DJ12808A</h2>
                 <p class="resource-type-grey">eLearning</p>
                 <div class="course_interaction">
                   <div class="share-like-list dropdown btn-group">
@@ -39,11 +39,11 @@
                         </span>
                         <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                           <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                          <img src="img/fb.jpg" /> Facebook</a></li>
+                          <img src="/img/fb.jpg" /> Facebook</a></li>
                           <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                          <img src="img/tw.jpg" /> Twitter</a></li>
+                          <img src="/img/tw.jpg" /> Twitter</a></li>
                           <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                          <img src="img/mail.jpg" /> Email</a></li>
+                          <img src="/img/mail.jpg" /> Email</a></li>
                         </ul>
                         <span class="divider">&nbsp;</span>
                         <span class="video_likes unliked">
@@ -68,7 +68,7 @@
               <div class="row">
                 <div class="col-xs-6 col-md-3 single-content-box">
                     <div class="video_feature clearfix">
-                        <a href="#" class="play-icon"><img src="/img/play-button.png" /></a>
+                        <a href="#" class="play-icon"></a>
                         <div class="flag opaque"></div>
                         <div class="gradient"></div>
                         <img class="img-responsive" src="/img/eLearning-eModule.png">
@@ -76,7 +76,7 @@
                             <div class="text-max-height">
                                 <h4>Elbow</h4>
                                 <h3><a href="#">Case Insights: Distal Humerus Extra Articular</a></h3>
-                                <h5>Video, 2:24</h5>
+                                <h5>eLearning</h5>
                             </div>
                             <hr>
                             <div class="course_interaction">
@@ -86,11 +86,11 @@
                                 </span>
                                 <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                                   <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                                  <img src="img/fb.jpg" /> Facebook</a></li>
+                                  <img src="/img/fb.jpg" /> Facebook</a></li>
                                   <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                                  <img src="img/tw.jpg" /> Twitter</a></li>
+                                  <img src="/img/tw.jpg" /> Twitter</a></li>
                                   <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                                  <img src="img/mail.jpg" /> Email</a></li>
+                                  <img src="/img/mail.jpg" /> Email</a></li>
                                 </ul>
                                 <span class="divider">&nbsp;</span>
                                 <span class="video_likes unliked">
@@ -103,7 +103,7 @@
                 </div>
                             <div class="col-xs-6 col-md-3 single-content-box">
                                 <div class="video_feature clearfix">
-                    <a href="#" class="play-icon"><img src="/img/play-button.png" /></a>
+                    <a href="#" class="play-icon"></a>
                                     <div class="flag opaque"></div>
                                     <div class="gradient"></div>
                                     <img class="img-responsive" src="/img/eLearning-eModule.png">
@@ -113,7 +113,7 @@
                         <h3>
                                                 <a href="#">Clavicle: Segmental Pediatric</a>
                                             </h3>
-                        <h5>Video, 5:08</h5>
+                        <h5>eLearning</h5>
                       </div>
                       <hr>
                       <div class="course_interaction">
@@ -123,11 +123,11 @@
                         </span>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/fb.jpg" /> Facebook</a></li>
+                        <img src="/img/fb.jpg" /> Facebook</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/tw.jpg" /> Twitter</a></li>
+                        <img src="/img/tw.jpg" /> Twitter</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/mail.jpg" /> Email</a></li>
+                        <img src="/img/mail.jpg" /> Email</a></li>
                       </ul>
                         <span class="divider">&nbsp;</span>
                         <span class="video_likes unliked">
@@ -140,7 +140,7 @@
                             </div>
                             <div class="col-xs-6 col-md-3 single-content-box">
                                 <div class="video_feature clearfix">
-                    <a href="#" class="play-icon"><img src="/img/play-button.png" /></a>
+                    <a href="#" class="play-icon"></a>
                                     <div class="flag opaque"></div>
                                     <div class="gradient"></div>
                                     <img class="img-responsive" src="/img/eLearning-eModule.png">
@@ -148,7 +148,7 @@
                       <div class="text-max-height">
                         <h4>Hand & Wrist</h4>
                         <h3><a href="#">Extensile Approach to the Ulna</a></h3>
-                        <h5>Video, 10:18</h5>
+                        <h5>eLearning</h5>
                       </div>
                       <hr>
                       <div class="course_interaction">
@@ -158,11 +158,11 @@
                         </span>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/fb.jpg" /> Facebook</a></li>
+                        <img src="/img/fb.jpg" /> Facebook</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/tw.jpg" /> Twitter</a></li>
+                        <img src="/img/tw.jpg" /> Twitter</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/mail.jpg" /> Email</a></li>
+                        <img src="/img/mail.jpg" /> Email</a></li>
                       </ul>
                         <span class="divider">&nbsp;</span>
                         <span class="video_likes unliked">
@@ -175,7 +175,8 @@
                             </div>
                             <div class="col-xs-6 col-md-3 single-content-box">
                                 <div class="video_feature clearfix">
-                    <a href="#" class="play-icon"><img src="/img/play-button.png" /></a>
+                    <a href="#" class="play-icon">
+                      </a>
                                     <div class="flag"></div>
                                     <div class="gradient"></div>
                                     <img class="img-responsive" src="/img/eLearning-eModule.png">
@@ -183,7 +184,7 @@
                       <div class="text-max-height">
                         <h4>Elbow</h4>
                         <h3><a href="#">Case Insights: Proximal Ulna Monteggia Fracture</a></h3>
-                        <h5>Video, 20:18</h5>
+                        <h5>eLearning</h5>
                       </div>
                       <hr>
                       <div class="course_interaction">
@@ -193,11 +194,11 @@
                         </span>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/fb.jpg" /> Facebook</a></li>
+                        <img src="/img/fb.jpg" /> Facebook</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/tw.jpg" /> Twitter</a></li>
+                        <img src="/img/tw.jpg" /> Twitter</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/mail.jpg" /> Email</a></li>
+                        <img src="/img/mail.jpg" /> Email</a></li>
                       </ul>
                         <span class="divider">&nbsp;</span>
                         <span class="video_likes unliked">
@@ -239,11 +240,11 @@
                         </span>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/fb.jpg" /> Facebook</a></li>
+                        <img src="/img/fb.jpg" /> Facebook</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/tw.jpg" /> Twitter</a></li>
+                        <img src="/img/tw.jpg" /> Twitter</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/mail.jpg" /> Email</a></li>
+                        <img src="/img/mail.jpg" /> Email</a></li>
                       </ul>
                         <span class="divider">&nbsp;</span>
                         <span class="video_likes unliked">
@@ -276,11 +277,11 @@
                         </span>
                       <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/fb.jpg" /> Facebook</a></li>
+                        <img src="/img/fb.jpg" /> Facebook</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/tw.jpg" /> Twitter</a></li>
+                        <img src="/img/tw.jpg" /> Twitter</a></li>
                         <li role="presentation"><a role="menuitem" tabindex="-1" href="#">
-                        <img src="img/mail.jpg" /> Email</a></li>
+                        <img src="/img/mail.jpg" /> Email</a></li>
                       </ul>
                         <span class="divider">&nbsp;</span>
                         <span class="video_likes unliked">

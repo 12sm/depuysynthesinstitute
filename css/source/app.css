@@ -295,11 +295,11 @@ ul#acc-menu6 li a:hover {
   border-top: 1px solid rgba(255,2555,255,.5)!important;
 }
 
-ul.list-unstyled.nav_list li:first-child {
+/*ul.list-unstyled.nav_list li:first-child {
   -webkit-box-shadow: none!important;
   -moz-box-shadow: none!important;
   box-shadow: none!important;
-}
+}*/
 
 li.nav-home, li.nav-calendar {
   list-style: none;
@@ -460,6 +460,16 @@ li.sub-nav a {
 }
 
 
+ul.-menu.list-unstyled.nav_list.nurse-out li.nav-home,
+ul.-menu.list-unstyled.nav_list.nurse-out li.nav-resource {
+  margin-bottom: 10px;
+  margin-top: 0!important;
+  webkit-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+  box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1)!important;
+}
+
+
 
 /* ===========================
    MY ASSIGNMENTS
@@ -559,6 +569,10 @@ p.calendar_date {
 .single-date p.tiny-grey {
   display: block;
   width: 100px;
+}
+
+.hero.resource-detail-banner {
+  padding-top: 15px;
 }
 
 
@@ -1383,6 +1397,8 @@ span.select2.select2-container.select2-container--default {
     text-align: right!important;
   }
 
+  h2.no-margin-bottom.title-heading {padding-right:50px;}
+
 }
 
 @media only screen and (min-width:600px) {
@@ -1443,6 +1459,12 @@ span.select2.select2-container.select2-container--default {
   .center h5 span.assignment-heading {
     float: right;
     clear: both;
+  }
+
+  h2.no-margin-bottom.title-heading {padding-right:50px;}
+
+  .hero.resource-detail-banner {
+  padding-top: 20px;
   }
 
 }
@@ -1527,11 +1549,15 @@ span.select2.select2-container.select2-container--default {
 
   .modal.bs-example-modal-lg .single-date .col-xs-4.col-sm-4.col-md-2.col-lg-3 {
   max-width: 66px;
-}
+  }
 
-.checkmark-completed, .percentage-complete {
-  padding-right: 30px;
-}
+  .checkmark-completed, .percentage-complete {
+    padding-right: 30px;
+  }
+
+  .hero.resource-detail-banner {
+    padding-top: 30px;
+  }
 
 }
 
