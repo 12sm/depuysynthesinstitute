@@ -499,7 +499,7 @@
                             <input class="allChecked" type="checkbox" checked value="complete">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                               PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll pull-right glyphicon icon-caret-up pull-right"></span>
                             </a>
                           </h4>
                         </div>

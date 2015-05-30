@@ -356,6 +356,9 @@ function initDSI(role) {
   setupVideoPlayers();
   initSearchAutoSuggest();
 
+  //----  CHEVRON FLIPS  ----//
+  $(".panel-title a").click(flipChevron);
+
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
     $(".new-assignment-form").find(".seqNumber").removeClass("displayNoneSon");
@@ -434,6 +437,24 @@ function initDSI(role) {
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
   $(".forget").click(uncheckIt);
+}
+
+function flipChevron(){
+  console.log("This Hittin?");
+  var spans = $("div.panel-group").find("span.iconFlipAll");
+  for(var i = 0; i < spans.length; i++){
+    .removeClass(".icon-caret-up");
+  }
+  $("div.panel-group").find("span.iconFlipAll").addClass(".icon-caret-down");
+  var group = $(".panel-group").find(".panel-default");
+  console.log(group);
+  for(var i = 0; i < group.length; i++){
+    var panel = group[i];
+    if($.contains(panel, "a.collapsed")){
+      $(panel).find(".iconFlipAll").removeClass(".icon-caret-down");
+      $(panel).find(".iconFlipAll").addClass(".icon-caret-up");
+    }
+  }
 }
 
 function toggleInvite(){
