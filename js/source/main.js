@@ -357,7 +357,9 @@ function initDSI(role) {
   initSearchAutoSuggest();
 
   //----  CHEVRON FLIPS  ----//
-  $(".panel-title a").click(flipChevron);
+  $(".panel-title a").click(function(){
+    setTimeout(flipChevron, 3000);
+  });
 
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
@@ -441,18 +443,16 @@ function initDSI(role) {
 
 function flipChevron(){
   console.log("This Hittin?");
-  var spans = $("div.panel-group").find("span.iconFlipAll");
+  var spans = $("div.panel-group").find("a");
+  console.log(spans);
   for(var i = 0; i < spans.length; i++){
-    .removeClass(".icon-caret-up");
-  }
-  $("div.panel-group").find("span.iconFlipAll").addClass(".icon-caret-down");
-  var group = $(".panel-group").find(".panel-default");
-  console.log(group);
-  for(var i = 0; i < group.length; i++){
-    var panel = group[i];
-    if($.contains(panel, "a.collapsed")){
-      $(panel).find(".iconFlipAll").removeClass(".icon-caret-down");
-      $(panel).find(".iconFlipAll").addClass(".icon-caret-up");
+    console.log("This Hittin?");
+    var panel = $(spans[i]).closest(".panel-default")[0];
+    console.log(panel);
+    if(!$(spans[i]).hasClass("collapsed")){
+      console.log("condition caught");
+      $(panel).find("span.iconFlipAll").removeClass("icon-caret-down");
+      $(panel).find("span.iconFlipAll").addClass("icon-caret-up");
     }
   }
 }

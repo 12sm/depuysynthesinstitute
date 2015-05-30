@@ -499,7 +499,7 @@
                             <input class="allChecked" type="checkbox" checked value="complete">
                             <a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                               PGY 1 <span class="tiny-grey">(5)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-up pull-right"></span>
+                              <span class="iconFlipAll glyphicon icon-caret-up pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -546,7 +546,7 @@
                             <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                               PGY 2 <span class="tiny-grey">(5)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -591,7 +591,7 @@
                             <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
                               PGY 3 <span class="tiny-grey">(5)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -636,7 +636,7 @@
                             <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
                               PGY 4 <span class="tiny-grey">(5)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -681,7 +681,7 @@
                             <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                               PGY 5 <span class="tiny-grey">(0)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
@@ -696,7 +696,7 @@
                             <input class="allChecked" type="checkbox" value="complete">
                             <a class="collapsed" data-toggle="collapse" data-parent="#accordion" href="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
                               Unknown <span class="tiny-grey">(6)</span>
-                              <span class="iconFlipAll pull-right glyphicon icon-caret-down pull-right"></span>
+                              <span class="iconFlipAll glyphicon icon-caret-down pull-right"></span>
                             </a>
                           </h4>
                         </div>
