@@ -54,6 +54,11 @@
   height: 30px!important;
 }
 
+.how-many-residents button.btn.btn-info.btn-info-sm {
+  min-height: 30px!important;
+  height: auto!important;
+}
+
 .btn-info a {
   color:#FFF;
   font-weight:bold;
@@ -68,6 +73,11 @@
 .table-class {
   display:table;
   height:100%;
+}
+
+.save-changes-btn {
+  max-width: 150px;
+  float: right;
 }
 
 .table-cell {
@@ -603,7 +613,8 @@ p.calendar_date {
 
 }
 
-.col-xs-6.col-sm-6.col-md-2.resident-tab.inactive {
+.col-xs-6.col-sm-6.col-md-2.resident-tab.inactive,
+.col-xs-6.col-sm-6.col-md-2.admin-tab.inactive {
   padding: 0;
 }
 
@@ -708,7 +719,7 @@ p.calendar_date {
 
 h6.completed {
   color: #4d4f53;
-  margin-bottom: 0;
+  margin-bottom: 10px;
 }
 
 .single-class {
@@ -752,6 +763,12 @@ img.placeholder-image {
   top: -11px;
   right:10px;
 }
+
+.assignments .single-class .col-xs-2.col-md-1 {
+  max-width: 10px;
+}
+
+#these-are-not-checked hr {margin-top:0px;}
 
 .grey-bg {
   background-color: #D8D8D6;
@@ -877,6 +894,17 @@ img.play-button-image:hover {
 
 .tabs-section .pho-show {
   padding: 0;
+}
+
+p.resource-type-grey {
+  font-size:12px;
+}
+
+.box-text-content h5 {
+  color: #4d4f53;
+  font-size: 12px!important;
+  font-weight: 100;
+  margin: 3px 0 0;
 }
 
 
@@ -1419,6 +1447,13 @@ span.select2-search.select2-search--dropdown {
 
   h2.no-margin-bottom.title-heading {padding-right:50px;}
 
+  .box-text-content h5 {
+  color: #4d4f53;
+  font-size: 12px!important;
+  font-weight: 100;
+  margin: 3px 0 0;
+}
+
 }
 
 @media only screen and (min-width:600px) {
@@ -1443,6 +1478,17 @@ span.select2-search.select2-search--dropdown {
   .btn-info, .btn-black {
    height: 38px;
   }
+
+  p.resource-type-grey {
+    font-size:16px;
+  }
+
+  .box-text-content h5 {
+  color: #4d4f53;
+  font-size: 12px!important;
+  font-weight: 100;
+  margin: 3px 0 0;
+}
 
 }
 
@@ -1486,6 +1532,13 @@ span.select2-search.select2-search--dropdown {
   .hero.resource-detail-banner {
   padding-top: 20px;
   }
+
+  .box-text-content h5 {
+  color: #4d4f53;
+  font-size: 12px!important;
+  font-weight: 100;
+  margin: 3px 0 0;
+}
 
 }
 
@@ -1579,6 +1632,13 @@ span.select2-search.select2-search--dropdown {
     padding-top: 30px;
   }
 
+  .box-text-content h5 {
+  color: #4d4f53;
+  font-size: 12px!important;
+  font-weight: 100;
+  margin: 3px 0 0;
+}
+
 }
 
 @media only screen and (min-width: 1280px) {
@@ -1594,5 +1654,12 @@ span.select2-search.select2-search--dropdown {
   .how-many-residents button.btn.btn-info {
     padding: 3px 10px;
   }
+
+  .box-text-content h5 {
+  color: #4d4f53;
+  font-size: 12px!important;
+  font-weight: 100;
+  margin: 3px 0 0;
+}
 
 }

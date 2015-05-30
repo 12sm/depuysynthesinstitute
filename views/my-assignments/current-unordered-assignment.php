@@ -178,7 +178,7 @@
             </div>
 
             <div class="modSpacer assignments">
-              <div class="row single-class">
+              <div class="row single-class no-padding">
                 <div class="col-xs-12">
                   <hr>
                   <div class="row">
@@ -234,7 +234,7 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -290,7 +290,7 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -346,7 +346,7 @@
 
 
               <div class="row single-class single-date">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
@@ -395,7 +395,7 @@
 
 
               <div class="row single-class">
-                <div class="col-xs-12">
+                <div class="col-xs-12 no-padding">
                   <hr>
                   <div class="row">
                     <div class="col-xs-10 col-sm-10 col-md-10 col-lg-10">
