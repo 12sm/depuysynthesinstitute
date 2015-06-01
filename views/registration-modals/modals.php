@@ -584,6 +584,19 @@
                 </p>
               </div>
             </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="unitedStates">United States</option>
+                    <option id="canada">Canada</option>
+                  </select>
+                </div>
+              </div>
+            </div>
             <div class="row">
               <div class="col-xs-12 col-sm-6">
                 <label>
@@ -805,6 +818,19 @@
                 <p>
                   Optional text area. Might say something like this about why DePuy Synthes needs this information.
                 </p>
+              </div>
+            </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="unitedStates">United States</option>
+                    <option id="canada">Canada</option>
+                  </select>
+                </div>
               </div>
             </div>
             <div class="row">
@@ -1055,6 +1081,19 @@
                 <p>
                   Optional text area. Might say something like this about why DePuy Synthes needs this information.
                 </p>
+              </div>
+            </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="unitedStates">United States</option>
+                    <option id="canada">Canada</option>
+                  </select>
+                </div>
               </div>
             </div>
             <div class="row">
@@ -1350,6 +1389,674 @@
         </div>
       </div>
     </div>
+
+    <!-- If Canada Alert Modal -->
+    <div class="modal fade if-canada-alert" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">
+              <span aria-hidden="true">×</span>
+              <span class="sr-only">Close</span>
+            </button>
+            <div class="row">
+              <div class="col-xs-12 modal-header-left">
+                <h2 class="modal-title">Notice</h2>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-sm-12">
+                <p>This website is an HCP educational website, not a promotional website and is published by the DePuy Synthes Institute, LLC which is solely responsible for its content. It is intended for Health Care Professionals (HCP) in the United States.  Third party trademarks used herein are trademarks of their respective owners. Any medical devices mentioned or illustrated may not have received approval (or the approval may vary) based on your jurisdiction of residence. The programs offered on this site are compliant with AdvaMed Code of Ethics on Interactions with HCPs, as well as other laws that govern interactions with healthcare professionals in the United States. According to AdvaMed’s guidelines, manufacturers may occasionally provide HCP’s with education or patient-care related items, including medical textbooks and anatomical models.  Specific hospital/entity policies may include restrictions on receiving gifts. HCP’s are responsible for complying with any specific hospital/entity requirements as well as their respective regulatory requirements -- which may affect participation in programs offered.
+                </p>
+              </div>
+            </div>
+            <div class="modal-footer">
+              <button type="submit" class="pull-right btn button-lg button-modal">I Understand<span class="glyphicon icon-caret-right"></span></button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Registration Required 3.1.Canada Residents -->
+    <div class="modal fade reg-req-three-one-canada if-resident" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="canada">Canada</option>
+                    <option id="unitedStates">United States</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-5">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-3">
+                <label>
+                  PROVINCE
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelectionProvince">
+                    <option></option>
+                    <option>ON</option>
+                    <option>QC</option>
+                    <option>NS</option>
+                    <option>NB</option>
+                    <option>MB</option>
+                    <option>BC</option>
+                    <option>PE</option>
+                    <option>SK</option>
+                    <option>AB</option>
+                    <option>NL</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-4">
+                <label>
+                  POSTAL CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6 year-residency">
+                <label>
+                  YEAR IN RESIDENCY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection">
+                    <option>PGY</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-6 graduation-date">
+                <label>
+                  GRADUATION DATE
+                </label>
+                <br>
+                <input type="text" placeholder="MM">
+                <input type="text" placeholder="YYYY">
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Registration Required 3.2.Canada Chief -->
+    <div class="modal fade reg-req-three-two-canada if-reschiefident" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="canada">Canada</option>
+                    <option id="unitedStates">United States</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-5">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-3">
+                <label>
+                  PROVINCE
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelectionProvince">
+                    <option></option>
+                    <option>ON</option>
+                    <option>QC</option>
+                    <option>NS</option>
+                    <option>NB</option>
+                    <option>MB</option>
+                    <option>BC</option>
+                    <option>PE</option>
+                    <option>SK</option>
+                    <option>AB</option>
+                    <option>NL</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-4">
+                <label>
+                  POSTAL CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6 year-residency">
+                <label>
+                  YEAR IN RESIDENCY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection">
+                    <option>PGY</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-6 graduation-date">
+                <label>
+                  GRADUATION DATE
+                </label>
+                <br>
+                <input type="text" placeholder="MM">
+                <input type="text" placeholder="YYYY">
+              </div>
+            </div>
+            <div class="row">
+            <div class="col-xs-12">
+              <label class="dark">
+                MY ASSIGNMENTS
+              </label>
+            </div>
+          </div>
+          <div class="row">
+            <div class="col-xs-12">
+              <p>
+                As a Chief Resident, you may assign content and curricula to residents in your program through the My Assignments section. <a href="#">Learn more.</a>
+              </p>
+              <p>
+                Would you like to participate?
+              </p>
+            </div>
+          </div>
+          <div class="row radio-yes-no">
+            <div class="col-xs-5 col-sm-3 col-lg-2">
+              <input id="yesAssign" type="radio" name="myAssign" value="yes">
+              Yes
+            </div>
+            <div class="col-xs-5 col-sm-3 col-lg-2">
+              <input id="noAssign" type="radio" name="myAssign" value="no">
+              No
+            </div>
+          </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Registration Required 3.3.Canada Fellow -->
+    <div class="modal fade reg-req-three-three-canada if-fellow" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="canada">Canada</option>
+                    <option id="unitedStates">United States</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-5">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-3">
+                <label>
+                  PROVINCE
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelectionProvince">
+                    <option></option>
+                    <option>ON</option>
+                    <option>QC</option>
+                    <option>NS</option>
+                    <option>NB</option>
+                    <option>MB</option>
+                    <option>BC</option>
+                    <option>PE</option>
+                    <option>SK</option>
+                    <option>AB</option>
+                    <option>NL</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-4">
+                <label>
+                  POSTAL CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
+                    <span class="styled_checkbox"></span>
+                    <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
+                  </label>
+                </div>
+                <div class="checkbox">
+                  <input type="hidden" name="allowCommFlgSet" value="1">
+                  <label>
+                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
+                    <span class="styled_checkbox"></span>
+                    <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
+                  </label>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6 graduation-date">
+                <label>
+                  GRADUATION DATE
+                </label>
+                <br>
+                <input type="text" placeholder="MM">
+                <input type="text" placeholder="YYYY">
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Registration Required 3.4.Canada Director -->
+    <div class="modal fade reg-req-three-four-canada if-director" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">
+                &times;
+              </span>
+            </button>
+            <div class="row">
+              <div class="col-xs-8">
+                <h4 class="modal-title">
+                  Registration Required
+                </h4>
+              </div>
+              <div class="col-xs-4">
+                <a href="#" class="pull-right">
+                  Sign In
+                </a>
+              </div>
+            </div>
+          </div>
+          <div class="modal-body">
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  Optional text area. Might say something like this about why DePuy Synthes needs this information.
+                </p>
+              </div>
+            </div>
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="canada">Canada</option>
+                    <option id="unitedStates">United States</option>
+                  </select>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label class="dark">
+                  ACADEMIC MEDICAL CENTER
+                </label>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  NAME
+                </label>
+                <input type="text" placeholder="Medical Center Name">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <label>
+                  STREET ADDRESS
+                </label>
+                <input type="text" placeholder="Medical Center Address">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-4 col-sm-5">
+                <label>
+                  CITY
+                </label>
+                <input type="text" placeholder="City">
+              </div>
+              <div class="col-xs-4 col-sm-3">
+                <label>
+                  PROVINCE
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelectionProvince">
+                    <option></option>
+                    <option>ON</option>
+                    <option>QC</option>
+                    <option>NS</option>
+                    <option>NB</option>
+                    <option>MB</option>
+                    <option>BC</option>
+                    <option>PE</option>
+                    <option>SK</option>
+                    <option>AB</option>
+                    <option>NL</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-4 col-sm-4">
+                <label>
+                  POSTAL CODE
+                </label>
+                <input type="text" placeholder="Zip Code">
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-xs-6 year-residency">
+                <label>
+                  YEAR IN RESIDENCY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection">
+                    <option>PGY</option>
+                    <option>1</option>
+                    <option>2</option>
+                    <option>3</option>
+                    <option>4</option>
+                    <option>5</option>
+                    <option>6</option>
+                    <option>7</option>
+                    <option>8</option>
+                    <option>9</option>
+                  </select>
+                </div>
+              </div>
+              <div class="col-xs-6 graduation-date">
+                <label>
+                  GRADUATION DATE
+                </label>
+                <br>
+                <input type="text" placeholder="MM">
+                <input type="text" placeholder="YYYY">
+              </div>
+            </div>
+          </div><!-- end modal body -->
+          <div class="modal-footer">
+            <button type="submit" class="pull-right btn button-lg button-modal">
+              Next <span class="glyphicon icon-caret-right"></span>
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+
 
     <!-- Registration Required 4.1 -->
     <div class="modal fade reg-req-four-one" tabindex="-1" role="dialog" aria-labelledby="mySmallModalLabel" aria-hidden="true">
@@ -1744,20 +2451,20 @@
             <div class="row">
               <div class="col-sm-12">
                 <p><strong>Canada</strong></p>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".if-canada-alert">
                   If Canada Alert
                 </button>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-one">
-                  Registration Required 3.1.C
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-one-canada">
+                  Registration Required 3.1 Canada
                 </button>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-two">
-                  Registration Required 3.2.C
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-two-canada">
+                  Registration Required 3.2 Canada
                 </button>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-three">
-                  Registration Required 3.3.C
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-three-canada">
+                  Registration Required 3.3 Canada
                 </button>
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four">
-                  Registration Required 3.4.C
+                <button type="button" class="btn btn-primary" data-toggle="modal" data-target=".reg-req-three-four-canada">
+                  Registration Required 3.4 Canada
                 </button>
               </div>
             </div>
