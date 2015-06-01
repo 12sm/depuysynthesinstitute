@@ -356,8 +356,10 @@ function initDSI(role) {
   setupVideoPlayers();
   initSearchAutoSuggest();
 
-  //----  CHEVRON FLIPS  ----//
+  //----  RESIDENT DROPDOWNS  ----//
   setInterval(flipChevron, 250);
+  setInterval(toggleCheckAll, 310);
+  $(".allChecked").click(checkAll);
 
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
@@ -433,6 +435,10 @@ function initDSI(role) {
     placeholder: "Select Profession",
     allowClear: true
   });
+  $(".modalSelectionProvince").select2({
+    placeholder: "Province",
+    allowClear: true
+  });
 
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
@@ -440,11 +446,8 @@ function initDSI(role) {
 }
 
 function flipChevron(){
-  console.log("This Hittin?");
   var spans = $("div.panel-group").find("a");
   for(var i = 0; i < spans.length; i++){
-    // var panel = $(spans[i]).closest(".panel-default")[0];
-    // console.log(panel);
     if($(spans[i]).hasClass("collapsed")){
       $(spans[i]).find("span.iconFlipAll").removeClass("icon-caret-up");
       $(spans[i]).find("span.iconFlipAll").addClass("icon-caret-down");
@@ -452,6 +455,20 @@ function flipChevron(){
       $(spans[i]).find("span.iconFlipAll").removeClass("icon-caret-down");
       $(spans[i]).find("span.iconFlipAll").addClass("icon-caret-up");
     }
+  }
+}
+
+function toggleCheckAll(){
+  var spans = $("div.panel-group").find("");
+}
+
+function checkAll(){
+  var panel = $(this).closest(".panel-default")[0];
+  var body  = $(panel).find(".panel-body")[0];
+  if($(this).attr("checked")){
+    $(body).find()
+  }else{
+
   }
 }
 

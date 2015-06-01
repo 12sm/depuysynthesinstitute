@@ -960,7 +960,8 @@ p.resource-type-grey {
   margin-bottom: 0;
 }
 
-.resident-panel-group span.glyphicon.icon-caret-down {
+.resident-panel-group span.glyphicon.icon-caret-down,
+.resident-panel-group span.glyphicon.icon-caret-up {
   font-size: 12px;
   color: #949696;
   display: table-cell;
