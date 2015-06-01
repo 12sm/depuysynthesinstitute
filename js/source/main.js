@@ -357,8 +357,8 @@ function initDSI(role) {
   initSearchAutoSuggest();
 
   //----  RESIDENT DROPDOWNS  ----//
-  setInterval(flipChevron, 250);
-  setInterval(toggleCheckAll, 310);
+  setInterval(flipChevron, 200);
+  setInterval(toggleCheckAll, 190);
   $(".allChecked").click(checkAll);
 
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
