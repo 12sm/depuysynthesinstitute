@@ -454,6 +454,10 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
   box-shadow: none!important;
 }
 
+ul#acc-menu6 li:first-child {
+  box-shadow: none!important;
+}
+
 .residents-menu li.active.nav-assignments,
 .director-menu li.active.nav-assignments,
 .chief-resident-menu li.active.nav-assignments {

@@ -17,7 +17,7 @@
           <span class="glyphicon icon-arrow-down pull-right blue"></span>
         </a>
         <ul id="acc-menu6">
-          <li><a href="#">General Principles And Fundamentals</a></li>
+          <li><a href="#">General Principles & Fundamentals</a></li>
           <li class="mobile-nav-break"></li>
           <li><a href="#">Orthopaedics</a></li>
           <li><a href="#">Neurological Surgery</a></li>
