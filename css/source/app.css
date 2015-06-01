@@ -461,7 +461,7 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
 .singles-menu li.nav-profile,
 .singles-menu li.nav-favorites,
 .singles-menu li.nav-assignments {
-  display: none;
+   
 }
 
 .singles-menu li.nav-home {
@@ -471,6 +471,7 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
   box-shadow: none!important;
   margin-top: 0;
 }
+
 
 li.active span.pull-right.glyphicon.icon-home {
   color: #FFF!important;
