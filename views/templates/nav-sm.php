@@ -3,9 +3,10 @@
     <ul class="-menu list-unstyled nav_list" id="accordion6">
 
       <li class="nav-profile"><a href="/profile" class="nav_profile">My Profile<span class="pull-right glyphicon icon-profile"></span></a></li>
+      <li class="mobile-nav-break"></li>
       <li class="nav-favorites"><a href="/favorites" class="nav_favorite">My Favorites<span class="pull-right glyphicon icon-favorites"></span></a></li>
       <li class="active nav-assignments"><a href="/assignments" class="nav_assignments">My Assignments<span class="pull-right glyphicon icon-assignments">4</span></a></li>
-
+      <li class="mobile-nav-break"></li>
       <li class="nav-home"><a href="/" class="nav_home">Home<span class="pull-right glyphicon icon-home"></span></a></li>
 
 
@@ -17,6 +18,7 @@
         </a>
         <ul id="acc-menu6">
           <li><a href="#">General Principles And Fundamentals</a></li>
+          <li class="mobile-nav-break"></li>
           <li><a href="#">Orthopaedics</a></li>
           <li><a href="#">Neurological Surgery</a></li>
           <li><a href="#">Otolaryngology</a></li>
