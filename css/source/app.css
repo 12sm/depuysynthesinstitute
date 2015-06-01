@@ -447,7 +447,8 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
 .residents-menu ul.list-unstyled.nav_list li:first-child,
 .director-menu ul.list-unstyled.nav_list li:first-child,
 .chief-resident-menu ul.list-unstyled.nav_list li:first-child,
-.manage-residents-menu ul.list-unstyled.nav_list li:first-child {
+.manage-residents-menu ul.list-unstyled.nav_list li:first-child,
+.know-menu ul.list-unstyled.nav_list li:first-child {
   -webkit-box-shadow: none!important;
   -moz-box-shadow: none!important;
   box-shadow: none!important;
