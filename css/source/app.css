@@ -1411,6 +1411,9 @@ span.select2-search.select2-search--dropdown {
   padding: 0;
 }
 
+.modal .row.country-dropdown {
+  margin-bottom: 10px;
+}
 
 
 

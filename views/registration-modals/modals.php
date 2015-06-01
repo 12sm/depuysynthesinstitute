@@ -1294,7 +1294,19 @@
                 </p>
               </div>
             </div>
-
+            <div class="row country-dropdown">
+              <div class="col-xs-12 col-sm-6">
+                <label>
+                  COUNTRY
+                </label>
+                <div class="dropdown">
+                  <select class="modalSelection" id="whatCountry">
+                    <option id="unitedStates">United States</option>
+                    <option id="canada">Canada</option>
+                  </select>
+                </div>
+              </div>
+            </div>
             <div class="row">
               <div class="col-xs-12">
                 <label class="dark">
@@ -2003,32 +2015,30 @@
               </div>
             </div>
             <div class="row">
-              <div class="col-xs-6 year-residency">
-                <label>
-                  YEAR IN RESIDENCY
+              <div class="col-xs-12">
+                <label class="dark">
+                  MY ASSIGNMENTS
                 </label>
-                <div class="dropdown">
-                  <select class="modalSelection">
-                    <option>PGY</option>
-                    <option>1</option>
-                    <option>2</option>
-                    <option>3</option>
-                    <option>4</option>
-                    <option>5</option>
-                    <option>6</option>
-                    <option>7</option>
-                    <option>8</option>
-                    <option>9</option>
-                  </select>
-                </div>
               </div>
-              <div class="col-xs-6 graduation-date">
-                <label>
-                  GRADUATION DATE
-                </label>
-                <br>
-                <input type="text" placeholder="MM">
-                <input type="text" placeholder="YYYY">
+            </div>
+            <div class="row">
+              <div class="col-xs-12">
+                <p>
+                  As a Residency Director/Coordinator, you may assign content and curricula to residents in your program through the My Assignments section. <a hef="#">Learn more.</a>
+                </p>
+                <p>
+                  Would you like to participate?
+                </p>
+              </div>
+            </div>
+            <div class="row radio-yes-no">
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="yesAssign" type="radio" name="myAssign" value="yes">
+                Yes
+              </div>
+              <div class="col-xs-5 col-sm-3 col-lg-2">
+                <input id="noAssign" type="radio" name="myAssign" value="no">
+                No
               </div>
             </div>
           </div><!-- end modal body -->
