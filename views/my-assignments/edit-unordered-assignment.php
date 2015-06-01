@@ -471,7 +471,7 @@
                     </div>
                     <div class="row">
                       <div class="col-xs-4 col-sm-3 col-md-4">
-                        <input type="text" id="myDate" placeholder="mm/dd/yyyy">
+                        <input type="text" id="myDate" value="mm/dd/yyyy">
                       </div>
                       <div class="col-xs-1 col-sm-1 col-md-1">
                         <span class="pull-right glyphicon icon-cal"></span>
