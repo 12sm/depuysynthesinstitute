@@ -4,7 +4,7 @@
   <body>
     <?php include '../templates/sign-in-out.php';?>
     <div class="main_wrapper container-fluid">
-      <div class="left_column hidden-xs col-sm-4 col-md-3">
+      <div class="left_column hidden-xs col-sm-4 col-md-3 manage-residents-menu">
         <?php include '../templates/logo-search-sm.php';?>
         <?php include '../templates/nav-sm.php';?>
       </div>

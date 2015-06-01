@@ -444,7 +444,10 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
   margin-top: 10px;
 }
 
-.residents-menu ul.list-unstyled.nav_list li:first-child {
+.residents-menu ul.list-unstyled.nav_list li:first-child,
+.director-menu ul.list-unstyled.nav_list li:first-child,
+.chief-resident-menu ul.list-unstyled.nav_list li:first-child,
+.manage-residents-menu ul.list-unstyled.nav_list li:first-child {
   -webkit-box-shadow: none!important;
   -moz-box-shadow: none!important;
   box-shadow: none!important;
@@ -458,12 +461,6 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
   -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1);
 }
 
-.singles-menu li.nav-profile,
-.singles-menu li.nav-favorites,
-.singles-menu li.nav-assignments {
-   
-}
-
 .singles-menu li.nav-home {
   list-style: none;
   -webkit-box-shadow: none!important;
@@ -471,7 +468,6 @@ ul.-menu.list-unstyled.nav_list.vet-out-menu li.nav-home {
   box-shadow: none!important;
   margin-top: 0;
 }
-
 
 li.active span.pull-right.glyphicon.icon-home {
   color: #FFF!important;
@@ -487,7 +483,6 @@ li.active span.pull-right.glyphicon.icon-home {
 li.sub-nav a {
   padding: 10px 20px 10px 10px!important;
 }
-
 
 ul.-menu.list-unstyled.nav_list.nurse-out li.nav-home,
 ul.-menu.list-unstyled.nav_list.nurse-out li.nav-resource {
