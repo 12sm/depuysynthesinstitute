@@ -246,7 +246,7 @@
               </div>
               <div class="row">
                 <div class="col-xs-9">
-                  <input type="text" placeholder="First Name">
+                  <input type="text" placeholder="Resident Name">
                 </div>
                 <div class="col-xs-3">
                   <button type="button" class="btn btn-info pull-left find-btn" data-toggle="modal" data-target=".invite-resident-modal">Find</button>
