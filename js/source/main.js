@@ -357,6 +357,9 @@ function initDSI(role) {
   initSearchAutoSuggest();
 
   //----  RESIDENT DROPDOWNS  ----//
+  $("div.modal-body a.coll-butt").click(dropChevron)
+  $(".flipIconOne").removeClass("icon-caret-up");
+  $(this).find("span").addClass("icon-caret-down");
   setInterval(flipChevron, 200);
   setInterval(toggleCheckAll, 190);
   $(".allChecked").click(checkAll);
@@ -448,6 +451,18 @@ function initDSI(role) {
   //----  ASSIGNMENT COMPLETION INITS  ----//
   $(".forgotten").click(checkIt);
   $(".forget").click(uncheckIt);
+}
+
+function dropChevron(){
+  if($(this).find("span").hasClass("icon-caret-up")){
+    console.log("has class");
+    $(this).find("span").removeClass("icon-caret-up");
+    $(this).find("span").addClass("icon-caret-down");
+  }else{
+    console.log("does not have class");
+    $(this).find("span").removeClass("icon-caret-down");
+    $(this).find("span").addClass("icon-caret-up");
+  }
 }
 
 function flipChevron(){

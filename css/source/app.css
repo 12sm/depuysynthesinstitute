@@ -466,6 +466,15 @@ ul#acc-menu6 li:first-child {
   -moz-box-shadow: -2px 3px 2px 0 rgba(000,000,000,.1);
 }
 
+<<<<<<< Updated upstream
+=======
+.singles-menu li.nav-profile,
+.singles-menu li.nav-favorites,
+.singles-menu li.nav-assignments {
+
+}
+
+>>>>>>> Stashed changes
 .singles-menu li.nav-home {
   list-style: none;
   -webkit-box-shadow: none!important;
@@ -1216,7 +1225,8 @@ h4.modal-title {
   max-width: 54px;
 }
 
-.modal-body .single-class span.pull-right.glyphicon.icon-caret-down {
+.modal-body .single-class span.pull-right.glyphicon.icon-caret-down,
+.modal-body .single-class span.pull-right.glyphicon.icon-caret-up {
   font-size: 12px;
   color: #949696;
   display: table-cell;
