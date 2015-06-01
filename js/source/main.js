@@ -357,9 +357,7 @@ function initDSI(role) {
   initSearchAutoSuggest();
 
   //----  CHEVRON FLIPS  ----//
-  $(".panel-title a").click(function(){
-    setTimeout(flipChevron, 3000);
-  });
+  setInterval(flipChevron, 250);
 
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
@@ -444,15 +442,15 @@ function initDSI(role) {
 function flipChevron(){
   console.log("This Hittin?");
   var spans = $("div.panel-group").find("a");
-  console.log(spans);
   for(var i = 0; i < spans.length; i++){
-    console.log("This Hittin?");
-    var panel = $(spans[i]).closest(".panel-default")[0];
-    console.log(panel);
-    if(!$(spans[i]).hasClass("collapsed")){
-      console.log("condition caught");
-      $(panel).find("span.iconFlipAll").removeClass("icon-caret-down");
-      $(panel).find("span.iconFlipAll").addClass("icon-caret-up");
+    // var panel = $(spans[i]).closest(".panel-default")[0];
+    // console.log(panel);
+    if($(spans[i]).hasClass("collapsed")){
+      $(spans[i]).find("span.iconFlipAll").removeClass("icon-caret-up");
+      $(spans[i]).find("span.iconFlipAll").addClass("icon-caret-down");
+    }else{
+      $(spans[i]).find("span.iconFlipAll").removeClass("icon-caret-down");
+      $(spans[i]).find("span.iconFlipAll").addClass("icon-caret-up");
     }
   }
 }
