@@ -261,6 +261,11 @@ ul#acc-menu5 li a:hover {
   width: 110%;
 }
 
+ul.list-unstyled.nav_list li.mobile-nav-break:hover {
+  box-shadow: inset -2px 0 2px 3px rgba(000,000,000,.1)!important;
+  background-color: transparent;
+}
+
 .mobile-nav {
   overflow:hidden;
 }
