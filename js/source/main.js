@@ -459,16 +459,33 @@ function flipChevron(){
 }
 
 function toggleCheckAll(){
-  var spans = $("div.panel-group").find("");
+  var spans = $("div.panel-group").find(".panel-body");
+  for(var i = 0; i < spans.length; i++){
+    var thisSpan = $(spans[i]).closest(".panel-default")[0];
+    var inputs = $(spans[i]).find("input");
+    for(var j = 0; j < inputs.length; j++){
+      if(!$(inputs[j]).prop("checked")){
+        $(thisSpan).find(".allChecked").removeAttr("checked");
+        break;
+      }else{
+        $(thisSpan).find(".allChecked").prop("checked", true);
+      }
+    }
+  }
 }
 
 function checkAll(){
+  console.log("This HITS");
   var panel = $(this).closest(".panel-default")[0];
+  console.log(panel);
   var body  = $(panel).find(".panel-body")[0];
-  if($(this).attr("checked")){
-    $(body).find()
+  console.log(body);
+  if($(this).prop("checked")){
+    console.log("checked");
+    $(body).find("input").prop("checked", true);
   }else{
-
+    $(body).find("input").removeAttr("checked");
+    console.log("not checked");
   }
 }
 
