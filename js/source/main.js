@@ -364,10 +364,15 @@ function initDSI(role) {
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
     $(".new-assignment-form").find(".seqNumber").removeClass("displayNoneSon");
+    $(".single-class").children(':first-child').next().removeClass("col-xs-11 col-md-11");
+    $(".single-class").children(':first-child').next().addClass("col-xs-9 col-md-10");
   });
   $("#noSeq").click(function(){
     $(".new-assignment-form").find(".seqNumber").addClass("displayNoneSon");
+    $(".single-class").children(':first-child').next().removeClass("col-xs-9 col-md-10");
+    $(".single-class").children(':first-child').next().addClass("col-xs-11 col-md-11");
   });
+
 
   //----  INVITE SENT TOGGLE  ----//
   $(".inviteAgain").click(toggleInvite);
