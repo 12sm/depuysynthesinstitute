@@ -709,16 +709,14 @@
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceEligible">
                     <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
                   </label>
                 </div>
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceNotEligible">
                     <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
                   </label>
                 </div>
@@ -945,16 +943,14 @@
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceEligible">
                     <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
                   </label>
                 </div>
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceNotEligible">
                     <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
                   </label>
                 </div>
@@ -1208,16 +1204,14 @@
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceEligible">
                     <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
                   </label>
                 </div>
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceNotEligible">
                     <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
                   </label>
                 </div>
@@ -1527,16 +1521,14 @@
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceEligible">
                     <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
                   </label>
                 </div>
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceNotEligible">
                     <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
                   </label>
                 </div>
@@ -1688,16 +1680,14 @@
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceEligible">
                     <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
                   </label>
                 </div>
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceNotEligible">
                     <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
                   </label>
                 </div>
@@ -1877,16 +1867,14 @@
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceEligible">
                     <p>I understand my academic institution/department compliance policies and I am <strong>fully eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e, textbooks, etc)</p>
                   </label>
                 </div>
                 <div class="checkbox">
                   <input type="hidden" name="allowCommFlgSet" value="1">
                   <label>
-                    <input class="sr-only" type="checkbox" value="1" name="complianceNotEligible">
-                    <span class="styled_checkbox"></span>
+                    <input type="checkbox" value="1" name="complianceNotEligible">
                     <p> I understand my academic institution/department compliance policies and I am <strong>not eligible</strong> to participate in the DePuy Synthes Future Leaders program including value transfers. (i.e,  textbooks, etc).</p>
                   </label>
                 </div>
