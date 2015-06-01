@@ -1453,7 +1453,7 @@
                 </label>
                 <div class="dropdown">
                   <select class="modalSelection" id="whatCountry">
-                    <option id="canada">Canada</option>
+                    <option id="canada" selected >Canada</option>
                     <option id="unitedStates">United States</option>
                   </select>
                 </div>
@@ -1513,7 +1513,7 @@
                 <label>
                   POSTAL CODE
                 </label>
-                <input type="text" placeholder="Zip Code">
+                <input type="text" placeholder="Postal Code">
               </div>
             </div>
             <div class="row">
@@ -1612,7 +1612,7 @@
                 </label>
                 <div class="dropdown">
                   <select class="modalSelection" id="whatCountry">
-                    <option id="canada">Canada</option>
+                    <option id="canada" selected >Canada</option>
                     <option id="unitedStates">United States</option>
                   </select>
                 </div>
@@ -1672,7 +1672,7 @@
                 <label>
                   POSTAL CODE
                 </label>
-                <input type="text" placeholder="Zip Code">
+                <input type="text" placeholder="Postal Code">
               </div>
             </div>
             <div class="row">
@@ -1799,7 +1799,7 @@
                 </label>
                 <div class="dropdown">
                   <select class="modalSelection" id="whatCountry">
-                    <option id="canada">Canada</option>
+                    <option id="canada" selected >Canada</option>
                     <option id="unitedStates">United States</option>
                   </select>
                 </div>
@@ -1859,7 +1859,7 @@
                 <label>
                   POSTAL CODE
                 </label>
-                <input type="text" placeholder="Zip Code">
+                <input type="text" placeholder="Postal Code">
               </div>
             </div>
             <div class="row">
@@ -1939,7 +1939,7 @@
                 </label>
                 <div class="dropdown">
                   <select class="modalSelection" id="whatCountry">
-                    <option id="canada">Canada</option>
+                    <option id="canada" selected >Canada</option>
                     <option id="unitedStates">United States</option>
                   </select>
                 </div>
@@ -1999,7 +1999,7 @@
                 <label>
                   POSTAL CODE
                 </label>
-                <input type="text" placeholder="Zip Code">
+                <input type="text" placeholder="Postal Code">
               </div>
             </div>
             <div class="row">
