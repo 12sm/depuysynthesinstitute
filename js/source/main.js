@@ -543,9 +543,11 @@ function checkIt(){
 var checkedAssign = 0;
 
 function uncheckIt(){
-  var that = $(this);
-  console.log(that);
+  var that = $(this)[0];
+
+  console.log($(this));
   console.log("1");
+  var attr = $(this).attr('id');
   var soString  = "#these-are-so-checked";
   var notString = "#these-are-not-checked";
   var ctElem = $(this).closest(".contention")[0];
@@ -565,7 +567,6 @@ function uncheckIt(){
       });
       $(".seq-cancel").click(function(){
         console.log("5");
-        $(that).prop("checked", false);
       });
     }else{
       console.log("7");
@@ -576,12 +577,11 @@ function uncheckIt(){
 
 function checker(content, elem, string){
   console.log("8");
-  var all = $(string).find("div");
+  var array  = $(string).find(".numberz");
   var value  = $(elem).find(".numberz")[0].innerHTML;
-  if(all.length === 0){
+  if(array.length === 0){
     $(string).append($(elem));
   }else{
-    var array = $(string).find(".numberz");
     for(var i = 0; i < array.length; i++){
       var digit = array[i].innerHTML;
       if(value < digit){
