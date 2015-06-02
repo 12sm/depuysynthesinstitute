@@ -356,13 +356,14 @@ function initDSI(role) {
   setupVideoPlayers();
   initSearchAutoSuggest();
 
+  //----  KNOWLEDGE CENTER MENU ICON  ----//
+  $(".nav_knowledge-center").click(flipArrow);
+
   //----  RESIDENT DROPDOWNS  ----//
   $("div.modal-body a.coll-butt").click(dropChevron)
-  $(".flipIconOne").removeClass("icon-caret-up");
-  $(this).find("span").addClass("icon-caret-down");
   setInterval(flipChevron, 200);
   setInterval(toggleCheckAll, 190);
-  $(".allChecked").click(checkAll);
+  $(".panel-title input").click(checkAll);
 
   //----  NEW SEQUENTIAL ASSIGNMENT TOGGLE  ----//
   $("#yesSeq").click(function(){
@@ -453,6 +454,18 @@ function initDSI(role) {
   $(".forget").click(uncheckIt);
 }
 
+function flipArrow(){
+  if($(this).find("span").hasClass("icon-arrow-up")){
+    console.log("has class");
+    $(this).find("span").removeClass("icon-arrow-up");
+    $(this).find("span").addClass("icon-arrow-down");
+  }else{
+    console.log("does not have class");
+    $(this).find("span").removeClass("icon-arrow-down");
+    $(this).find("span").addClass("icon-arrow-up");
+  }
+}
+
 function dropChevron(){
   if($(this).find("span").hasClass("icon-caret-up")){
     console.log("has class");
@@ -485,10 +498,10 @@ function toggleCheckAll(){
     var inputs = $(spans[i]).find("input");
     for(var j = 0; j < inputs.length; j++){
       if(!$(inputs[j]).prop("checked")){
-        $(thisSpan).find(".allChecked").removeAttr("checked");
+        $(thisSpan).find(".panel-title input").removeAttr("checked");
         break;
       }else{
-        $(thisSpan).find(".allChecked").prop("checked", true);
+        $(thisSpan).find(".panel-title input").prop("checked", true);
       }
     }
   }

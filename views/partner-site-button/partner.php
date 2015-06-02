@@ -46,7 +46,7 @@
                 <li class=""><a href="/favorites" class="">My Favorites<span class="pull-right glyphicon icon-favorites"></span></a></li>
                 <li class="active"><a href="/my-assignments" class="">My Assignments<span class="pull-right glyphicon icon-assignments"></span></a></li>
                 <li class=""><a href="/">Home<span class="pull-right glyphicon icon-home"></span></a></li>
-                <li class=""><a href="/knowledge-center" class="">Knowledge Center<span class="pull-right glyphicon icon-knowledge-center"></span></a></li>
+                <li class=""><a href="/knowledge-center" class="nav_knowledge-center">Knowledge Center<span class="pull-right glyphicon icon-knowledge-center"></span></a></li>
                 <li class=""><a href="/redemption-center" class="">Redemption Center<span class="pull-right glyphicon icon-redemption-center"></span></a></li>
                 <li class=""><a href="/graduation-resources" class="">Graduation Resources<span class="pull-right glyphicon icon-graduation-resources"></span></a></li>
                 <li class=""><a href="/external-resources" class="">External Resources<span class="pull-right glyphicon icon-external-resources"></span></a></li>

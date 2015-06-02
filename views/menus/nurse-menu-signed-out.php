@@ -63,17 +63,17 @@
               <div class="row">
 
                 <div class="col-xs-12 col-md-12">
-                 <div class="procedure clearfix">
-                   <div class="flag opaque" smt-uri="/views/my-assignments/single.php" smt-asset-type="MEDIABIN" smt-asset-id="150M2159_high"></div>
-                   <div class="row procedure_details">
-                        <h4>ORTHOPAEDICS</h4>
-                        <h3 class="procedure_description"><a href="/views/my-assignments/single.php">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A</a></h3>
-                   </div>
-                   <div class="row list-item-content">
-                     <div class="pull-left list-thumb">
-                       <img class="img-responsive list-item-thumbnail" src="/img/eLearning-eModule.png">
-                     </div>
-                     <div>
+                  <div class="procedure clearfix">
+                    <div class="flag opaque" smt-uri="/views/my-assignments/single.php" smt-asset-type="MEDIABIN" smt-asset-id="150M2159_high"></div>
+                    <div class="row procedure_details">
+                      <h4>ORTHOPAEDICS</h4>
+                      <h3 class="procedure_description"><a href="/views/my-assignments/single.php">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A</a></h3>
+                    </div>
+                    <div class="row list-item-content">
+                      <div class="pull-left list-thumb">
+                        <img class="img-responsive list-item-thumbnail" src="/img/eLearning-eModule.png">
+                      </div>
+                      <div>
                         <p class="list-item-type">
                           eLearning, 50 Credits</p>
                         <p class="list-item-excerpt">ORTHOCORD Suture and Anthroscopic Knot Tying CA#13038B/DJ12808A</p>

@@ -113,6 +113,10 @@ a {color:#003b5f;}
     content: "\e61a";
 }
 
+.icon-arrow-up:before {
+	content: "\e61b";
+}
+
 .icon-phone:before {
     content: "\e616";
 }
