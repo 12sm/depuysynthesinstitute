@@ -543,40 +543,27 @@ function checkIt(){
 var checkedAssign = 0;
 
 function uncheckIt(){
-  var that = $(this)[0];
-
-  console.log($(this));
-  console.log("1");
-  var attr = $(this).attr('id');
   var soString  = "#these-are-so-checked";
   var notString = "#these-are-not-checked";
   var ctElem = $(this).closest(".contention")[0];
   var scElem = $(this).closest(".single-class")[0];
   var firsty = $("#these-are-not-checked").children(':first-child')[0];
   if($(scElem).hasClass("grey-bg")){
-    console.log("2");
     checker(ctElem, scElem, notString);
   }else{
     if((checkedAssign === 0) && (firsty !== scElem)){
-      console.log("3");
       $('.bs-example-modal-sm').modal('show');
-      $(".seq-confirm").click(function(){
-        console.log("4");
+      $(".seq-confirm").unbind().click(function(){
         checkedAssign = 1;
         checker(ctElem, scElem, soString);
       });
-      $(".seq-cancel").click(function(){
-        console.log("5");
-      });
     }else{
-      console.log("7");
       checker(ctElem, scElem, soString);
     }
   }
 }
 
 function checker(content, elem, string){
-  console.log("8");
   var array  = $(string).find(".numberz");
   var value  = $(elem).find(".numberz")[0].innerHTML;
   if(array.length === 0){
