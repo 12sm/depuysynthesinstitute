@@ -357,10 +357,10 @@ function initDSI(role) {
   initSearchAutoSuggest();
 
   //----  KNOWLEDGE CENTER MENU ICON  ----//
-  $(".nav_knowledge-center").click(flipArrow);
+  $("li>a.nav_knowledge-center").click(flipArrow);
 
   //----  RESIDENT DROPDOWNS  ----//
-  $("div.modal-body a.coll-butt").click(dropChevron)
+  $("div>a.nav_knowledge-center").click(dropChevron)
   setInterval(flipChevron, 200);
   setInterval(toggleCheckAll, 190);
   $(".panel-title input").click(checkAll);
