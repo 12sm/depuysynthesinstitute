@@ -530,82 +530,46 @@ function checkIt(){
 var checkedAssign = 0;
 
 function uncheckIt(){
-  var fc = $(this).attr('id');
-  var fcElem = document.getElementById(fc);
-  var sc = $(this).closest(".single-class").attr('id');
-  var scElem = document.getElementById(sc);
-  $(fcElem).closest(".contention").toggleClass("grey-bg-content");
-  $(scElem).toggleClass("grey-bg");
-  var elem = $(this).closest(".single-class")[0];
-  if(document.getElementById("these-are-so-checked").contains(elem)){
-    $(that).prop('checked', false);
-    soChecked(elem);
+  var soString  = "#these-are-so-checked";
+  var notString = "#these-are-not-checked";
+  var ctElem = $(this).closest(".contention")[0];
+  var scElem = $(this).closest(".single-class")[0];
+  var firsty = $("#these-are-not-checked").children(':first-child')[0];
+  if($(scElem).hasClass("grey-bg")){
+    checker(ctElem, scElem, notString);
   }else{
-    $(that).prop('checked', true);
-    notChecked(elem);
-    if(checkedAssign === 0){
+    if((checkedAssign === 0) && (firsty !== scElem)){
       $('.bs-example-modal-sm').modal('show');
-      $(".seq-cancel").click(function(){
-        $(that).closest(".contention").removeClass("grey-bg-content");
-        $(that).closest(".single-class").removeClass("grey-bg");
-        $(that).prop('checked', false);
-        soChecked(elem);
-        checkedAssign = 0;
-      });
-      $("body").click(function(){
-        $(that).closest(".contention").removeClass("grey-bg-content");
-        $(that).closest(".single-class").removeClass("grey-bg");
-        $(that).prop('checked', false);
-        soChecked(elem);
-        checkedAssign = 0;
-      });
       $(".seq-confirm").click(function(){
         checkedAssign = 1;
-        // Ajax code for assignment completion form submission
+        checker(ctElem, scElem, soString);
       });
     }else{
-      checkedAssign = 1;
-      // Ajax code for assignment completion form submission
+      checker(ctElem, scElem, soString);
     }
   }
 }
 
-function notChecked(elem){
+function checker(content, elem, string){
+  var all = $(string).find("div");
   var value  = $(elem).find(".numberz")[0].innerHTML;
-  var deev   = document.getElementById("these-are-so-checked");
-  var object = $(deev).find(".numberz");
-  for(var i = 0; i < object.length; i++){
-    var digit = object[i].innerHTML;
-    if(value < digit){
-      var jazz = $(object)[i];
-      var rock = $(jazz).closest(".single-class")[0];
-      $(rock).before(elem);
-      break;
-    }else if((value > digit) && (i === object.length - 1)){
-      var jazz = $(object)[i];
-      var rock = $(jazz).closest(".single-class")[0];
-      $(rock).after(elem);
-      break;
+  if(all.length === 0){
+    $(string).append($(elem));
+  }else{
+    var array = $(string).find(".numberz");
+    for(var i = 0; i < array.length; i++){
+      var digit = array[i].innerHTML;
+      if(value < digit){
+        var under = $(array[i]).closest(".single-class")[0];
+        $(under).before($(elem));
+        break;
+      }else if((value > digit) && (i === array.length - 1)){
+        var over = $(array[i]).closest(".single-class")[0];
+        $(over).after($(elem));
+        break;
+      }
     }
   }
-}
-
-function soChecked(elem){
-  var value  = $(elem).find(".numberz")[0].innerHTML;
-  var deev   = document.getElementById("these-are-not-checked");
-  var object = $(deev).find(".numberz");
-  for(var i = 0; i < object.length; i++){
-    var digit = object[i].innerHTML;
-    if(value < digit){
-      var jazz = $(object)[i];
-      var rock = $(jazz).closest(".single-class")[0];
-      $(rock).before(elem);
-      break;
-    }else if((value > digit) && (i === object.length - 1)){
-      var jazz = $(object)[i];
-      var rock = $(jazz).closest(".single-class")[0];
-      $(rock).after(elem);
-      break;
-    }
-  }
+  $(content).toggleClass("grey-bg-content");
+  $(elem).toggleClass("grey-bg");
 }
